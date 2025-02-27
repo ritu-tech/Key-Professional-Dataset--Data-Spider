@@ -6,9 +6,8 @@ The Key Professional Dataset project aims to develop a comprehensive intelligenc
 
 The project involves designing and implementing a Web Crawler using Python to extract publicly available professional data, leveraging MySQL or other open-source relational databases for data organization and conducting quantitative analysis using PowerBI and Tableau. The insights derived will enhance institutional asset management firms ability to identify and engage key decision-makers efficiently.
 
-**Technologies**
+**Technologies & Tools Used**
 
-Python
-MySQL
-PowerBI
-Tableau
+- **Database:** MySQL
+- **Programming Languages:** SQL, Python
+- **Data Visualization:** Tableau, Power BI
