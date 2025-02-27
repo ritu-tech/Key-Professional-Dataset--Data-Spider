@@ -1,0 +1,502 @@
+companyID,personID,companyName,companySize,name,current_position,from_date,to_date,location
+31,1,"John Hancock Investment Management","501-1,000 employees","Matthew Miskin CFA","Company Name
+John Hancock Investment Management",NULL,NULL,NULL
+34,2,"China Asset Management Co., Ltd.","501-1,000 employees","Qingze (David) Lin","Company Name
+China Asset Management Co., Ltd.","7/1/2004 12:00:00 AM","5/1/2011 12:00:00 AM",Shanghai
+35,3,Swedbank,"10,001 employees","Tomas Bakutis, CFA","Fund Manager","11 yrs",NULL,"2 yrs 8 mos"
+36,4,"AMP Capital","1,001-5,000 employees","Claire (Staniforth) Talbot","Company Name
+AMP Capital",NULL,NULL,NULL
+37,5,"Bridgewater Associates","1,001-5,000 employees","Daniel Hochman","Company Name
+Bridgewater Associates","1/1/2010 12:00:00 AM","3/1/2010 12:00:00 AM","Westport, CT"
+37,6,"Bridgewater Associates","1,001-5,000 employees","Kevin Brennan","Company Name
+Bridgewater Associates","6/1/2001 12:00:00 AM","8/1/2001 12:00:00 AM","Washington, District Of Columbia"
+80,7,"Achmea Investment Management","201-500 employees","Lucas Bouwhuis","Senior Portfolio Manager",NULL,NULL,NULL
+80,8,"Achmea Investment Management","201-500 employees","Amir Saleem, CFA","Senior Portfolio Manager Fixed Income",NULL,NULL,NULL
+39,11,"Harris Associates","51-200 employees","Ben Nielson","Sr Investment Analyst","3/1/1998 12:00:00 AM","1/1/2000 12:00:00 AM","Greater Los Angeles Area"
+39,12,"Harris Associates","51-200 employees","Jeremy Thames","Investment Research Analyst",NULL,NULL,NULL
+40,13,"SURA Asset Management","5,001-10,000 employees","JosÃƒÂ© Carlos Justo","Equity Portfolio Manager","4 yrs",mos,"2 yrs"
+40,14,"SURA Asset Management","5,001-10,000 employees","Ignacio Calle Cuartas",CEO,NULL,NULL,NULL
+41,15,"ClearBridge Investments","201-500 employees","Daniel P. Finnegan","Company Name
+ClearBridge Investments","9/1/2007 12:00:00 AM","7/1/2011 12:00:00 AM","Stamford, CT"
+41,16,"ClearBridge Investments","201-500 employees","Aram Green","Portfolio Manager",NULL,NULL,NULL
+42,17,Candriam,"501-1,000 employees","Laetitia Nieuwenhuys, CAIA","Portfolio Manager","2/1/2014 12:00:00 AM","5/1/2014 12:00:00 AM",Luxembourg
+43,18,"KBC Asset Management","201-500 employees","Peter Vanwalleghem","Junior Asset Manager",NULL,NULL,NULL
+23,19,"KKR & Co. Inc.","1,001-5,000 employees","Ari Barkan","Managing Director, Client and Partner Group","8/1/1995 12:00:00 AM","8/1/1996 12:00:00 AM","Moscow, Russian Federation"
+1,20,"Guggenheim Investments","1001-5000 employees","Dina DiLorenzo","Chief Operating Officer",NULL,NULL,NULL
+23,21,"KKR & Co. Inc.","1,001-5,000 employees","Mitchell Lee","Managing Director & Co-Head of KKR Insurance Company Asset Management","6 yrs",mos,"5 yrs"
+8,22,SEB,"10,001 employees","Helena Bergstrom","Product Strategist, Alternatives","7/1/2010 12:00:00 AM","4/1/2013 12:00:00 AM","Sydney, Australia"
+7,23,"AQR Capital Management","501-1,000 employees","Alberto Botter","Company Name
+AQR Capital Management","7/1/2011 12:00:00 AM","4/1/2014 12:00:00 AM","Greater New York City Area"
+5,24,"Voya Investment Management","1,001-5,000 employees","Christine Hurtsellers","Company Name
+Voya Investment Management","10/1/1987 12:00:00 AM","8/1/1997 12:00:00 AM","Columbus, Ohio Area"
+3,26,"BNY Mellon","10,001 employees","Marcos Romo","Company Name
+BNY Mellon","5/1/2003 12:00:00 AM","8/1/2003 12:00:00 AM","Lewisville, Texas"
+4,27,"NN Investment Partners","1,001-5,000 employees","Patrick Wacker","Company Name
+NN Investment Partners","2/1/2002 12:00:00 AM","8/1/2006 12:00:00 AM","New York, NY"
+9,28,"Lazard Asset Management","501-1,000 employees","John King","Portfolio Manager","2/1/2005 12:00:00 AM","4/1/2007 12:00:00 AM","London, United Kingdom"
+9,29,"Lazard Asset Management","501-1,000 employees","Terence Brennan","Portfolio Manager","8/1/1999 12:00:00 AM","4/1/2016 12:00:00 AM","Greater New York City Area"
+10,30,"Santander Asset Management","501-1,000 employees","Jonathan Banks","Company Name
+Santander Asset Management UK","2006 Ã¢â‚¬â€œ",NULL,"Baker Street, London, UK"
+11,31,"Nikko Asset Management Group","501-1,000 employees","Aditya. Palwankar","Portfolio Manager",NULL,NULL,NULL
+11,32,"Nikko Asset Management Group","501-1,000 employees","EDWARD N.","Portfolio Manager","4/1/2007 12:00:00 AM","11/1/2009 12:00:00 AM",Singapore
+11,33,"Nikko Asset Management Group","501-1,000 employees","Ryuichiro Kuze, CFA","Senior Portfolio Manager","4/1/2000 12:00:00 AM","2/1/2004 12:00:00 AM","Tokyo, London"
+13,34,"Pictet Asset Management","501-1,000 employees","James Kenney, CFA","Company Name
+Pictet Asset Management",NULL,NULL,NULL
+13,35,"Pictet Asset Management","501-1,000 employees","Stephanie Clarke","Company Name
+Pictet Asset Management",NULL,NULL,NULL
+12,36,"The TCW Group","501-1,000 employees","Eric Chan, CPA","Senior Vice President",NULL,NULL,NULL
+12,37,"The TCW Group","501-1,000 employees","Thomas Lee","Portfolio Manager & Managing Director","6/1/1997 12:00:00 AM","9/1/2004 12:00:00 AM",Illinois
+15,38,"E Fund Management Co.,LTD.","501-1,000 employees","Justin YANG","Fixed Income Trader","6/1/2017 12:00:00 AM","8/1/2017 12:00:00 AM","Hong Kong"
+15,39,"E Fund Management Co.,LTD.","501-1,000 employees","Cecil Poon","Company Name
+E Fund Management (HK) Co., Ltd",NULL,NULL,NULL
+16,40,"Eastspring Investments","1,001-5,000 employees","George Hsin","Director, Commercial Relationships","1/1/2000 12:00:00 AM","3/1/2006 12:00:00 AM",Taiwan
+17,41,"Bradesco Asset Management","201-500 employees","Claudio Serra","Portfolio Manager",NULL,NULL,NULL
+17,42,"Bradesco Asset Management","201-500 employees","Ruth Walter, CFA","Fund of Funds","5 yrs",mos,"3 yrs 3 mos"
+19,45,"Bank J. Safra Sarasin Ltd","1,001-5,000 employees","Dan Bihi-Zenou","Chief Executive Officer, JSSREM","4/1/2016 12:00:00 AM","10/1/2019 12:00:00 AM","Geneva Area, Switzerland"
+19,46,"Bank J. Safra Sarasin Ltd","1,001-5,000 employees","Benjamin Zerbib",Director,NULL,NULL,NULL
+19,47,"Bank J. Safra Sarasin Ltd","1,001-5,000 employees","Bellen Chang","Managing Director","5/1/1997 12:00:00 AM","9/1/1999 12:00:00 AM","Hong Kong"
+20,48,"American Century Investments","1,001-5,000 employees","Jeff Smith, CFA","Company Name
+American Century Investments",NULL,NULL,NULL
+20,49,"American Century Investments","1,001-5,000 employees","Rich Weiss","Chief Investment Officer - Multi-Asset Strategies",NULL,NULL,NULL
+21,50,"Putnam Investments","1,001-5,000 employees","Joe Gaffney","Vice President",NULL,NULL,NULL
+22,51,"First State Investments","201-500 employees","Tony Huang","Senior Analyst, Investment Compliance","11/1/2012 12:00:00 AM","1/1/2015 12:00:00 AM","Sydney, Australia"
+22,52,"First State Investments","201-500 employees","Rizi Mohanty","Company Name
+First State Investments","8/1/2005 12:00:00 AM","7/1/2008 12:00:00 AM","New Delhi, Delhi, India"
+24,53,"Standish Mellon Asset Management Company","501-1,000 employees","Mike Faloon","Portfolio Manager",NULL,NULL,NULL
+24,54,"Standish Mellon Asset Management Company","501-1,000 employees","Michael Piersol","Emerging Markets Senior Bond Trader","9/1/2003 12:00:00 AM","9/1/2005 12:00:00 AM","Greater Boston Area"
+26,57,"GAM Investments","501-1,000 employees","Mark Pearce","Company Name
+GAM Investments","6/1/2002 12:00:00 AM","1/1/2003 12:00:00 AM","London, United Kingdom"
+26,58,"GAM Investments","501-1,000 employees","Tim Love","Investment Director","4/1/1998 12:00:00 AM","6/1/2001 12:00:00 AM","London, United Kingdom"
+27,59,"Lyxor Asset Management","501-1,000 employees","Catherine Thomas-Tkatchenko","Company Name
+Lyxor Asset Management","1/1/2007 12:00:00 AM","7/1/2007 12:00:00 AM","Paris Area, France"
+28,60,"Lord, Abbett & Co. LLC","501-1,000 employees","David Cormann","Company Name
+Lord, Abbett & Co. LLC",NULL,NULL,NULL
+28,61,"Lord, Abbett & Co. LLC","501-1,000 employees","Colleen Boccolini","Company Name
+Lord, Abbett & Co. LLC",NULL,NULL,NULL
+30,62,"Helaba Invest Kapitalanlagegesellschaft mbH","201-500 employees","Severin Testroet","Portfolio Manager High Yield","2/1/2012 12:00:00 AM","3/1/2012 12:00:00 AM","Frankfurt Am Main Area, Germany"
+31,63,"John Hancock Investment Management","501-1,000 employees","Andrew Arnott","President and CEO",NULL,NULL,NULL
+44,64,"Danske Bank","10,001 employees","Thomas Haugaard","Senior EM Economist/Portfolio Manager, Emerging Markets Debt",NULL,NULL,NULL
+45,65,"CIBC Asset Management","10,001 employees","David Wong, CFA, FRM","Company Name
+CIBC Asset Management","9 yrs",mos,"4 yrs 10 mos"
+45,66,"CIBC Asset Management","10,001 employees","Marius Dumitru","Company Name
+CIBC Asset Management - Investment accounting","7 yrs",mos,"7 yrs 2 mos"
+3,67,"BNY Mellon","10,001 employees","Qui Dang","Company Name
+BNY Mellon","13 yrs",mos,"7 yrs 3 mos"
+5,68,"Voya Investment Management","1,001-5,000 employees","Michael Pagano","Company Name
+Voya Investment Management",NULL,NULL,NULL
+10,69,"Santander Asset Management","501-1,000 employees","Francis Kidd","Director Middle Office","2014 Ã¢â‚¬â€œ",NULL,"London, United Kingdom"
+13,70,"Pictet Asset Management","501-1,000 employees","Alex Howson","Investment Manager","4/1/2020 12:00:00 AM",Present,"Geneva, Switzerland"
+13,71,"Pictet Asset Management","501-1,000 employees","Victor Verberk","Company Name
+Robeco","13 yrs",mos,"5 yrs"
+17,72,"Bradesco Asset Management","201-500 employees","Marcelo Nantes de Souza","Chief Investment Officer","2018 Ã¢â‚¬â€œ",NULL,"SÃƒÂ£o Paulo Area, Brazil"
+19,74,"Bank J. Safra Sarasin Ltd","1,001-5,000 employees","Jacky Cheung",Director,"4/1/2015 12:00:00 AM",Present,"Hong Kong"
+20,75,"American Century Investments","1,001-5,000 employees","Miguel Castillo","Company Name
+American Century Investments",NULL,NULL,NULL
+21,76,"Putnam Investments","1,001-5,000 employees","Oliver Grimson","Institutional Investment Director","10/1/2017 12:00:00 AM",Present,"London, United Kingdom"
+23,77,"KKR & Co. Inc.","1,001-5,000 employees","Erin Carlson","Credit - Asset Management",NULL,NULL,NULL
+78,78,"Banca Mediolanum","1,001-5,000 employees","Cosimo Chirico","Head of Credit Corporate","10/1/2017 12:00:00 AM",Present,"Head quarter - Basiglio (Mi)"
+78,79,"Banca Mediolanum","1,001-5,000 employees","Giuliana Gorla","Private Banker","11/1/2013 12:00:00 AM",Present,Italia
+77,80,"Metzler Asset Management","201-500 employees","Daniel Sailer, CESGA","Director ESG Strategy & Advisory","7/1/2019 12:00:00 AM",Present,"Frankfurt Am Main Area, Germany"
+77,81,"Metzler Asset Management","201-500 employees","Marian Moritz Frisch","Company Name
+Metzler Asset Management GmbH","11 yrs",mos,"5 yrs 4 mos"
+79,82,"Barrow, Hanley, Mewhinney & Strauss","51-200 employees","Rahul Bapna, CFA","Managing Director","6/1/2012 12:00:00 AM",Present,"Dallas-Fort Worth Metroplex"
+79,83,"Barrow, Hanley, Mewhinney & Strauss","51-200 employees","Stephanie Manter, CFA, CIPM","Managing Director",NULL,NULL,NULL
+76,84,"OP Financial Group","10,001 employees","Hannu Takala","Company Name
+OP Financial Group",NULL,NULL,NULL
+76,85,"OP Financial Group","10,001 employees","Petri VenÃƒÂ¤lÃƒÂ¤inen","Company Name
+OP Financial Group",NULL,NULL,NULL
+75,86,"Boston Partners Global Investors, Inc.","51-200 employees","Eric Gandhi","Company Name
+Boston Partners Global Investors, Inc.",NULL,NULL,NULL
+75,87,"Boston Partners Global Investors, Inc.","51-200 employees","Stephanie McGirr","Equity Analyst","6/1/2002 12:00:00 AM",Present,Boston
+74,88,"Fisher Investments","1,001-5,000 employees","Barbara Lotridge, CFPÃ‚Â®","Investment Counselor","6/1/2019 12:00:00 AM",Present,"Plano, TX"
+74,89,"Fisher Investments","1,001-5,000 employees","Ken Fisher","Executive Chairman and Co-Chief Investment Officer",NULL,NULL,NULL
+73,90,"New England Asset Management, Inc. (NEAM, Inc.)","51-200 employees","Vin DeLucia","Chief Investment Officer",NULL,NULL,NULL
+73,91,"New England Asset Management, Inc. (NEAM, Inc.)","51-200 employees","Hank Trzupek","Head Of Investment Accounting",NULL,NULL,NULL
+72,92,"Arrowstreet Capital, Limited Partnership","201-500 employees","John Capeci","Portfolio Manager","9/1/1999 12:00:00 AM",Present,"Boston, MA"
+72,93,"Arrowstreet Capital, Limited Partnership","201-500 employees","John Zakrzewski","Manager Operations and Reporting","9/1/2003 12:00:00 AM",Present,"Arrowstreet Capital"
+72,94,"Arrowstreet Capital, Limited Partnership","201-500 employees","Jason Rodowicz, CFA","Manager, Investment Services Group","6/1/2016 12:00:00 AM",Present,Boston
+71,95,"Acadian Asset Management","201-500 employees","Michael Ponikiewicz","VP, Portfolio Manager","2016 Ã¢â‚¬â€œ",NULL,"Boston, Massachusetts"
+71,96,"Acadian Asset Management","201-500 employees","Sean Geary","Company Name
+Acadian Asset Management",NULL,NULL,NULL
+70,97,"Hartford Investment Management Co. (HIMCO)","201-500 employees","Ian Rice","Portfolio Manager Ã¢â‚¬â€œ Private Equity",NULL,NULL,NULL
+70,98,"Hartford Investment Management Co. (HIMCO)","201-500 employees","Robert Crusha","Senior Portfolio Manager",NULL,NULL,NULL
+69,99,"Fiera Capital","501-1,000 employees","Michael Chan, CFA","Vice President and Senior Portfolio Manager","10/1/2008 12:00:00 AM",Present,"Toronto, Canada Area"
+69,100,"Fiera Capital","501-1,000 employees","Michael Quigley","Executive Vice President - Head of Institutional Markets","8/1/2019 12:00:00 AM",Present,"Montreal, Canada Area"
+68,101,"Oaktree Capital Management, L.P.","1,001-5,000 employees","Ryan Delaney","Managing Director, Head of Asset Management for Real Estate funds","9/1/2012 12:00:00 AM",Present,"Los Angeles, CA"
+68,102,"Oaktree Capital Management, L.P.","1,001-5,000 employees","Matthew Wilson","Portfolio Manager, Co-Head of Special Situations and Private Equity","2007 Ã¢â‚¬â€œ",NULL,"Los Angeles, CA"
+67,103,BayernInvest,"51-200 employees","Tim Schmidt","Company Name
+BayernInvest",NULL,NULL,NULL
+67,104,BayernInvest,"51-200 employees","Julia Dissmann, CFA","ESG Investment Strategist","10/1/2020 12:00:00 AM",Present,"Metropolregion MÃƒÂ¼nchen"
+66,105,"MacKay Shields LLC","201-500 employees","David Dowden","Portfolio Manager","9/1/2009 12:00:00 AM",Present,Princeton
+66,106,"MacKay Shields LLC","201-500 employees","Nate Hudson","Investment manager",NULL,NULL,NULL
+65,107,"CBRE Global Investors","501-1,000 employees","Tom Kirby","Asset Manager",NULL,NULL,NULL
+65,108,"CBRE Global Investors","501-1,000 employees","Justin Shanahan","Company Name
+CBRE Global Investors",NULL,NULL,NULL
+64,109,"Sumitomo Mitsui DS Asset Management Co., Ltd.","501-1,000 employees","Kok Wei Yap, CFA","Portfolio Manager","7/1/2016 12:00:00 AM",Present,"Hong Kong"
+64,110,"Sumitomo Mitsui DS Asset Management Co., Ltd.","501-1,000 employees","Kenji Hashizume","Senior Fund Manager",NULL,NULL,NULL
+63,111,"Ares Management Corporation","1,001-5,000 employees","Mark Liimatta","Vice President - Asset Manager","2011 Ã¢â‚¬â€œ",NULL,Chicago
+63,112,"Ares Management Corporation","1,001-5,000 employees","Kurt Baker","Vice President","7/1/2013 12:00:00 AM",Present,"Atlanta, Georgia"
+62,113,"Man Group","1,001-5,000 employees","Joel Thomas","Asset Manager","10/1/2016 12:00:00 AM",Present,"Charlotte, NC"
+62,114,"Man Group","1,001-5,000 employees","Nicole Scott","Company Name
+Man Group",NULL,NULL,NULL
+61,115,Hines,"1,001-5,000 employees","Rob Sims","Company Name
+Hines",NULL,NULL,NULL
+61,116,Hines,"1,001-5,000 employees","Will Rice","Company Name
+Hines",NULL,NULL,NULL
+59,118,"Anima SGR","201-500 employees","Carlo Majolo","Company Name
+Anima SGR","6 yrs",mos,"4 yrs 1 mo"
+59,119,"Anima SGR","201-500 employees","Dario Giacomelli","Company Name
+Anima SGR","5 yrs",NULL,"2 yrs 6 mos"
+58,120,"CI Financial","1,001-5,000 employees","Malcolm White","Portfolio Manager",NULL,NULL,NULL
+58,121,"CI Financial","1,001-5,000 employees","Jason Weyeneth, CFA","Vice President, Investor Relations & Corporate Strategy",NULL,NULL,NULL
+57,122,"First Eagle Investment Management","201-500 employees","Edward Meigs","Portfolio Manager",NULL,NULL,NULL
+57,123,"First Eagle Investment Management","201-500 employees","Julien Albertini","Portfolio Manager","4/1/2013 12:00:00 AM",Present,"Greater New York City Area"
+56,124,"Artisan Partners","201-500 employees","Charles Hamker","Company Name
+Artisan Partners",NULL,NULL,NULL
+56,125,"Artisan Partners","201-500 employees","Daniel Kane","Portfolio Manager",NULL,NULL,NULL
+55,126,"LSV Asset Management","11-50 employees","Guy Lakonishok","Partner and Portfolio Manager","6/1/2008 12:00:00 AM",Present,Chicago
+55,127,"LSV Asset Management","11-50 employees","Scott Kemper","Partner & Director, Client Portfolio Services","7/1/2006 12:00:00 AM",Present,"Chicago, Illinois, United States"
+54,128,"Payden & Rygel","51-200 employees","Eric Souders, CFA","Portfolio Manager - Absolute Return and Multi Asset","5/1/2017 12:00:00 AM",Present,"Los Angeles, California"
+54,129,"Payden & Rygel","51-200 employees","Tim Crawmer","Global Multi Asset Portfolio Manager","10/1/2017 12:00:00 AM",Present,"Greater Los Angeles Area"
+53,130,BBVA,"10,001 employees","Antonio Aita, CFA, FRM","Company Name
+BBVA Asset Management","10 yrs",mos,"7 yrs 5 mos"
+53,131,BBVA,"10,001 employees","Laura de Frutos","Company Name
+BBVA Asset Management","22 yrs",mos,"2 yrs 2 mos"
+52,132,"Groupama Asset Management","201-500 employees","Benjamin Huchet","Company Name
+Groupama Asset Management",NULL,NULL,NULL
+52,133,"Groupama Asset Management","201-500 employees","Jorge Julio","Portfolio Manager","9/1/2017 12:00:00 AM",Present,Paris
+51,134,Conning,"201-500 employees","Kevin Antaya, CFA","Portfolio Manager","12/1/2002 12:00:00 AM",Present,"Hartford, CT"
+51,135,Conning,"201-500 employees","Karen Kelleher","Portfolio Manager",NULL,NULL,NULL
+50,136,"Mirae Asset Global Investments","501-1,000 employees","Bill Sun","ETF Portfolio Manager","4/1/2018 12:00:00 AM",Present,"Hong Kong"
+50,137,"Mirae Asset Global Investments","501-1,000 employees","Saniel Chandrawat","Senior Investment Analyst","7/1/2014 12:00:00 AM",Present,"Hong Kong"
+48,140,"IGM Financial Inc.","5,001-10,000 employees","Nick Westlind","SVP, Associate General Counsel, Asset Management","1/1/2020 12:00:00 AM",Present,"Toronto, Ontario"
+48,141,"IGM Financial Inc.","5,001-10,000 employees","David Navachandrabala, CPA, CMA, MBA, PMP","Director, Portfolio Management","1/1/2019 12:00:00 AM",Present,"Toronto, Ontario, Canada"
+47,142,"Vontobel Asset Management","201-500 employees","Ramiz Chelat","Company Name
+Vontobel Asset Management","13 yrs",mos,"4 yrs 11 mos"
+47,143,"Vontobel Asset Management","201-500 employees","Daniele Bonomo","Company Name
+Vontobel Asset Management","3 yrs",mos,"2 yrs 7 mos"
+31,146,"John Hancock Investment Management","501-1,000 employees","Ivan Del Rio, CFA","Managing Director, Offshore Investments","3/1/2021 12:00:00 AM",Present,"Miami, Florida, United States"
+33,147,"Royal London Asset Management","201-500 employees","Keith Miller","Senior Fund Manager","1/1/1995 12:00:00 AM",Present,"London, United Kingdom"
+33,148,"Royal London Asset Management","201-500 employees","Ben Nicholl, CFA","Company Name
+Royal London Asset Management","13 yrs",mos,"2 yrs 1 mo"
+34,149,"China Asset Management Co., Ltd.","501-1,000 employees","Bohong (Jerry) Zheng","Company Name
+China Asset Management Co., Ltd.","5 yrs",mos,"3 yrs"
+35,150,Swedbank,"10,001 employees","Oskars Briedis, CFA","Fund Manager","7/1/2018 12:00:00 AM",Present,"Riga, Latvia"
+1,151,"Guggenheim Investments","1001-5000 employees","Adrian Bachman","Portfolio Manager, Director","8/1/2014 12:00:00 AM",Present,"Rockville, Maryland"
+1,152,"Guggenheim Investments","1001-5000 employees","Matthew Moran","Managing Director","2/1/2018 12:00:00 AM",Present,"New York, New York"
+4,153,"NN Investment Partners","1,001-5,000 employees","Niels Bodenheim","Head of Alternative Credit","1/1/2020 12:00:00 AM",Present,"The Hague Area, Netherlands"
+6,154,"Swiss Life Asset Managers","1,001-5,000 employees","Juerg Zimmermann","Head Corporate Development","2/1/2018 12:00:00 AM",Present,"Zurich, Switzerland"
+6,155,"Swiss Life Asset Managers","1,001-5,000 employees","Christian Kuhn, CFA","Company Name
+Swiss Life Asset Managers","13 yrs",mos,"8 yrs 10 mos"
+8,157,SEB,"10,001 employees","Daniel Murphy","Company Name
+SEB","11 yrs",mos,"5 yrs 4 mos"
+7,158,"AQR Capital Management","501-1,000 employees","Larry Fink","Chairman and Chief Executive Officer","1988 Ã¢â‚¬â€œ",NULL,"Greater New York City Area"
+16,159,"Eastspring Investments","1,001-5,000 employees","Anand Gupta","Portfolio Manager","2/1/2010 12:00:00 AM",Present,Singapore
+16,160,"Eastspring Investments","1,001-5,000 employees","Craig Bell","Director Global Asset Allocation","11/1/2017 12:00:00 AM",Present,Singapore
+21,161,"Putnam Investments","1,001-5,000 employees","Steve Horner, CFA","Company Name
+Putnam Investments","24 yrs",mos,"19 yrs"
+27,162,"Lyxor Asset Management","501-1,000 employees","Arthur Bernheim","Portfolio Manager","9/1/2019 12:00:00 AM",Present,"RÃƒÂ©gion de Paris, France"
+29,163,Talanx,"10,001 employees","Vivek Sapra","Senior Investment Advisor","4/1/2015 12:00:00 AM",Present,"Cologne Area, Germany"
+29,164,Talanx,"10,001 employees","Lars Stolpmann","Portfolio Manager - Indirect Real Estate/Infrastructure Investments","10/1/2018 12:00:00 AM",Present,Cologne
+30,165,"Helaba Invest Kapitalanlagegesellschaft mbH","201-500 employees","Peter Fehr","Senior Portfolio Manager","7/1/2020 12:00:00 AM",Present,"Frankfurt am Main, Hesse, Germany"
+14,166,Robeco,"501-1,000 employees","Richard Dehn","Investment Manager","5/1/2015 12:00:00 AM",Present,"Sydney, Australia"
+32,167,MN,"1,001-5,000 employees","Sebastiaan Ranner","Company Name
+MN","13 yrs",mos,"8 yrs 4 mos"
+42,168,Candriam,"501-1,000 employees","De Pauw Sabine","Fixed Income Asset Management Institutional Clients","1/1/2002 12:00:00 AM",Present,Brussel
+44,169,"Danske Bank","10,001 employees","Mikko Komi","Senior Portfolio Manager","4/1/2011 12:00:00 AM",Present,Helsinki
+43,170,"KBC Asset Management","201-500 employees","Darren Woods","Portfolio Manager","2018 Ã¢â‚¬â€œ",NULL,"Dublin, Ireland"
+1,171,"Guggenheim Investments","1001-5000 employees","Colman Slain","Investment Analyst","6/1/2019 12:00:00 AM",Present,"Santa Monica, California"
+14,172,Robeco,"501-1,000 employees","Richard Shuster","Portfolio Manager",NULL,NULL,NULL
+7,173,"AQR Capital Management","501-1,000 employees","Ari Levine",Principal,NULL,NULL,NULL
+161,176,BlackRock,"10,001+ employees","Hua Tang","Portfolio Manager/Director","9/1/2017 12:00:00 AM",Present,"Shanghai City, China"
+161,177,BlackRock,"10,001+ employees","Liz Twiney MRICS","Vice President Asset Manager","7/1/2016 12:00:00 AM",Present,London
+163,178,"State Street Global Advisors","1,001-5,000 employees","Ronald Berry","Vice President - Relationship Manager, Charitable Asset Management","6/1/2019 12:00:00 AM",Present,"Greater Boston Area"
+163,179,"State Street Global Advisors","1,001-5,000 employees","Michael Kane","Vice President - Investment Manager Real Estate","6/1/2017 12:00:00 AM",Present,"Western Region"
+164,180,"Fidelity Investments","10,001+ employees","Christopher Luongo, CFA","Institutional Portfolio Manager, Global Asset Allocation","11/1/2017 12:00:00 AM",Present,"Boston, Massachusetts"
+164,181,"Fidelity Investments","10,001+ employees","Courtney Sholler (She/Her)","Company Name
+Fidelity Investments",NULL,NULL,NULL
+165,182,"BNY Mellon Investment Management",NULL,"Christine Gill","Company Name
+BNY Mellon",NULL,NULL,NULL
+165,183,"BNY Mellon Investment Management",NULL,"Keith Collier, CFA","Company Name
+BNY Mellon","1/1/2021 12:00:00 AM",Present,NULL
+166,186,"J.P. Morgan Asset Management","10,001+ employees","Felise Agranoff, CFA","Research Analyst covering Industrials, Energy, Financials & Business Services for J.P. Morgan Mid & Small Cap funds","5/1/2014 12:00:00 AM"," Present",NULL
+166,187,"J.P. Morgan Asset Management","10,001+ employees","Joseph Knight","Company Name
+J.P. Morgan Asset Management",NULL,NULL,NULL
+167,188,PIMCO,"1,001-5,000 employees","Brent Jenkins","Senior Vice President","11/1/2014 12:00:00 AM",Present,"New York"
+167,189,PIMCO,"1,001-5,000 employees","Lillian Qian Lin","Senior Vice President Portfolio Manager",NULL,NULL,NULL
+169,192,"Prudential Financial","10,001+ employees","Michael Baker","Chief Technology Officer","4/1/2020 12:00:00 AM",Present,"Newark, New Jersey, United States"
+169,193,"Prudential Financial","10,001+ employees","Irma Simion MacFarlane","Director, Investment Research",NULL,NULL,NULL
+170,194,"Legal & General Investment Management (LGIM)","1,001-5,000 employees","Justin Onuekwusi","Fund Manager, Head of Retail Multi-Asset Funds","8/1/2013 12:00:00 AM",Present,"London, England"
+345,200,"Natixis Investment Managers","201-500 employees","Pia Sojo, CIMAÃ‚Â®","Managing Regional Director","4/1/2017 12:00:00 AM",Present,"Miami, Florida, Estados Unidos"
+173,200,"Natixis Investment Managers","201-500 employees","Pia Sojo, CIMAÃ‚Â®","Managing Regional Director","4/1/2017 12:00:00 AM",Present,"Miami, Florida, Estados Unidos"
+345,201,"Natixis Investment Managers","201-500 employees","Vladislav Grigorov, CFA","Portfolio Analyst","7/1/2017 12:00:00 AM",Present,"Greater Boston Area"
+173,201,"Natixis Investment Managers","201-500 employees","Vladislav Grigorov, CFA","Portfolio Analyst","7/1/2017 12:00:00 AM",Present,"Greater Boston Area"
+175,204,Nuveen,"1,001-5,000 employees","Mike Swink, CCIM, CPM","Asset Manager","6/1/2019 12:00:00 AM",Present,"Greater Atlanta Area"
+175,205,Nuveen,"1,001-5,000 employees","James Colon","Managing Director, Multi-Asset Portfolio Manager",NULL,NULL,NULL
+177,208,"Invesco US","5,001-10,000 employees","Spencer P.","Associate Asset Manager","8/1/2018 12:00:00 AM",Present,"Greater New York City Area"
+177,209,"Invesco US","5,001-10,000 employees","Noelle Corum, CFA","Company Name
+Invesco US",NULL,NULL,NULL
+178,211,"AXA Investment Managers","1,001-5,000 employees","Beatriz Ayuso Cortina","Company Name
+AXA Investment Managers",NULL,NULL,NULL
+179,212,"DWS Group","1,001-5,000 employees","Peter McNamara","Asset Manager","9/1/2017 12:00:00 AM",Present,London
+180,214,"Affiliated Managers Group","1,001-5,000 employees","Christopher Smith","Vice President, Risk Management and Internal Audit at Affiliated Managers Group
+",NULL,NULL,NULL
+180,215,"Affiliated Managers Group","1,001-5,000 employees","Simon Osborne","Vice President, Global Compliance at Affiliated Managers Group",NULL,NULL,NULL
+182,218,"Insight Investment","501-1,000 employees","Gauthier Mavinga LakÃƒÂ©","Company Name
+Insight Investment",NULL,NULL,NULL
+182,219,"Insight Investment","501-1,000 employees","Abhijit Korde","Portfolio Manager","2/1/2018 12:00:00 AM",Present,"London, United Kingdom"
+183,220,"Sumitomo Mitsui Trust Bank","10,001+ employees","Katsu Sakai","Senior Director",NULL,NULL,NULL
+183,221,"Sumitomo Mitsui Trust Bank","10,001+ employees","Albert Tew II","Senior Vice President, Americas Finance","10/1/2003 12:00:00 AM",Present,"1251 Avenue of the Americas, 22nd Floor, New York, NY 10020"
+184,222,"Aberdeen Standard Investments","5,001-10,000 employees","Gary Sleator","Senior Asset Manager at Aberdeen Standard Investments",NULL,NULL,NULL
+184,223,"Aberdeen Standard Investments","5,001-10,000 employees","Holly Mozley","Company Name
+Aberdeen Standard Investments",NULL,NULL,NULL
+186,226,"Franklin Templeton","5,001-10,000 employees","Adam Gorlyn","Company Name
+Franklin Templeton Investments",NULL,NULL,NULL
+186,227,"Franklin Templeton","5,001-10,000 employees","Mohit Jain",Manager,"5/1/2018 12:00:00 AM",Present,"New Delhi"
+187,228,"BNP Paribas Asset Management","1,001-5,000 employees","David Campbell, CFA","Portfolio Manager at BNP Paribas Asset Management
+",NULL,NULL,NULL
+187,229,"BNP Paribas Asset Management","1,001-5,000 employees","Zheyi Z.","Analyst/Portfolio Manager at BNP Paribas Asset Management",NULL,NULL,NULL
+188,230,MUFG,NULL,"Paulette H.","Software Asset Manager, AVP","8/1/2016 12:00:00 AM",Present,"United States"
+189,232,"Allianz Global Investors","1,001-5,000 employees","Gavin Counsell","Multi-Asset Fund Manager","8/1/2018 12:00:00 AM",Present,"London, United Kingdom"
+189,233,"Allianz Global Investors","1,001-5,000 employees","Claudio Marsala","Company Name
+Allianz Global Investors",NULL,NULL,NULL
+190,234,"MetLife Investment Management","501-1,000 employees","Stirling Simmons","Associate Director - Equity Asset Management","8/1/2017 12:00:00 AM",Present,"Atlanta, GA"
+190,235,"MetLife Investment Management","501-1,000 employees","James Williams III","Equity Asset Manager","3/1/2019 12:00:00 AM",Present,"Los Angeles, California"
+191,236,"Dimensional Fund Advisors","1,001-5,000 employees","Shawn Doty","Associate Portfolio Manager at Dimensional Fund Advisors
+",NULL,NULL,NULL
+191,237,"Dimensional Fund Advisors","1,001-5,000 employees","Jake Jolly, CFA","Portfolio Manager at Dimensional Fund Advisors",NULL,NULL,NULL
+192,238,Schroders,"5,001-10,000 employees","Annie O'Hara","Company Name
+Schroders",NULL,NULL,NULL
+192,239,Schroders,"5,001-10,000 employees","Alexander Cooke AssocRICS","Asset Manager","5/1/2019 12:00:00 AM",Present,"Manchester, United Kingdom"
+165,241,"BNY Mellon Investment Management",NULL,"Andy Provencher, CFA","Head of North American Distribution","3/1/2018 12:00:00 AM",Present,"New York, New York"
+194,242,APG,"1,001-5,000 employees","Sandy Miller","Senior Portfolio Manager - Focus Equities","1/1/2019 12:00:00 AM",Present,"New York, New York"
+194,243,APG,"1,001-5,000 employees","J. Michael McCarthy","Company Name
+APG Asset Management",NULL,NULL,NULL
+195,244,"Generali Investments","501-1,000 employees","Lorenzo Mainardis","Portfolio Officer",NULL,NULL,NULL
+195,245,"Generali Investments","501-1,000 employees","Massimo Spagnol","Company Name
+Generali Investments","10 yrs",mos,"1 yr 4 mos"
+196,246,AllianceBernstein,"1,001-5,000 employees","Christopher Mason, CFA","AVP, Product Manager - Multi-Asset Class","10/1/2019 12:00:00 AM",Present,"Nashville, Tennessee"
+196,247,AllianceBernstein,"1,001-5,000 employees","James Stewart","Company Name
+AllianceBernstein",NULL,NULL,NULL
+263,248,"New York Life Investments",NULL,"Jon Swaney","Managing Director",NULL,NULL,NULL
+239,248,"New York Life Investments",NULL,"Jon Swaney","Managing Director",NULL,NULL,NULL
+263,249,"New York Life Investments",NULL,"Dale Hanley","Managing Director - Chief Risk Officer","9/1/2015 12:00:00 AM",Present,"New York, NY"
+239,249,"New York Life Investments",NULL,"Dale Hanley","Managing Director - Chief Risk Officer","9/1/2015 12:00:00 AM",Present,"New York, NY"
+199,254,"MFS Investment Management","1,001-5,000 employees","Brian Doherty","Senior Asset Controller",NULL,NULL,NULL
+199,255,"MFS Investment Management","1,001-5,000 employees","Jon Sage, CFA","Company Name
+MFS Investment Management",NULL,NULL,NULL
+201,257,"Morgan Stanley Investment Management",NULL,"Ethan Miller","Asset Manager",NULL,NULL,NULL
+201,258,"Morgan Stanley Investment Management",NULL,"Sergei Parmenov","Portfolio Manager, Global Asset Allocation",NULL,NULL,NULL
+202,259,"Aviva Investors","1,001-5,000 employees","James Woodhouse","Asset Manager","3/1/2017 12:00:00 AM",Present,"London, United Kingdom"
+202,260,"Aviva Investors","1,001-5,000 employees","Julian Cobourne","Company Name
+Aviva Investors",NULL,NULL,NULL
+203,262,"M&G Investments","1,001-5,000 employees","Nwaebo Robert Ughaonu, CFA","Company Name
+M&G Investments",NULL,NULL,NULL
+205,264,"Principal Global Investors","1,001-5,000 employees","Becky Hiu","Company Name
+Principal Global Investors",NULL,NULL,NULL
+205,265,"Principal Global Investors","1,001-5,000 employees","Jenna de Souza","Company Name
+Principal Global Investors",NULL,NULL,NULL
+208,269,"Nomura Asset Management","1,001-5,000 employees","Huai Jhih Chang","Deputy Manager","3/1/2015 12:00:00 AM",Present,"Taipei City, Taiwan"
+208,270,"Nomura Asset Management","1,001-5,000 employees","Jian S.","Company Name
+Nomura Asset Management",NULL,NULL,NULL
+210,274,"Ostrum Asset Management","201-500 employees","Maroua HATIM","Market Risk Manager","11/1/2018 12:00:00 AM",Present,"RÃƒÂ©gion de Paris, France"
+211,275,"Charles Schwab","10,001+ employees","Anne Murphy, MBA","Manager - Asset Liability Management","12/1/2018 12:00:00 AM",Present,"Chicago, Illinois"
+212,277,"Federated Hermes","1,001-5,000 employees","Ann Ferentino, CFA","Portfolio Manager/Senior Investment Analyst",NULL,NULL,NULL
+212,278,"Federated Hermes","1,001-5,000 employees","Dana Meissner","Portfolio Manager",NULL,NULL,NULL
+216,283,"Union Investment","1,001-5,000 employees","Dennis Neumann","Company Name
+Union Investment",NULL,NULL,NULL
+216,284,"Union Investment","1,001-5,000 employees","Laura Kastner","Graduate Program | Digitalization in Real Estate","9/1/2020 12:00:00 AM",Present,"Hamburg, Deutschland"
+217,285,"Aegon Asset Management","1,001-5,000 employees","Hanbo Li","Asset Manager","8/1/2018 12:00:00 AM",Present,"Greater Chicago Area"
+219,289,"Mellon Capital","501-1,000 employees","Cristian DelSolar, CFA",Researcher,"9/1/2017 12:00:00 AM",Present,"San Francisco Bay Area"
+193,289,"Mellon Capital","501-1,000 employees","Cristian DelSolar, CFA",Researcher,"9/1/2017 12:00:00 AM",Present,"San Francisco Bay Area"
+219,290,"Mellon Capital","501-1,000 employees","Jun Shen","Company Name
+Mellon Capital",NULL,NULL,NULL
+193,290,"Mellon Capital","501-1,000 employees","Jun Shen","Company Name
+Mellon Capital",NULL,NULL,NULL
+222,295,Barings,"1,001-5,000 employees","Marlie Tepait","Asset Manager",NULL,NULL,NULL
+222,296,Barings,"1,001-5,000 employees","Christian Wood","Company Name
+Barings",NULL,NULL,NULL
+223,297,SEI,"1,001-5,000 employees","John Cronin","Director, US Asset Management at SEI",NULL,NULL,NULL
+223,298,SEI,"1,001-5,000 employees","John Csaszar, MBA, CFA","Company Name
+SEI",NULL,NULL,NULL
+224,299,"RBC Global Asset Management","1,001-5,000 employees","Alissa Howard, CAIA","Institutional Portfolio Manager","4/1/2020 12:00:00 AM",Present,"Boston, Massachusetts, United States"
+224,300,"RBC Global Asset Management","1,001-5,000 employees","Sean McCurley, CFA","Portfolio Manager","2/1/2018 12:00:00 AM",Present,"Toronto, Ontario, Canada"
+225,301,"Fidelity International","5,001-10,000 employees","Marco NÃƒÂ¤der","Company Name
+Fidelity International",NULL,NULL,NULL
+225,302,"Fidelity International","5,001-10,000 employees","George Efstathopoulos","Multi Asset Portfolio Manager","9/1/2011 12:00:00 AM",Present,Singapore
+226,303,"DekaBank Deutsche Girozentrale","1,001-5,000 employees","Dirk Pannewig","Company Name
+DekaBank Deutsche Girozentrale",NULL,NULL,NULL
+226,304,"DekaBank Deutsche Girozentrale","1,001-5,000 employees","Dr. Dominik Wolff","Head of Quantitative Research/ Portfolio Manager Asset Allocation","2/1/2016 12:00:00 AM",Present,"Frankfurt am Main, Deutschland"
+227,305,"Dodge & Cox","201-500 employees","Varinia Siefker","Company Name
+Dodge & Cox",NULL,NULL,NULL
+227,306,"Dodge & Cox","201-500 employees","Paul Cecconi, CIMAÃ‚Â®","Portfolio Manager","5/1/2019 12:00:00 AM",Present,"San Francisco Bay Area"
+228,307,MEAG,"501-1,000 employees","Ali Hassani","Portfolio Manager",NULL,NULL,NULL
+228,308,MEAG,"501-1,000 employees","Heiko Bosler MRICS","Asset Manager Immobilien","7/1/2017 12:00:00 AM",Present,"MÃƒÂ¼nchen und Umgebung, Deutschland"
+229,309,"Russell Investments","1,001-5,000 employees","Marc Larson","Company Name
+Russell Investments",NULL,NULL,NULL
+229,310,"Russell Investments","1,001-5,000 employees","Brett Deits","Senior Portfolio Manager","6/1/2010 12:00:00 AM",Present,Seattle
+231,313,"Stifel Financial Corp.","5,001-10,000 employees","James Perry","IT Asset Manager","1/1/2018 12:00:00 AM",Present,"Greater St. Louis Area"
+231,314,"Stifel Financial Corp.","5,001-10,000 employees","Robert Fenton","Vice President/Investments","5/1/2018 12:00:00 AM",Present,"Traverse City, Michigan"
+232,315,"Nordea Asset Management","501-1,000 employees","Olutayo Osunkunle, CFA","Company Name
+Nordea Asset Management",NULL,NULL,NULL
+232,316,"Nordea Asset Management","501-1,000 employees","Sunil George","Portfolio Manager and Senior Analyst",NULL,NULL,NULL
+233,317,PGGM,"1,001-5,000 employees","Talha Zafar, CFA","Investment Manager Private Equity","2/1/2021 12:00:00 AM",Present,Netherlands
+233,318,PGGM,"1,001-5,000 employees","Tanvi Karambelkar","Investment Manager",NULL,NULL,NULL
+235,321,"La Banque Postale Asset Management","51-200 employees","Alexandre Goudard","Company Name
+La Banque Postale Asset Management",NULL,NULL,NULL
+235,322,"La Banque Postale Asset Management","51-200 employees","Nicolas MEUSBURGER","Company Name
+LA BANQUE POSTALE ASSET MANAGEMENT",NULL,NULL,NULL
+236,323,"Loomis, Sayles & Company","501-1,000 employees","Peter Yanulis","Company Name
+Loomis, Sayles & Company",NULL,NULL,NULL
+236,324,"Loomis, Sayles & Company","501-1,000 employees","Heather Young, CFA","Company Name
+Loomis, Sayles & Company",NULL,NULL,NULL
+237,325,"Apollo Global Management Inc.","1,001-5,000 employees","Adriaan van der Knaap","Portfolio Manager","4/1/2016 12:00:00 AM",Present,"New York City"
+161,329,BlackRock,"10,001+ employees","Ajamu Stoner, MBA","CRE Asset Manager","6/1/2020 12:00:00 AM",Present,"Charlotte, North Carolina, United States"
+81,332,"Galliard Capital Management","51-200 employees","Nick Gage, CFA","Senior Principal","2008 â€“",NULL,"Greater Minneapolis-St. Paul Area"
+127,333,"Starwood Capital Group","1,001-5,000 employees","Sam Caven","Managing Director","5/11/2021 12:00:00 AM",Present,"San Francisco Bay Area"
+127,334,"Starwood Capital Group","1,001-5,000 employees","Richard Sidoti","Senior Manager of Portfolio Analytics",NULL,NULL,NULL
+88,335,"La FranÃ§aise","501-1,000 employees","Jamie Crockett","Investment Manager","7/18/2021 12:00:00 AM",Present,"London, United Kingdom"
+88,336,"La FranÃ§aise","501-1,000 employees","Alexander French","Investment Manager","9/16/2021 12:00:00 AM",Present,"London, United Kingdom"
+84,337,"OFI Asset Management","201-500 employees","Charles Haddad","Portfolio Manager","1/19/2021 12:00:00 AM",Present,"Paris Area, France"
+84,338,"OFI Asset Management","201-500 employees","Smail ZERROUKI","Portfolio Manager",NULL,NULL,NULL
+159,339,"Irish Life Investment Managers","51-200 employees","Alessandro Benatti","Settlements Administrator","9/19/2021 12:00:00 AM",Present,"County Dublin, Ireland"
+159,340,"Irish Life Investment Managers","51-200 employees","Leonie Mac Cann, CFA","Senior Portfolio Manager","7/20/2021 12:00:00 AM",Present,"Dublin, Ireland"
+95,341,"William Blair","1,001-5,000 employees","Christoph Wunn",Director,NULL,NULL,NULL
+95,342,"William Blair","1,001-5,000 employees","Charles Kurose","Investment Banking Vice President",NULL,NULL,NULL
+105,343,"Jupiter Asset Management","501-1,000 employees","Chris Mahoney","Fund Manager","7/20/2021 12:00:00 AM",Present,"London, England, United Kingdom"
+105,344,"Jupiter Asset Management","501-1,000 employees","David Lewis","Fund Manager",NULL,NULL,NULL
+102,350,Ashmore,"201-500 employees","Xin Xu","Portfolio Manager","10/8/2021 12:00:00 AM",Present,"London, United Kingdom"
+102,351,Ashmore,"201-500 employees","Emir Kapanci, CFA","Portfolio Manager",NULL,NULL,NULL
+107,352,CapitaLand,"10,001+ employees","Juzheng Chen","Manager, Investment and Business Development",NULL,NULL,NULL
+107,353,CapitaLand,"10,001+ employees","Kalyn Lim","Manager, Asset Management",NULL,NULL,NULL
+110,354,ACTIAM,"51-200 employees","Sebastiaan Masselink","Senior Investment Manager, Sustainable Energy Transition Fund","5/17/2021 12:00:00 AM",Present,"Utrecht Area, Netherlands"
+110,355,ACTIAM,"51-200 employees","Alexander Lubeck","Senior Investment Manager Energy Transition",NULL,NULL,NULL
+112,356,"Record Currency Management","51-200 employees","Dmitri Tikhonov","Head of Portfolio Management","18 yrs",mos,"12 yrs 1 mo"
+112,357,"Record Currency Management","51-200 employees","Philip Clements, CFA, CAIA","Associate Director, Client Team (North America)","9/16/2021 12:00:00 AM",Present,"New York, United States"
+114,358,"Cohen & Steers","201-500 employees","Yigal D. Jhirad","Senior Vice President",NULL,NULL,NULL
+114,359,"Cohen & Steers","201-500 employees","Robert Becker","Senior Vice President, Portfolio Manager","11/3/2021 12:00:00 AM",Present,"Greater New York City Area"
+116,360,"Marathon Asset Management","51-200 employees","Matt Russ, CFA","Managing Director",NULL,NULL,NULL
+116,361,"Marathon Asset Management","51-200 employees","Adam Conrad","Managing Director - Maritime Finance","2018 â€“",NULL,"Greater New York City Area"
+157,362,Heitman,"201-500 employees","Jennifer Boss","Portfolio Manager",NULL,NULL,NULL
+157,363,Heitman,"201-500 employees","Shruti Waghray","Senior Vice President",NULL,NULL,NULL
+151,366,"J O Hambro Capital Management","51-200 employees","Arun Daniel","Senior Portfolio Manager","7/14/2021 12:00:00 AM",Present,"Greater Boston"
+150,369,"SECOR Asset Management","11-50 employees","Ken Frier","Member Programming Advisory Council",NULL,NULL,NULL
+150,370,"SECOR Asset Management","11-50 employees","Scott Freemon","Partner, Head of Strategy and Risk","10/10/2021 12:00:00 AM",Present,"New York, NY"
+144,371,"Tishman Speyer","1,001-5,000 employees","Tony Birdsey","Senior Director",NULL,NULL,NULL
+144,372,"Tishman Speyer","1,001-5,000 employees","EB Kelly","Managing Director",NULL,NULL,NULL
+142,375,"Epoch Investment Partners, Inc.","51-200 employees","William W. Priest, CFA","Executive Chairman, Co-Chief Investment Officer and Portfolio Manager",NULL,NULL,NULL
+142,376,"Epoch Investment Partners, Inc.","51-200 employees","Juerg Fritschi","Managing Director | Head of Asia, Business Development & Client Servicing","10/20/2021 12:00:00 AM",Present,Singapore
+83,377,"PineBridge Investments","501-1,000 employees","Brian Conry","Company Name
+PineBridge Investments",NULL,NULL,NULL
+83,378,"PineBridge Investments","501-1,000 employees","Kate E. Faraday","Portfolio Manager, Global Equities, Managing Director",NULL,NULL,NULL
+85,379,"Rothschild & Co","1,001-5,000 employees","Arnaud Besse","Senior Portfolio Manager - Private Banking","9/15/2021 12:00:00 AM",Present,"Paris Area, France"
+85,380,"Rothschild & Co","1,001-5,000 employees","Michael Zhang",Director,"1/21/2021 12:00:00 AM",Present,"San Francisco Bay Area"
+86,381,Mesirow,"201-500 employees","Sean Fredrick Robertson","Senior Vice President Institutional Sales",NULL,NULL,NULL
+89,383,Prologis,"1,001-5,000 employees","Renee Carroll","Leasing Manager","6/15/2021 12:00:00 AM",Present,"Las Vegas, NV"
+89,384,Prologis,"1,001-5,000 employees","Adam Bray","Senior Leasing Manager","2/20/2021 12:00:00 AM",Present,"Houston, Texas Area"
+90,385,"Edmond de Rothschild","1,001-5,000 employees","Jean-Marc Schneebeli","Director - Senior Client Relationship Manager Independent Asset Managers","8/20/2021 12:00:00 AM",Present,"GenÃ¨ve, Suisse"
+90,386,"Edmond de Rothschild","1,001-5,000 employees","Adam Crickmore","Director, UK Commercial Fund Management","6/16/2021 12:00:00 AM",Present,London
+93,387,"Partners Group","1,001-5,000 employees","Christina Han-van der Meer","Private Equity, Senior Vice President","2018 â€“",NULL,"Zurich, Switzerland"
+94,388,"Brandywine Global Investment Management","201-500 employees","Celia Rodgers, CFA","Associate Portfolio Manager",NULL,NULL,NULL
+94,389,"Brandywine Global Investment Management","201-500 employees","Tariq Ahmad","Director & CEO, Asia",NULL,NULL,NULL
+160,390,"Hauck & AufhÃ¤user","501-1,000 employees","Karolina Bednarova","Relationship Manager Private Banking","10/19/2021 12:00:00 AM",Present,"Frankfurt am Main und Umgebung, Deutschland"
+160,391,"Hauck & AufhÃ¤user","501-1,000 employees","Madeleine Sander","Company Name
+Hauck & AufhÃ¤user",NULL,NULL,NULL
+96,392,"Newton Investment Management","201-500 employees","Mark Hammond","Head of Institutional Pooled Funds",NULL,NULL,NULL
+96,393,"Newton Investment Management","201-500 employees","KERRY WEST","Dividends administrator ( Aladdin project)","2/20/2021 12:00:00 AM",Present,"London, England, United Kingdom"
+98,394,"Kempen Capital Management","201-500 employees","Jeantine van der Feest","Senior Product Manager","3/20/2021 12:00:00 AM",Present,"Amsterdam, North Holland, Netherlands"
+99,396,"ODDO BHF ASSET MANAGEMENT SAS","51-200 employees","Pierre HACHET","Data Manager","9/19/2021 12:00:00 AM",Present,"DÃ¼sseldorf, North Rhine-Westphalia, Germany"
+103,397,"CVC Capital Partners","501-1,000 employees","Russ Trpkovski","Operating Partner","6/20/2021 12:00:00 AM",Present,"Chicago, Illinois, United States"
+103,398,"CVC Capital Partners","501-1,000 employees","Tomas Ekman",Partner,"12/14/2021 12:00:00 AM",Present,Stockholm
+106,399,"Walter Scott & Partners Ltd",NULL,"Richard Barry","Head of Executive Initiatives","1/20/2021 12:00:00 AM",Present,"Edinburgh City, Scotland, United Kingdom"
+106,400,"Walter Scott & Partners Ltd",NULL,"Craig McFarlane",Settlements,NULL,NULL,NULL
+108,401,QIC,"1,001-5,000 employees","Steve Roche","General Manager","7/20/2021 12:00:00 AM",Present,"New York, United States"
+108,402,QIC,"1,001-5,000 employees","Daniel O'Driscoll","Investment Manager",NULL,NULL,NULL
+111,405,"M.M.Warburg & CO","501-1,000 employees","Sven P. Hasenberg","Vice President | M&A and VC","10/16/2021 12:00:00 AM",Present,"Hamburg und Umgebung, Deutschland"
+111,406,"M.M.Warburg & CO","501-1,000 employees","Matthias Thiel","Portfolio Manager, Vice President (Multi Asset and Liquid Alternatives)","2/18/2021 12:00:00 AM",Present,"Hamburg Area, Germany"
+115,409,"LGT Capital Partners","501-1,000 employees","Barbara Brida","Executive Director","3/17/2021 12:00:00 AM",Present,"ZÃ¼rich Area, Switzerland"
+115,410,"LGT Capital Partners","501-1,000 employees","Pierre-Yves Moix","Chief Investment Officer, systematic strategies","9/18/2021 12:00:00 AM",Present,"PfÃ¤ffikon SZ, Switzerland"
+117,411,"CaixaBank Asset Management","51-200 employees","Jaime Garrido de la Parra","Director de Informacion de Mercados y Estrategia de Inversion. CESGA.","10/20/2021 12:00:00 AM",Present,"Madrid, Comunidad de Madrid, EspaÃ±a"
+120,412,"BlueBay Asset Management","201-500 employees","Camille Lancesseur","ESG Investment","6/17/2021 12:00:00 AM",Present,"London, United Kingdom"
+120,413,"BlueBay Asset Management","201-500 employees","Gaetano TROIANO","Senior Manager Regulatory Reporting",NULL,NULL,NULL
+124,416,"LaSalle Investment Management","501-1,000 employees","Jorge Paredes, CFA, MAI","Vice President","9/17/2021 12:00:00 AM",Present,"Chicago, IL"
+129,420,"CPR Asset Management","51-200 employees","Zakaria Darouich, CFA, CQF","Senior Portfolio Manager","2/19/2021 12:00:00 AM",Present,"Paris Area, France"
+129,421,"CPR Asset Management","51-200 employees","Nicolas Lacour","Head of Digital Marketing","7 yrs",mos,"4 yrs 2 mos"
+131,422,"W&W Investment Managers","11-50 employees","Debangan Misra","Head Of Technology ,Engineering Manager","6/18/2021 12:00:00 AM",Present,"Dublin, Leinster, Ireland"
+131,423,"W&W Investment Managers","11-50 employees","Deirdre O'Reilly FCA","Independent Non-Executive Director","6/20/2021 12:00:00 AM",Present,"London, England, United Kingdom"
+133,424,"PanAgora Asset Management","51-200 employees","Xiao Chen","Equity Investments - Stock Selector Group","7/15/2021 12:00:00 AM",Present,"Greater Boston Area"
+132,424,"PanAgora Asset Management","51-200 employees","Xiao Chen","Equity Investments - Stock Selector Group","7/15/2021 12:00:00 AM",Present,"Greater Boston Area"
+326,462,"Muzinich & Co","201-500 employees","Jen Reinglass","Head of Business Development, North America","2014 Ã¢â‚¬â€œ",NULL,"Greater New York City Area"
+304,480,"Investa Property Group","201-500 employees","Shaun Condon","Head of Environment and Safety","2006 Ã¢â‚¬â€œ",NULL,"Sydney, Australia"
+221,483,"Macquarie Group","10,001+ employees","Robert Brown","Investment Specialist","4/5/2021 12:00:00 AM","2/8/2021 12:00:00 AM","Sydney, Australia"
+247,497,"DJE Kapital AG","51-200 employees","Thorsten Schrieber","Company Name
+DJE Kapital AG","1/1/2021 12:00:00 AM","9/7/2021 12:00:00 AM",Pullach
+167,501,PIMCO,"1,001-5,000 employees","Jean Abillama, CFA","Global Sovereigns & Middle East Head","8/12/2021 12:00:00 AM","8/17/2021 12:00:00 AM","London, United Kingdom"
+376,521,"Martin Currie","51-200 employees","Jemma Launhardt-Gibb","Operational Risk Manager","2008 Ã¢â‚¬â€œ",NULL,"Edinburgh, United Kingdom"
+163,540,"State Street Global Advisors","1,001-5,000 employees","Ray G. Li","Junior Private Equity Analyst","1/16/2021 12:00:00 AM","6/16/2021 12:00:00 AM","Boston, Massachusetts"
+264,547,"KBI Global Investors","51-200 employees","David Hogarty","Head of Strategy Development, Senior Portfolio Manager","5/3/2021 12:00:00 AM",Present,"County Dublin, Ireland"
+321,589,"Shinhan Bank","10,001+ employees","Jay Jhaveri","Credit Manager","7/1/2016 12:00:00 AM",Present,"Mumbai, Maharashtra, India"
+324,592,"GW&K Investment Management","51-200 employees","Bryan Scott, CFA","Investment Manager","6/1/2009 12:00:00 AM",Present,"Naperville, IL"
+190,593,"MetLife Investment Management","501-1,000 employees","Scott Waterstredt, CFA","Managing Director/SVP","1/1/2019 12:00:00 AM",Present,"Whippany, NJ"
+326,594,"Muzinich & Co","201-500 employees","Brian Lieberman","Credit Analyst","8/1/2018 12:00:00 AM",Present,"New York, NY"
+328,595,"Quoniam Asset Management GmbH","51-200 employees","Dr. Philipp Weber","Equity Portfolio Manager","10/1/2017 12:00:00 AM",Present,"Frankfurt am Main"
+329,596,Alcentra,"51-200 employees","Chris Barris","Head of Global High Yield & Deputy CIO","1/1/2013 12:00:00 AM",Present,Boston
+330,597,Gothaer,"5,001-10,000 employees","Lidia Fido","CFO, Member of the Management Board","7/1/2017 12:00:00 AM",Present,"Warsaw, Masovian District, Poland"
+331,598,"Mirabaud Group","501-1,000 employees","Barone Daniele","Senior Portfolio Manager","1/1/2013 12:00:00 AM",Present,"ZÃƒÂ¼rich Area, Switzerland"
+333,600,"Stone Harbor Investment Partners","51-200 employees","Hunter Schwarz","Portfolio Manager/Analyst","4/1/2006 12:00:00 AM",Present,"New York, NY"
+335,602,"Intermediate Capital Group (ICG)","201-500 employees","Adam T. Goodman","Managing Director","2015 Ã¢â‚¬â€œ",NULL,"Greater New York City Area"
+336,603,"Adams Street Partners","201-500 employees","T. Scott White","Principal, Investor Relations","2/1/2019 12:00:00 AM",Present,"Greater Chicago Area"
+337,604,"Aegon Asset Management (formerly TKP Investments)","1,001-5,000 employees","Julia Vartik, CIPM","Reporting Analyst","12/1/2014 12:00:00 AM",Present,"Groningen, Netherlands"
+338,605,"HFT Investments","201-500 employees","karen k","Senior Manager","3/1/2015 12:00:00 AM",Present,"Ã¤Â¸Â­Ã¥â€ºÂ½ Ã¤Â¸Å Ã¦ÂµÂ·"
+339,606,"Brandes Investment Partners","201-500 employees","Oliver Murray","Managing Director","3/1/2002 12:00:00 AM",Present,"Greater San Diego Area"
+340,607,"DNCA Finance","51-200 employees","Daihao Peng","Equity & ESG Analyst","1/1/2021 12:00:00 AM",Present,"Paris, ÃƒÅ½le-de-France, France"
+341,608,InsingerGilissen,"201-500 employees","Chris Duindam","Portfolio Manager","8/1/2008 12:00:00 AM",Present,"Amsterdam Area, Netherlands"
+348,614,"Genesis Asset Management","2-10 employees","Ivan Aleksandrov","Managing Partner","12/1/2020 12:00:00 AM",Present,"Warsaw, Mazowieckie, Poland"
+349,615,Natixis,"10,001+ employees","Michael Bergin","Vice President","9/1/2015 12:00:00 AM",Present,"New York City"
+355,619,"First Quadrant","51-200 employees","Ian Swanson","Director, Investments","2010 Ã¢â‚¬â€œ",NULL,"Pasadena, CA"
+362,623,"Cheyne Capital","51-200 employees","Jeff Peate, CAIA","Managing Director, Business Development North America","9/1/2019 12:00:00 AM",Present,"Greater New York City Area"
+367,626,"BlueMountain Capital Management","51-200 employees","Hanna Morikami, CFA","Investment Professional","5/1/2018 12:00:00 AM",Present,"Greater New York City Area"
+369,628,"Landmark Partners","51-200 employees","Aidan DatenÃƒÂ©","Private Equity Analyst","7/1/2019 12:00:00 AM",Present,"New York, United States"
+371,630,"Calamos Investments","201-500 employees","Derek Olsen, CFA","Investment Management, Technology, and Operations","4/1/2001 12:00:00 AM",Present,"Naperville, Illinois"
+377,636,"ValueAct Capital","11-50 employees","Michael Dettmer",Associate,"8/1/2020 12:00:00 AM",Present,"San Francisco Bay Area"
+378,637,"Savills Investment Management","201-500 employees","Piotr TrzciÃ…â€žski, MRICS","Director, Head of Investment Poland","5/1/2017 12:00:00 AM",Present,"Warsaw, Masovian District, Poland"
+379,638,"C WorldWide Asset Management","51-200 employees","Abhinav Rathee","Portfolio Manager","8/1/2018 12:00:00 AM",Present,"Copenhagen Area, Capital Region, Denmark"
+384,643,"Syz Group","201-500 employees","Rajiv Shetty","Managing Director, SYZ Impact","10/1/2020 12:00:00 AM",Present,"Zurich, Switzerland"
+386,644,"Generation Investment Management","51-200 employees","Aobo Guo","Growth Equity Investor","3/1/2019 12:00:00 AM",Present,"San Francisco Bay Area"
+389,647,"Glenview Capital","51-200 employees","Kevin Hwang","Senior Analyst","8/1/2018 12:00:00 AM",Present,"New York, New York"
+391,649,"Royce Investment Partners","51-200 employees","William Hench","Portfolio Manager, Principal","6/1/2002 12:00:00 AM",Present,"New York"
+394,652,"EnTrust Global","51-200 employees","Matt Meissner","Vice President","9/1/2019 12:00:00 AM",Present,"Miami/Fort Lauderdale Area"
+321,657,"Shinhan Bank","10,001+ employees","Nhi Nguyen","Recruitment Sourcing Executive","2/1/2021 12:00:00 AM",Present,"Ho Chi Minh City, Vietnam"
+322,658,"Artemis Investment Management","201-500 employees","Ambrose Faulks","Fund Manager","7/1/2013 12:00:00 AM",Present,"London, United Kingdom"
+324,660,"GW&K Investment Management","51-200 employees","Siva Natarajan","Investment Analyst","2/1/2019 12:00:00 AM",Present,"Winter Park, Florida"
+190,661,"MetLife Investment Management","501-1,000 employees","John Wills CFA, CPA","Managing Director","7/1/2005 12:00:00 AM",Present,"Morristown, NJ"
+326,662,"Muzinich & Co","201-500 employees","Lorenzo Signorini","Director - Private Debt","4/1/2014 12:00:00 AM",Present,"Milan Area, Italy"
+328,664,"Quoniam Asset Management GmbH","51-200 employees","Xingyi Shi, CFA, FRM, CAIA","Senior Portfolio Manager Equities","1/1/2014 12:00:00 AM",Present,"Frankfurt am Main"
+329,665,Alcentra,"51-200 employees","Glenn A. Weiner, CFA","Managing Director, Head of Consultant Relations, Americas","7/1/2016 12:00:00 AM",Present,"New York"
+331,667,"Mirabaud Group","501-1,000 employees","Lucila Guelfi, CWMA","Relationship Manager","11/1/2018 12:00:00 AM",Present,"ZÃƒÂ¼rich Area, Switzerland"
+332,668,COMGEST,"51-200 employees","Charles Biderman","Portfolio Manager, Global Emerging Markets","10/1/2010 12:00:00 AM",Present,"Paris, ÃƒÅ½le-de-France, France"
+335,671,"Intermediate Capital Group (ICG)","201-500 employees","William O'Connell","Principal / Associate Director","2013 Ã¢â‚¬â€œ",NULL,"Greater New York City Area"
+340,675,"DNCA Finance","51-200 employees","Fabrice Paretti","Chief Marketing and Communication Officer","3/1/2015 12:00:00 AM",Present,"Paris Area, France"
+341,676,InsingerGilissen,"201-500 employees","Stefano Toffano, CFA","Senior Fund Manager","8/1/2014 12:00:00 AM",Present,"Amsterdam Area, Netherlands"
+344,678,"Beutel, Goodman & Company Ltd.","51-200 employees","Colin Ramkissoon","Portfolio Manager, Global Equities","2011 Ã¢â‚¬â€œ",NULL,"Toronto, Canada"
+346,680,"AGF Cross Channel Management","11-50 employees","Silvia Uggeri","Project Manager","1/1/2017 12:00:00 AM",Present,"San Giuliano Milanese"
+348,682,"Genesis Asset Management","2-10 employees","William Rhodes","Managing Director","1/1/2019 12:00:00 AM",Present,"Stockbridge, Georgia"
+353,686,"Banco Sabadell","10,001+ employees","Maria Urbano Zumalacarregui","Vice President Portfolio Management","10/1/2015 12:00:00 AM",Present,"Miami, Florida"
+355,688,"First Quadrant","51-200 employees","Vidit Ghai","Chief Strategy Officer (Key Initiatives & Partnerships)","3/1/2016 12:00:00 AM",Present,"Delhi / NCR"
+369,700,"Landmark Partners","51-200 employees","Kelli Keith","Private Equity","9/1/2019 12:00:00 AM",Present,"New York, New York"
+375,706,"Majedie Asset Management","51-200 employees","James Dudgeon","US Fund Analyst","1/1/2016 12:00:00 AM",Present,"London, United Kingdom"
+379,710,"C WorldWide Asset Management","51-200 employees","Mattias Kolm","Portfolio Manager","9/1/2012 12:00:00 AM",Present,"Copenhagen Area, Denmark"
+382,713,"H2O AM LLP","51-200 employees","Matthieu Genessay","Client Portfolio Manager, H2O AM LLP","8/1/2011 12:00:00 AM",Present,"London, Royaume-Uni"
+386,716,"Generation Investment Management","51-200 employees","Lila Preston","Head of Growth Equity","2004 Ã¢â‚¬â€œ",NULL,"San Francisco Bay Area"
+387,717,"Southeastern Asset Management","51-200 employees","Wade Donels","Senior Trader","7/1/2016 12:00:00 AM",Present,"Greater Memphis Area"
+388,718,"Veritas Asset Management LLP","11-50 employees","Guy Davidson","Investment Specialist","12/1/2018 12:00:00 AM",Present,"United Kingdom"
+394,722,"EnTrust Global","51-200 employees","Grace Miller","Vice President","11/1/2014 12:00:00 AM",Present,"Greater New York City Area"
+399,727,Sparinvest,"51-200 employees","Mette Harbo Bossow","Investment Manager","1/1/2012 12:00:00 AM",Present,Denmark
+321,729,"Shinhan Bank","10,001+ employees","Hyukrhin Kwon","Manager, Investment Banking Department","4/1/2011 12:00:00 AM",Present,"Jung-gu, Seoul, Korea"
+327,733,VidaCaixa,"501-1,000 employees","Ferran Bolet ArbÃƒÂ³s","Investment Project Manager","2/1/2017 12:00:00 AM",Present,"Barcelona Area, Spain"
+331,736,"Mirabaud Group","501-1,000 employees","Barone Daniele","Senior Portfolio Manager","1/1/2013 12:00:00 AM",Present,"ZÃƒÂ¼rich Area, Switzerland"
+332,737,COMGEST,"51-200 employees","Swati Madhabushi, CFA","Analyst/Portfolio Manager","5/1/2019 12:00:00 AM",Present,Singapore
+333,738,"Stone Harbor Investment Partners","51-200 employees","Kevin Beckley","Finance Department","6/1/2014 12:00:00 AM",Present,"31 W. 52nd Street 16th Floor New York, NY 10019"
+335,740,"Intermediate Capital Group (ICG)","201-500 employees","Matthew Lerner","Special Situations Private Equity","4/1/2020 12:00:00 AM",Present,"New York, NY"
+351,742,Winton,"201-500 employees","Nikesh Mistry","Strategy Engineer, Investment Management Team","10/1/2019 12:00:00 AM",Present,"London, United Kingdom"
+355,744,"First Quadrant","51-200 employees","Nihar R. Panda","Associate Director, Trading","5/1/2010 12:00:00 AM",Present,"pasadena, ca"

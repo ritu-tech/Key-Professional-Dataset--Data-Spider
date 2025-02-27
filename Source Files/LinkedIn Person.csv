@@ -1,0 +1,1040 @@
+personID,name,position,from_date,to_date,duration,location,current_position,url,company,datascrape
+1,"Matthew Miskin CFA","Data Integrity Analyst",NULL,NULL,NULL,NULL,"Company Name
+John Hancock Investment Management",https://www.linkedin.com/in/matthew-miskin,"John Hancock Investment Management","2021-03-24 23:06:22"
+2,"Qingze (David) Lin","Senior Customer Manager","Jul 2004","May 2011","6 yrs 11 mos",Shanghai,"Company Name
+China Asset Management Co., Ltd.",https://cn.linkedin.com/in/qingze-david-lin-4a823916/de,"China Asset Management Co., Ltd.","2021-03-25 11:28:13"
+3,"Tomas Bakutis, CFA","Company Name
+Swedbank Lietuvoje","11 yrs",,"Dec 2015 â€“ Jul 2018","2 yrs 8 mos","Fund Manager",https://lt.linkedin.com/in/tomas-bakutis-cfa,Swedbank,"2021-03-25 11:31:08"
+4,"Claire (Staniforth) Talbot","Fund Analyst",NULL,NULL,NULL,NULL,"Company Name
+AMP Capital",https://au.linkedin.com/in/claire-talbot-aba1ab30,"AMP Capital","2021-03-25 12:43:00"
+5,"Daniel Hochman","Intern (Investment Associate)","Jan 2010","Mar 2010","3 mos","Westport, CT","Company Name
+Bridgewater Associates",https://www.linkedin.com/in/daniel-hochman-8a05759,"Bridgewater Associates","2021-03-25 12:54:11"
+6,"Kevin Brennan",Analyst,"Jun 2001","Aug 2001","3 mos","Washington, District Of Columbia","Company Name
+Bridgewater Associates",https://www.linkedin.com/in/kevin-brennan-84aa41ab,"Bridgewater Associates","2021-03-25 12:55:49"
+7,"Lucas Bouwhuis","Company Name
+Henderson Global Investors",NULL,NULL,NULL,NULL,"Senior Portfolio Manager",https://uk.linkedin.com/in/lucas-bouwhuis-136a887,"Achmea Investment Management","2021-03-25 12:58:09"
+8,"Amir Saleem, CFA","Senior Consultant",NULL,NULL,NULL,NULL,"Senior Portfolio Manager Fixed Income",https://nl.linkedin.com/in/amir-saleem-cfa-28924711,"Achmea Investment Management","2021-03-25 13:00:11"
+9,"Vivienne Taberer","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://za.linkedin.com/in/vivienne-taberer-83a36a61,"Investec Investment Management","2021-03-25 13:02:25"
+10,"David McGillveray","Fund Manager",NULL,NULL,NULL,NULL,"Head of Investment Risk and Performance",https://uk.linkedin.com/in/david-mcgillveray-7a127417,"Investec Investment Management","2021-03-25 13:04:33"
+11,"Ben Nielson","Financial Analyst","Mar 1998","Jan 2000","1 yr 11 mos","Greater Los Angeles Area","Sr Investment Analyst",https://www.linkedin.com/in/ben-nielson-66627a8,"Harris Associates","2021-03-25 13:07:17"
+12,"Jeremy Thames","Financial Planning/Wealth Management Intern",NULL,NULL,NULL,NULL,"Investment Research Analyst",https://www.linkedin.com/in/jeremy-thames-27b6a467,"Harris Associates","2021-03-25 13:14:35"
+13,"JosÃ© Carlos Justo","Company Name
+PacÃ­fico Seguros","4 yrs",mos,"Feb 2018 â€“ Jan 2020","2 yrs","Equity Portfolio Manager",https://pe.linkedin.com/in/josecarlosjusto,"SURA Asset Management","2021-03-25 13:17:26"
+14,"Ignacio Calle Cuartas","Financial & Investments Manager",NULL,NULL,NULL,NULL,CEO,https://co.linkedin.com/in/igcalle,"SURA Asset Management","2021-03-25 13:19:07"
+15,"Daniel P. Finnegan",Associate,"Sep 2007","Jul 2011","3 yrs 11 mos","Stamford, CT","Company Name
+ClearBridge Investments",https://www.linkedin.com/in/daniel-p-finnegan-34506512,"ClearBridge Investments","2021-03-25 13:26:46"
+16,"Aram Green","EVP, Co-Founder",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/aramgreen,"ClearBridge Investments","2021-03-25 13:30:35"
+17,"Laetitia Nieuwenhuys, CAIA","Intern Portfolio Management","Feb 2014","May 2014","4 mos",Luxembourg,"Portfolio Manager",https://be.linkedin.com/in/laetitia-nieuwenhuys-caia-51975527/en-us,Candriam,"2021-03-25 13:32:33"
+18,"Peter Vanwalleghem","Junior Asset Manager",NULL,NULL,NULL,NULL,"Junior Asset Manager",https://be.linkedin.com/in/peter-vanwalleghem-09a65711,"KBC Asset Management","2021-03-25 13:36:53"
+19,"Ari Barkan","Oil and Gas Analyst","Aug 1995","Aug 1996","1 yr 1 mo","Moscow, Russian Federation","Managing Director, Client and Partner Group",https://www.linkedin.com/in/aribarkan,"KKR & Co. Inc.","2021-03-18 15:22:42"
+20,"Dina DiLorenzo","Partner - Private Wealth Management Team",NULL,NULL,NULL,NULL,"Chief Operating Officer",https://www.linkedin.com/in/dinadilorenzo,"Guggenheim Investments","2021-03-18 16:37:02"
+21,"Mitchell Lee","Company Name
+American Capital","6 yrs",mos,"Jan 2006 â€“ Dec 2010","5 yrs","Managing Director & Co-Head of KKR Insurance Company Asset Management",https://www.linkedin.com/in/mitchell-lee-1396649,"KKR & Co. Inc.","2021-03-18 17:11:37"
+22,"Helena Bergstrom","ESG Analyst","Jul 2010","Apr 2013","2 yrs 10 mos","Sydney, Australia","Product Strategist, Alternatives",https://www.linkedin.com/in/helena-bergstrom-9bb7765,SEB,"2021-03-19 00:39:07"
+23,"Alberto Botter","Quant Associate","Jul 2011","Apr 2014","2 yrs 10 mos","Greater New York City Area","Company Name
+AQR Capital Management",https://www.linkedin.com/in/alberto-botter-88b9551b,"AQR Capital Management","2021-03-19 00:51:38"
+24,"Christine Hurtsellers","Senior Portfolio Manager, MBS and securitized Products","Oct 1987","Aug 1997","9 yrs 11 mos","Columbus, Ohio Area","Company Name
+Voya Investment Management",https://www.linkedin.com/in/christine-hurtsellers,"Voya Investment Management","2021-03-19 01:01:39"
+25,"Alexander J. H. Molson",Associate,"May 2010","Aug 2010","4 mos","Montreal, Canada Area","Company Name
+Caisse de dÃ©pÃ´t et placement du QuÃ©bec (CDPQ)",https://ca.linkedin.com/in/alexmolson,"Caisse de dÃƒÂ©pÃƒÂ´t et placement du QuÃƒÂ©bec (CDPQ)","2021-03-24 01:20:17"
+26,"Marcos Romo","Accounts Payable Specialist","May 2003","Aug 2003","4 mos","Lewisville, Texas","Company Name
+BNY Mellon",https://www.linkedin.com/in/marcos-romo-dfw,"BNY Mellon","2021-03-24 01:41:53"
+27,"Patrick Wacker","Assistant Vice President, Corporate Banking","Feb 2002","Aug 2006","4 yrs 7 mos","New York, NY","Company Name
+NN Investment Partners",https://www.linkedin.com/in/patrickwacker,"NN Investment Partners","2021-03-24 01:45:06"
+28,"John King","Credit Risk Analyst","Feb 2005","Apr 2007","2 yrs 3 mos","London, United Kingdom","Portfolio Manager",https://www.linkedin.com/in/john-king-b3a66210b,"Lazard Asset Management","2021-03-24 02:01:20"
+29,"Terence Brennan","Portfolio Manager","Aug 1999","Apr 2016","16 yrs 9 mos","Greater New York City Area","Portfolio Manager",https://www.linkedin.com/in/terence-brennan-87b85822,"Lazard Asset Management","2021-03-24 02:03:20"
+30,"Jonathan Banks","Audit - Graduate Scheme","2006 â€“",,"1 yr","Baker Street, London, UK","Company Name
+Santander Asset Management UK",https://uk.linkedin.com/in/jonathan-banks-910b7a12,"Santander Asset Management","2021-03-24 02:12:39"
+31,"Aditya. Palwankar","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://sg.linkedin.com/in/aditya-palwankar-81303b24,"Nikko Asset Management Group","2021-03-24 02:21:47"
+32,"EDWARD N.","FX / Treasury Dealing","Apr 2007","Nov 2009","2 yrs 8 mos",Singapore,"Portfolio Manager",https://sg.linkedin.com/in/edward-n-9ba03198,"Nikko Asset Management Group","2021-03-24 02:26:36"
+33,"Ryuichiro Kuze, CFA",Analyst,"Apr 2000","Feb 2004","3 yrs 11 mos","Tokyo, London","Senior Portfolio Manager",https://sg.linkedin.com/in/ryuichiro-kuze-cfa-251a1b9,"Nikko Asset Management Group","2021-03-24 02:30:28"
+34,"James Kenney, CFA","Company Name
+Pictet Asset Management",NULL,NULL,NULL,NULL,"Company Name
+Pictet Asset Management",https://uk.linkedin.com/in/james-kenney-cfa-09095b50,"Pictet Asset Management","2021-03-24 02:33:41"
+35,"Stephanie Clarke",Associate,NULL,NULL,NULL,NULL,"Company Name
+Pictet Asset Management",https://uk.linkedin.com/in/stephclarke,"Pictet Asset Management","2021-03-24 02:35:44"
+36,"Eric Chan, CPA","Senior Investment Accountant",NULL,NULL,NULL,NULL,"Senior Vice President",https://www.linkedin.com/in/eric-chan-cpa-691ba958,"The TCW Group","2021-03-24 02:38:50"
+37,"Thomas Lee","Engineer/Product Manager/Market Analyst","Jun 1997","Sep 2004","7 yrs 4 mos",Illinois,"Portfolio Manager & Managing Director",https://www.linkedin.com/in/thomas-lee-1580155,"The TCW Group","2021-03-24 13:00:52"
+38,"Justin YANG","research summer analyst","Jun 2017","Aug 2017","3 mos","Hong Kong","Fixed Income Trader",https://hk.linkedin.com/in/justin-yang-490843107,"E Fund Management Co.,LTD.","2021-03-24 20:47:52"
+39,"Cecil Poon","Investment Analyst",NULL,NULL,NULL,NULL,"Company Name
+E Fund Management (HK) Co., Ltd",https://hk.linkedin.com/in/cecil-poon-3768006a,"E Fund Management Co.,LTD.","2021-03-24 20:54:15"
+40,"George Hsin","Deputy Manager","Jan 2000","Mar 2006","6 yrs 3 mos",Taiwan,"Director, Commercial Relationships",https://sg.linkedin.com/in/george-hsin-6784051b4,"Eastspring Investments","2021-03-24 20:57:34"
+41,"Claudio Serra","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://br.linkedin.com/in/claudio-serra-b491616a,"Bradesco Asset Management","2021-03-24 21:01:34"
+42,"Ruth Walter, CFA","Company Name
+BTG Pactual","5 yrs",mos,"Apr 2010 â€“ Jun 2013","3 yrs 3 mos","Fund of Funds",https://br.linkedin.com/in/ruth-walter-cfa-1616a813,"Bradesco Asset Management","2021-03-24 21:03:30"
+43,"Caio Rossoni","Senior Analyst â€“ Asset Management","Jul 2003","Aug 2004","1 yr 2 mos","Sao Paulo, Brazil","Portfolio Manager - Asset Management",https://www.linkedin.com/in/caio-rossoni-34608688,"ItaÃƒÂº Asset Management","2021-03-24 21:06:02"
+44,"Guy Fiumarelli","Manager / Senior Business Analyst",NULL,NULL,NULL,NULL,"COO / Head of Operations",https://www.linkedin.com/in/guyfiumarelli,"ItaÃƒÂº Asset Management","2021-03-24 21:08:08"
+45,"Dan Bihi-Zenou","Head real estate advisory West Switzerland","Apr 2016","Oct 2019","3 yrs 7 mos","Geneva Area, Switzerland","Chief Executive Officer, JSSREM",https://ch.linkedin.com/in/danbihizenou,"Bank J. Safra Sarasin Ltd","2021-03-24 21:13:06"
+46,"Benjamin Zerbib","OpÃ©rateur de marchÃ© - Brokerage on Futures",NULL,NULL,NULL,NULL,Director,https://mc.linkedin.com/in/benjamin-zerbib-8768a06,"Bank J. Safra Sarasin Ltd","2021-03-24 21:15:08"
+47,"Bellen Chang","Management Associate","May 1997","Sep 1999","2 yrs 5 mos","Hong Kong","Managing Director",https://hk.linkedin.com/in/bellen-chang-b3299298,"Bank J. Safra Sarasin Ltd","2021-03-24 21:17:43"
+48,"Jeff Smith, CFA","Mutual Fund Representative",NULL,NULL,NULL,NULL,"Company Name
+American Century Investments",https://www.linkedin.com/in/jeffsmithcfa,"American Century Investments","2021-03-24 21:22:00"
+49,"Rich Weiss","SENIOR INVESTMENT STRATEGIST AND SENIOR VICE PRESIDENT",NULL,NULL,NULL,NULL,"Chief Investment Officer - Multi-Asset Strategies",https://www.linkedin.com/in/rich-weiss-0271b116,"American Century Investments","2021-03-24 21:23:32"
+50,"Joe Gaffney","Vice President",NULL,NULL,NULL,NULL,"Vice President",https://www.linkedin.com/in/joe-gaffney-14603b11,"Putnam Investments","2021-03-24 21:26:14"
+51,"Tony Huang","Property Investment Manager","Nov 2012","Jan 2015","2 yrs 3 mos","Sydney, Australia","Senior Analyst, Investment Compliance",https://hk.linkedin.com/in/tonyjjhuang,"First State Investments","2021-03-24 21:29:32"
+52,"Rizi Mohanty","Business Analyst","Aug 2005","Jul 2008","3 yrs","New Delhi, Delhi, India","Company Name
+First State Investments",https://hk.linkedin.com/in/rizi-mohanty-0361025,"First State Investments","2021-03-24 21:38:46"
+53,"Mike Faloon","portfolio manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/mike-faloon-05b2b28,"Standish Mellon Asset Management Company","2021-03-24 21:43:29"
+54,"Michael Piersol","Senior Portfolio Analytics Analyst","Sep 2003","Sep 2005","2 yrs 1 mo","Greater Boston Area","Emerging Markets Senior Bond Trader",https://www.linkedin.com/in/michael-piersol-2ba69496,"Standish Mellon Asset Management Company","2021-03-24 22:11:35"
+55,"Bruno Wicki, CFA","Company Name
+Bank Leu (later to become Clariden Leu)","4 yrs",mos,"Jan 2001 â€“ Dec 2002","2 yrs","Company Name
+ZÃ¼rcher Kantonalbank",https://ch.linkedin.com/in/bruno-wicki-cfa-17887ab,"ZÃƒÂ¼rcher Kantonalbank","2021-03-24 22:22:46"
+56,"Christian Amos","Company Name
+Julius Baer","3 yrs",mos,"Jan 2005 â€“ Aug 2007","2 yrs 8 mos","Senior Risk Manager Asset Management",https://ch.linkedin.com/in/christianamos79,"ZÃƒÂ¼rcher Kantonalbank","2021-03-24 22:25:28"
+57,"Mark Pearce","Account Associate","Jun 2002","Jan 2003","8 mos","London, United Kingdom","Company Name
+GAM Investments",https://uk.linkedin.com/in/mark-pearce-b5437b13,"GAM Investments","2021-03-24 22:26:47"
+58,"Tim Love","MD - Chief Global Emerging Markets Equity Strategist","Apr 1998","Jun 2001","3 yrs 3 mos","London, United Kingdom","Investment Director",https://uk.linkedin.com/in/tim-love-57015180,"GAM Investments","2021-03-24 22:33:41"
+59,"Catherine Thomas-Tkatchenko","Equity Derivatives Analyst","Jan 2007","Jul 2007","7 mos","Paris Area, France","Company Name
+Lyxor Asset Management",https://fr.linkedin.com/in/catherinetkatchenko,"Lyxor Asset Management","2021-03-24 22:37:34"
+60,"David Cormann","Company Name
+Lord, Abbett & Co. LLC",NULL,NULL,NULL,NULL,"Company Name
+Lord, Abbett & Co. LLC",https://www.linkedin.com/in/david-cormann-9a7b0a19,"Lord, Abbett & Co. LLC","2021-03-24 22:41:28"
+61,"Colleen Boccolini","Senior Manager",NULL,NULL,NULL,NULL,"Company Name
+Lord, Abbett & Co. LLC",https://www.linkedin.com/in/colleen-boccolini-b9009b4,"Lord, Abbett & Co. LLC","2021-03-24 22:47:19"
+62,"Severin Testroet","Advisory Intern - Financial Services","Feb 2012","Mar 2012","2 mos","Frankfurt Am Main Area, Germany","Portfolio Manager High Yield",https://uk.linkedin.com/in/severin-testroet-41aa12b1,"Helaba Invest Kapitalanlagegesellschaft mbH","2021-03-24 22:59:19"
+63,"Andrew Arnott","Company Name
+John Hancock",NULL,NULL,NULL,NULL,"President and CEO",https://www.linkedin.com/in/andrew-g-arnott,"John Hancock Investment Management","2021-03-24 23:04:45"
+64,"Thomas Haugaard","External Lecturer, Economics",NULL,NULL,NULL,NULL,"Senior EM Economist/Portfolio Manager, Emerging Markets Debt",https://dk.linkedin.com/in/thomashaugaardjensen,"Danske Bank","2021-03-27 02:05:22"
+65,"David Wong, CFA, FRM","Company Name
+CIBC Asset Management","9 yrs",mos,"Jun 2016 â€“ Present","4 yrs 10 mos","Company Name
+CIBC Asset Management",https://ca.linkedin.com/in/david-wong-cfa-frm-2461999,"CIBC Asset Management","2021-03-31 01:04:42"
+66,"Marius Dumitru","Company Name
+CIBC Asset Management - Investment accounting","7 yrs",mos,"Feb 2014 â€“ Present","7 yrs 2 mos","Company Name
+CIBC Asset Management - Investment accounting",https://ca.linkedin.com/in/mldumitru,"CIBC Asset Management","2021-03-31 01:05:22"
+67,"Qui Dang","Company Name
+BNY Mellon","13 yrs",mos,"Feb 2014 â€“ Present","7 yrs 3 mos","Company Name
+BNY Mellon",https://www.linkedin.com/in/quidang/,"BNY Mellon","2021-04-02 23:28:04"
+68,"Michael Pagano","Company Name
+Voya Investment Management",NULL,NULL,NULL,NULL,"Company Name
+Voya Investment Management",https://www.linkedin.com/in/michael-pagano-b9618213,"Voya Investment Management","2021-04-02 23:47:53"
+69,"Francis Kidd","Director Middle Office","2014 â€“",,"7 yrs","London, United Kingdom","Director Middle Office",https://uk.linkedin.com/in/francis-kidd-03172510,"Santander Asset Management","2021-04-03 00:22:18"
+70,"Alex Howson","Investment Manager","Apr 2020",Present,"1 yr 1 mo","Geneva, Switzerland","Investment Manager",https://www.linkedin.com/in/alex-howson-4802aa35,"Pictet Asset Management","2021-04-03 00:32:36"
+71,"Victor Verberk","Company Name
+Robeco","13 yrs",mos,"2016 â€“ Present","5 yrs","Company Name
+Robeco",https://nl.linkedin.com/in/victor-verberk-4649a37,"Pictet Asset Management","2021-04-03 00:35:35"
+72,"Marcelo Nantes de Souza","Chief Investment Officer","2018 â€“",,"3 yrs","SÃ£o Paulo Area, Brazil","Chief Investment Officer",https://www.linkedin.com/in/marcelo-nantes-de-souza-86b103,"Bradesco Asset Management","2021-04-03 00:40:03"
+73,"Renato Eid Tucci","Portfolio Manager","Oct 2016",Present,"4 yrs 7 mos","SÃ£o Paulo e RegiÃ£o, Brasil","Portfolio Manager",https://br.linkedin.com/in/renato-eid-tucci-7bb80328,"ItaÃƒÂº Asset Management","2021-04-03 00:48:37"
+74,"Jacky Cheung",Director,"Apr 2015",Present,"6 yrs 1 mo","Hong Kong",Director,https://hk.linkedin.com/in/jacky-cheung-aa160639,"Bank J. Safra Sarasin Ltd","2021-04-03 00:58:12"
+75,"Miguel Castillo","Company Name
+American Century Investments",NULL,NULL,NULL,NULL,"Company Name
+American Century Investments",https://www.linkedin.com/in/miguel-castillo-70312391,"American Century Investments","2021-04-03 01:11:06"
+76,"Oliver Grimson","Institutional Investment Director","Oct 2017",Present,"3 yrs 7 mos","London, United Kingdom","Institutional Investment Director",https://uk.linkedin.com/in/oliver-grimson-ab303b23,"Putnam Investments","2021-04-03 01:14:08"
+77,"Erin Carlson","Credit - Asset Management",NULL,NULL,NULL,NULL,"Credit - Asset Management",https://www.linkedin.com/in/erin-carlson-3a57b424,"KKR & Co. Inc.","2021-04-03 01:18:15"
+78,"Cosimo Chirico","Head of Credit Corporate","Oct 2017",Present,"3 yrs 7 mos","Head quarter - Basiglio (Mi)","Head of Credit Corporate",https://it.linkedin.com/in/cosimo-chirico-a26a615,"Banca Mediolanum","2021-04-03 01:27:18"
+79,"Giuliana Gorla","Private Banker","Nov 2013",Present,"7 yrs 6 mos",Italia,"Private Banker",https://it.linkedin.com/in/giulianagorla,"Banca Mediolanum","2021-04-03 01:27:55"
+80,"Daniel Sailer, CESGA","Director ESG Strategy & Advisory","Jul 2019",Present,"1 yr 10 mos","Frankfurt Am Main Area, Germany","Director ESG Strategy & Advisory",https://de.linkedin.com/in/daniel-sailer/en-us,"Metzler Asset Management","2021-04-03 01:33:08"
+81,"Marian Moritz Frisch","Company Name
+Metzler Asset Management GmbH","11 yrs",mos,"Jan 2016 â€“ Present","5 yrs 4 mos","Company Name
+Metzler Asset Management GmbH",https://de.linkedin.com/in/marianmoritzfrisch,"Metzler Asset Management","2021-04-03 01:33:54"
+82,"Rahul Bapna, CFA","Managing Director","Jun 2012",Present,"8 yrs 11 mos","Dallas-Fort Worth Metroplex","Managing Director",https://www.linkedin.com/in/rahul-bapna-cfa-4972202,"Barrow, Hanley, Mewhinney & Strauss","2021-04-03 01:43:03"
+83,"Stephanie Manter, CFA, CIPM","Managing Director",NULL,NULL,NULL,NULL,"Managing Director",https://www.linkedin.com/in/stephanie-manter-cfa-cipm-aa840334,"Barrow, Hanley, Mewhinney & Strauss","2021-04-03 01:43:46"
+84,"Hannu Takala","Company Name
+OP Financial Group",NULL,NULL,NULL,NULL,"Company Name
+OP Financial Group",https://fi.linkedin.com/in/hannutakala,"OP Financial Group","2021-04-03 01:46:46"
+85,"Petri VenÃ¤lÃ¤inen","Company Name
+OP Financial Group",NULL,NULL,NULL,NULL,"Company Name
+OP Financial Group",https://fi.linkedin.com/in/petri-ven%C3%A4l%C3%A4inen-891b532,"OP Financial Group","2021-04-03 01:47:30"
+86,"Eric Gandhi","Company Name
+Boston Partners Global Investors, Inc.",NULL,NULL,NULL,NULL,"Company Name
+Boston Partners Global Investors, Inc.",https://www.linkedin.com/in/egandhi,"Boston Partners Global Investors, Inc.","2021-04-03 01:50:59"
+87,"Stephanie McGirr","Equity Analyst","Jun 2002",Present,"18 yrs 11 mos",Boston,"Equity Analyst",https://www.linkedin.com/in/stephanie-mcgirr-a87451105,"Boston Partners Global Investors, Inc.","2021-04-03 01:51:41"
+88,"Barbara Lotridge, CFPÂ®","Investment Counselor","Jun 2019",Present,"1 yr 11 mos","Plano, TX","Investment Counselor",https://www.linkedin.com/in/barbara-lotridge-cfp%C2%AE-548b042b,"Fisher Investments","2021-04-03 01:54:36"
+89,"Ken Fisher","Executive Chairman and Co-Chief Investment Officer",NULL,NULL,NULL,NULL,"Executive Chairman and Co-Chief Investment Officer",https://www.linkedin.com/in/ken-fisher,"Fisher Investments","2021-04-03 01:58:18"
+90,"Vin DeLucia","Chief Investment Officer",NULL,NULL,NULL,NULL,"Chief Investment Officer",https://www.linkedin.com/in/vin-delucia-5b783529,"New England Asset Management, Inc. (NEAM, Inc.)","2021-04-03 02:01:37"
+91,"Hank Trzupek","Head Of Investment Accounting",NULL,NULL,NULL,NULL,"Head Of Investment Accounting",https://www.linkedin.com/in/hank-trzupek-0b60091aa,"New England Asset Management, Inc. (NEAM, Inc.)","2021-04-03 02:02:22"
+92,"John Capeci","Portfolio Manager","Sep 1999",Present,"21 yrs 8 mos","Boston, MA","Portfolio Manager",https://www.linkedin.com/in/john-capeci-9695826,"Arrowstreet Capital, Limited Partnership","2021-04-03 02:07:34"
+93,"John Zakrzewski","Manager Operations and Reporting","Sep 2003",Present,"17 yrs 8 mos","Arrowstreet Capital","Manager Operations and Reporting",https://www.linkedin.com/in/john-zakrzewski-03a10421,"Arrowstreet Capital, Limited Partnership","2021-04-03 02:08:18"
+94,"Jason Rodowicz, CFA","Manager, Investment Services Group","Jun 2016",Present,"4 yrs 11 mos",Boston,"Manager, Investment Services Group",https://www.linkedin.com/in/jason-rodowicz-cfa-4943aa9,"Arrowstreet Capital, Limited Partnership","2021-04-03 02:09:02"
+95,"Michael Ponikiewicz","VP, Portfolio Manager","2016 â€“",,"5 yrs","Boston, Massachusetts","VP, Portfolio Manager",https://www.linkedin.com/in/ponikiewicz,"Acadian Asset Management","2021-04-03 02:11:52"
+96,"Sean Geary","Company Name
+Acadian Asset Management",NULL,NULL,NULL,NULL,"Company Name
+Acadian Asset Management",https://www.linkedin.com/in/seangeary,"Acadian Asset Management","2021-04-03 02:12:34"
+97,"Ian Rice","Portfolio Manager â€“ Private Equity",NULL,NULL,NULL,NULL,"Portfolio Manager â€“ Private Equity",https://www.linkedin.com/in/ian-rice-74b639,"Hartford Investment Management Co. (HIMCO)","2021-04-03 02:15:43"
+98,"Robert Crusha","Senior Portfolio Manager",NULL,NULL,NULL,NULL,"Senior Portfolio Manager",https://www.linkedin.com/in/robert-crusha-bbaa43103,"Hartford Investment Management Co. (HIMCO)","2021-04-03 02:16:28"
+99,"Michael Chan, CFA","Vice President and Senior Portfolio Manager","Oct 2008",Present,"12 yrs 7 mos","Toronto, Canada Area","Vice President and Senior Portfolio Manager",https://ca.linkedin.com/in/michaelwilliamchan,"Fiera Capital","2021-04-03 02:20:11"
+100,"Michael Quigley","Executive Vice President - Head of Institutional Markets","Aug 2019",Present,"1 yr 9 mos","Montreal, Canada Area","Executive Vice President - Head of Institutional Markets",https://ca.linkedin.com/in/michael-quigley-61043610,"Fiera Capital","2021-04-03 02:22:14"
+101,"Ryan Delaney","Managing Director, Head of Asset Management for Real Estate funds","Sep 2012",Present,"8 yrs 8 mos","Los Angeles, CA","Managing Director, Head of Asset Management for Real Estate funds",https://www.linkedin.com/in/ryan-delaney-a049314,"Oaktree Capital Management, L.P.","2021-04-03 02:28:51"
+102,"Matthew Wilson","Portfolio Manager, Co-Head of Special Situations and Private Equity","2007 â€“",,"14 yrs","Los Angeles, CA","Portfolio Manager, Co-Head of Special Situations and Private Equity",https://www.linkedin.com/in/matthew-wilson-94648b123,"Oaktree Capital Management, L.P.","2021-04-03 02:45:00"
+103,"Tim Schmidt","Company Name
+BayernInvest",NULL,NULL,NULL,NULL,"Company Name
+BayernInvest",https://de.linkedin.com/in/tim-schmidt-95076614b,BayernInvest,"2021-04-03 02:48:33"
+104,"Julia Dissmann, CFA","ESG Investment Strategist","Oct 2020",Present,"7 mos","Metropolregion MÃ¼nchen","ESG Investment Strategist",https://de.linkedin.com/in/juliameinzer,BayernInvest,"2021-04-03 02:50:27"
+105,"David Dowden","Portfolio Manager","Sep 2009",Present,"11 yrs 8 mos",Princeton,"Portfolio Manager",https://www.linkedin.com/in/david-dowden-2942149,"MacKay Shields LLC","2021-04-03 02:52:56"
+106,"Nate Hudson","Investment manager",NULL,NULL,NULL,NULL,"Investment manager",https://www.linkedin.com/in/nate-hudson-40202953,"MacKay Shields LLC","2021-04-03 02:53:40"
+107,"Tom Kirby","Asset Manager",NULL,NULL,NULL,NULL,"Asset Manager",https://www.linkedin.com/in/tom-kirby-08918b185,"CBRE Global Investors","2021-04-03 02:55:50"
+108,"Justin Shanahan","Company Name
+CBRE Global Investors",NULL,NULL,NULL,NULL,"Company Name
+CBRE Global Investors",https://www.linkedin.com/in/justin-shanahan-a7070159,"CBRE Global Investors","2021-04-03 11:58:22"
+109,"Kok Wei Yap, CFA","Portfolio Manager","Jul 2016",Present,"4 yrs 10 mos","Hong Kong","Portfolio Manager",https://hk.linkedin.com/in/kok-wei-yap-cfa-91a91b16,"Sumitomo Mitsui DS Asset Management Co., Ltd.","2021-04-03 12:09:44"
+110,"Kenji Hashizume","Senior Fund Manager",NULL,NULL,NULL,NULL,"Senior Fund Manager",https://jp.linkedin.com/in/kenji-hashizume-75646035,"Sumitomo Mitsui DS Asset Management Co., Ltd.","2021-04-03 12:10:28"
+111,"Mark Liimatta","Vice President - Asset Manager","2011 â€“",,"10 yrs",Chicago,"Vice President - Asset Manager",https://www.linkedin.com/in/mark-liimatta-3641008,"Ares Management Corporation","2021-04-03 12:22:48"
+112,"Kurt Baker","Vice President","Jul 2013",Present,"7 yrs 10 mos","Atlanta, Georgia","Vice President",https://www.linkedin.com/in/kurt-baker-934b19139,"Ares Management Corporation","2021-04-03 12:23:30"
+113,"Joel Thomas","Asset Manager","Oct 2016",Present,"4 yrs 7 mos","Charlotte, NC","Asset Manager",https://www.linkedin.com/in/joelthomas7,"Man Group","2021-04-03 12:26:25"
+114,"Nicole Scott","Company Name
+Man Group",NULL,NULL,NULL,NULL,"Company Name
+Man Group",https://www.linkedin.com/in/nicole-scott-3440b094,"Man Group","2021-04-03 12:28:58"
+115,"Rob Sims","Company Name
+Hines",NULL,NULL,NULL,NULL,"Company Name
+Hines",https://www.linkedin.com/in/rob-sims-94364099,Hines,"2021-04-03 12:31:37"
+116,"Will Rice","Company Name
+Hines",NULL,NULL,NULL,NULL,"Company Name
+Hines",https://www.linkedin.com/in/will-rice-80716416,Hines,"2021-04-03 12:32:19"
+117,"Nicolas Vienne","Company Name
+CovÃ©a Finance","4 yrs",mos,"Jan 2019 â€“ Present","2 yrs 4 mos","Company Name
+CovÃ©a Finance",https://www.linkedin.com/in/nicolas-vienne-9905a71b/en,"CovÃƒÂ©a Finance","2021-04-03 12:37:28"
+118,"Carlo Majolo","Company Name
+Anima SGR","6 yrs",mos,"Apr 2017 â€“ Present","4 yrs 1 mo","Company Name
+Anima SGR",https://it.linkedin.com/in/carlo-majolo-7a05141,"Anima SGR","2021-04-03 12:48:18"
+119,"Dario Giacomelli","Company Name
+Anima SGR","5 yrs",,"Nov 2018 â€“ Present","2 yrs 6 mos","Company Name
+Anima SGR",https://it.linkedin.com/in/dario-giacomelli,"Anima SGR","2021-04-03 12:49:04"
+120,"Malcolm White","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://ca.linkedin.com/in/malcolm-white-905049a,"CI Financial","2021-04-03 12:53:04"
+121,"Jason Weyeneth, CFA","Vice President, Investor Relations & Corporate Strategy",NULL,NULL,NULL,NULL,"Vice President, Investor Relations & Corporate Strategy",https://www.linkedin.com/in/jason-weyeneth-cfa-28b53230,"CI Financial","2021-04-03 12:53:45"
+122,"Edward Meigs","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/edward-meigs-6857a86,"First Eagle Investment Management","2021-04-03 12:57:06"
+123,"Julien Albertini","Portfolio Manager","Apr 2013",Present,"8 yrs 1 mo","Greater New York City Area","Portfolio Manager",https://www.linkedin.com/in/julien-albertini-68189a5,"First Eagle Investment Management","2021-04-03 12:57:52"
+124,"Charles Hamker","Company Name
+Artisan Partners",NULL,NULL,NULL,NULL,"Company Name
+Artisan Partners",https://www.linkedin.com/in/charles-hamker,"Artisan Partners","2021-04-03 13:02:38"
+125,"Daniel Kane","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/daniel-kane-980a389,"Artisan Partners","2021-04-03 13:03:20"
+126,"Guy Lakonishok","Partner and Portfolio Manager","Jun 2008",Present,"12 yrs 11 mos",Chicago,"Partner and Portfolio Manager",https://www.linkedin.com/in/guy-lakonishok-91519045,"LSV Asset Management","2021-04-03 13:06:30"
+127,"Scott Kemper","Partner & Director, Client Portfolio Services","Jul 2006",Present,"14 yrs 10 mos","Chicago, Illinois, United States","Partner & Director, Client Portfolio Services",https://www.linkedin.com/in/scott-kemper-9829133/de,"LSV Asset Management","2021-04-03 13:07:13"
+128,"Eric Souders, CFA","Portfolio Manager - Absolute Return and Multi Asset","May 2017",Present,"4 yrs","Los Angeles, California","Portfolio Manager - Absolute Return and Multi Asset",https://www.linkedin.com/in/eric-souders-cfa-4a22a419/,"Payden & Rygel","2021-04-03 13:20:54"
+129,"Tim Crawmer","Global Multi Asset Portfolio Manager","Oct 2017",Present,"3 yrs 7 mos","Greater Los Angeles Area","Global Multi Asset Portfolio Manager",https://www.linkedin.com/in/tim-crawmer-3316b5/,"Payden & Rygel","2021-04-03 13:21:44"
+130,"Antonio Aita, CFA, FRM","Company Name
+BBVA Asset Management","10 yrs",mos,"Dec 2013 â€“ Present","7 yrs 5 mos","Company Name
+BBVA Asset Management",https://www.linkedin.com/in/antonio-aita-cfa-frm-4536a014/,BBVA,"2021-04-03 13:25:28"
+131,"Laura de Frutos","Company Name
+BBVA Asset Management","22 yrs",mos,"Mar 2019 â€“ Present","2 yrs 2 mos","Company Name
+BBVA Asset Management",https://www.linkedin.com/in/lauradefrutos/?locale=en_US,BBVA,"2021-04-03 13:26:16"
+132,"Benjamin Huchet","Company Name
+Groupama Asset Management",NULL,NULL,NULL,NULL,"Company Name
+Groupama Asset Management",https://www.linkedin.com/in/benjamin-huchet-9881a7b/,"Groupama Asset Management","2021-04-03 13:31:12"
+133,"Jorge Julio","Portfolio Manager","Sep 2017",Present,"3 yrs 8 mos",Paris,"Portfolio Manager",https://www.linkedin.com/in/jorge-julio-3761011/,"Groupama Asset Management","2021-04-03 13:32:02"
+134,"Kevin Antaya, CFA","Portfolio Manager","Dec 2002",Present,"18 yrs 5 mos","Hartford, CT","Portfolio Manager",https://www.linkedin.com/in/kevin-antaya-cfa-6a20502/,Conning,"2021-04-03 13:35:45"
+135,"Karen Kelleher","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/karen-kelleher-b3641622/,Conning,"2021-04-03 13:36:32"
+136,"Bill Sun","ETF Portfolio Manager","Apr 2018",Present,"3 yrs 1 mo","Hong Kong","ETF Portfolio Manager",https://www.linkedin.com/in/bill-sun-3501a3109/,"Mirae Asset Global Investments","2021-04-03 13:40:36"
+137,"Saniel Chandrawat","Senior Investment Analyst","Jul 2014",Present,"6 yrs 10 mos","Hong Kong","Senior Investment Analyst",https://www.linkedin.com/in/saniel-chandrawat-5b488997/,"Mirae Asset Global Investments","2021-04-03 13:41:27"
+138,"Kevin S.C. Sung","Portfolio Manager","Apr 2018",Present,"3 yrs 1 mo","Hong Kong","Portfolio Manager",https://www.linkedin.com/in/kevin-s-c-sung-54881514/,"Harvest Global Investments","2021-04-03 13:45:29"
+139,"Teresa Z.","Vice President",NULL,NULL,NULL,NULL,"Vice President",https://www.linkedin.com/in/teresazheng/,"Harvest Global Investments","2021-04-03 13:46:15"
+140,"Nick Westlind","SVP, Associate General Counsel, Asset Management","Jan 2020",Present,"1 yr 4 mos","Toronto, Ontario","SVP, Associate General Counsel, Asset Management",https://www.linkedin.com/in/nick-westlind-8a112413/,"IGM Financial Inc.","2021-04-03 13:51:54"
+141,"David Navachandrabala, CPA, CMA, MBA, PMP","Director, Portfolio Management","Jan 2019",Present,"2 yrs 4 mos","Toronto, Ontario, Canada","Director, Portfolio Management",https://www.linkedin.com/in/davidnavachandrabala/,"IGM Financial Inc.","2021-04-03 13:52:42"
+142,"Ramiz Chelat","Company Name
+Vontobel Asset Management","13 yrs",mos,"Jun 2016 â€“ Present","4 yrs 11 mos","Company Name
+Vontobel Asset Management",https://www.linkedin.com/in/ramiz-chelat-9282b37/,"Vontobel Asset Management","2021-04-03 13:56:09"
+143,"Daniele Bonomo","Company Name
+Vontobel Asset Management","3 yrs",mos,"Oct 2018 â€“ Present","2 yrs 7 mos","Company Name
+Vontobel Asset Management",https://www.linkedin.com/in/dbdanielebonomo/,"Vontobel Asset Management","2021-04-03 13:56:57"
+144,"Benjamin-FranÃ§ois Barretaud","Company Name
+UBP - Union Bancaire PrivÃ©e","6 yrs",mos,"Feb 2018 â€“ Present","3 yrs 3 mos","Company Name
+UBP - Union Bancaire PrivÃ©e",https://www.linkedin.com/in/benjamin-fran%C3%A7ois-barretaud-4b272763/,"UBP - Union Bancaire PrivÃƒÂ©e","2021-04-03 14:00:38"
+145,"Alice de La MoriniÃ¨re","Portfolio Manager","Dec 2018",Present,"2 yrs 5 mos","RÃ©gion de Paris, France","Portfolio Manager",https://www.linkedin.com/in/alice-de-la-morini%C3%A8re-b438741a/,"UBP - Union Bancaire PrivÃƒÂ©e","2021-04-03 14:01:26"
+146,"Ivan Del Rio, CFA","Managing Director, Offshore Investments","Mar 2021",Present,"2 mos","Miami, Florida, United States","Managing Director, Offshore Investments",https://www.linkedin.com/in/ivandelrio4/,"John Hancock Investment Management","2021-04-03 14:05:55"
+147,"Keith Miller","Senior Fund Manager","Jan 1995",Present,"26 yrs 4 mos","London, United Kingdom","Senior Fund Manager",https://uk.linkedin.com/in/keith-miller-13110931/,"Royal London Asset Management","2021-04-03 14:20:40"
+148,"Ben Nicholl, CFA","Company Name
+Royal London Asset Management","13 yrs",mos,"Apr 2019 â€“ Present","2 yrs 1 mo","Company Name
+Royal London Asset Management",https://uk.linkedin.com/in/ben-nicholl-cfa-50250b59/,"Royal London Asset Management","2021-04-03 14:24:13"
+149,"Bohong (Jerry) Zheng","Company Name
+China Asset Management Co., Ltd.","5 yrs",mos,"2018 â€“ Present","3 yrs","Company Name
+China Asset Management Co., Ltd.",https://cn.linkedin.com/in/bohong-jerry-zheng-136b924,"China Asset Management Co., Ltd.","2021-04-03 14:27:03"
+150,"Oskars Briedis, CFA","Fund Manager","Jul 2018",Present,"2 yrs 10 mos","Riga, Latvia","Fund Manager",https://lv.linkedin.com/in/oskars-briedis-cfa-7760398,Swedbank,"2021-04-03 14:36:06"
+151,"Adrian Bachman","Portfolio Manager, Director","Aug 2014",Present,"6 yrs 9 mos","Rockville, Maryland","Portfolio Manager, Director",https://www.linkedin.com/in/adrian-bachman-5a232215,"Guggenheim Investments","2021-04-03 15:09:43"
+152,"Matthew Moran","Managing Director","Feb 2018",Present,"3 yrs 3 mos","New York, New York","Managing Director",https://www.linkedin.com/in/matthew-moran-40686b12,"Guggenheim Investments","2021-04-03 15:13:39"
+153,"Niels Bodenheim","Head of Alternative Credit","Jan 2020",Present,"1 yr 4 mos","The Hague Area, Netherlands","Head of Alternative Credit",https://www.linkedin.com/in/nielsbodenheim/,"NN Investment Partners","2021-04-03 15:29:06"
+154,"Juerg Zimmermann","Head Corporate Development","Feb 2018",Present,"3 yrs 3 mos","Zurich, Switzerland","Head Corporate Development",https://ch.linkedin.com/in/juergzimmermann/,"Swiss Life Asset Managers","2021-04-03 15:30:36"
+155,"Christian Kuhn, CFA","Company Name
+Swiss Life Asset Managers","13 yrs",mos,"Jul 2012 â€“ Present","8 yrs 10 mos","Company Name
+Swiss Life Asset Managers",https://ch.linkedin.com/in/christiankuhn1/,"Swiss Life Asset Managers","2021-04-03 15:31:22"
+156,"Bonnie Yu","Investment Director","May 2019",Present,"2 yrs",Singapore,"Investment Director",https://sg.linkedin.com/in/bonnie-yu-8872b414/,"Caisse de dÃƒÂ©pÃƒÂ´t et placement du QuÃƒÂ©bec (CDPQ)","2021-04-03 15:44:31"
+157,"Daniel Murphy","Company Name
+SEB","11 yrs",mos,"Jan 2016 â€“ Present","5 yrs 4 mos","Company Name
+SEB",https://se.linkedin.com/in/daniel-murphy-06463b12/,SEB,"2021-04-03 15:50:52"
+158,"Larry Fink","Chairman and Chief Executive Officer","1988 â€“",,"33 yrs","Greater New York City Area","Chairman and Chief Executive Officer",https://www.linkedin.com/in/laurencefink/,"AQR Capital Management","2021-04-03 15:54:07"
+159,"Anand Gupta","Portfolio Manager","Feb 2010",Present,"11 yrs 3 mos",Singapore,"Portfolio Manager",https://sg.linkedin.com/in/anand-gupta-9a641a7/,"Eastspring Investments","2021-04-03 16:02:02"
+160,"Craig Bell","Director Global Asset Allocation","Nov 2017",Present,"3 yrs 6 mos",Singapore,"Director Global Asset Allocation",https://uk.linkedin.com/in/craig-bell-01b86912/,"Eastspring Investments","2021-04-03 16:02:47"
+161,"Steve Horner, CFA","Company Name
+Putnam Investments","24 yrs",mos,"May 2002 â€“ Present","19 yrs","Company Name
+Putnam Investments",https://www.linkedin.com/in/steve-horner-cfa-ba18a012/,"Putnam Investments","2021-04-03 16:10:32"
+162,"Arthur Bernheim","Portfolio Manager","Sep 2019",Present,"1 yr 8 mos","RÃ©gion de Paris, France","Portfolio Manager",https://fr.linkedin.com/in/arthurbernheim/,"Lyxor Asset Management","2021-04-03 16:19:39"
+163,"Vivek Sapra","Senior Investment Advisor","Apr 2015",Present,"6 yrs 1 mo","Cologne Area, Germany","Senior Investment Advisor",https://uk.linkedin.com/in/vivek-sapra-a0b33824/,Talanx,"2021-04-03 16:22:35"
+164,"Lars Stolpmann","Portfolio Manager - Indirect Real Estate/Infrastructure Investments","Oct 2018",Present,"2 yrs 7 mos",Cologne,"Portfolio Manager - Indirect Real Estate/Infrastructure Investments",https://de.linkedin.com/in/lars-stolpmann-110a3010a/,Talanx,"2021-04-03 16:23:20"
+165,"Peter Fehr","Senior Portfolio Manager","Jul 2020",Present,"10 mos","Frankfurt am Main, Hesse, Germany","Senior Portfolio Manager",https://uk.linkedin.com/in/peter-fehr-9a8035135/,"Helaba Invest Kapitalanlagegesellschaft mbH","2021-04-03 16:24:49"
+166,"Richard Dehn","Investment Manager","May 2015",Present,"6 yrs","Sydney, Australia","Investment Manager",https://au.linkedin.com/in/richarddehn/,Robeco,"2021-04-03 16:31:42"
+167,"Sebastiaan Ranner","Company Name
+MN","13 yrs",mos,"Jan 2013 â€“ Present","8 yrs 4 mos","Company Name
+MN",https://nl.linkedin.com/in/sebastiaan-ranner-45918a/,MN,"2021-04-03 16:33:09"
+168,"De Pauw Sabine","Fixed Income Asset Management Institutional Clients","Jan 2002",Present,"19 yrs 4 mos",Brussel,"Fixed Income Asset Management Institutional Clients",https://be.linkedin.com/in/de-pauw-sabine-6185b7b5/,Candriam,"2021-04-03 16:53:42"
+169,"Mikko Komi","Senior Portfolio Manager","Apr 2011",Present,"10 yrs 1 mo",Helsinki,"Senior Portfolio Manager",https://www.linkedin.com/in/mikko-komi-b5335a107/,"Danske Bank","2021-04-03 16:56:07"
+170,"Darren Woods","Portfolio Manager","2018 â€“",,"3 yrs","Dublin, Ireland","Portfolio Manager",https://www.linkedin.com/in/darwoods/,"KBC Asset Management","2021-04-03 16:59:53"
+171,"Colman Slain","Investment Analyst","Jun 2019",Present,"1 yr 11 mos","Santa Monica, California","Investment Analyst",https://www.linkedin.com/in/colman-slain-776737136,"Guggenheim Investments","2021-04-03 17:21:20"
+172,"Richard Shuster","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/richard-shuster-42ab1a59,Robeco,"2021-04-03 20:22:11"
+173,"Ari Levine",Principal,NULL,NULL,NULL,NULL,Principal,https://www.linkedin.com/in/ari-levine-81561812/,"AQR Capital Management","2021-04-03 20:33:27"
+174,"Joe Iwanski, CAPSÂ®, HCCPÂ®, COS, NCP-E","Sr. Asset Manager","12/1/2019 12:00:00 AM",Present,"1 yr 5 mos","Southeastern United States","Sr. Asset Manager",https://www.linkedin.com/in/joeiwanski/,"Vanguard Asset Management ","2021-04-05 23:28:34"
+175,"Liza Shek, CFA",Trader,"7/1/2018 12:00:00 AM",Present,"2 yrs 10 mos","London, United Kingdom",Trader,https://www.linkedin.com/in/liza-shek-cfa-92894617/,"VANGUARD ASSET MANAGEMENT","2021-04-05 23:29:14"
+176,"Hua Tang","Portfolio Manager/Director","9/1/2017 12:00:00 AM",Present,"3 yrs 8 mos","Shanghai City, China","Portfolio Manager/Director",https://www.linkedin.com/in/hua-tang-46518a4b/,BlackRock,"2021-04-05 23:51:42"
+177,"Liz Twiney MRICS","Vice President Asset Manager","7/1/2016 12:00:00 AM",Present,"4 yrs 10 mos",London,"Vice President Asset Manager",https://www.linkedin.com/in/liz-twiney-mrics-b7b60749/,Blackrock,"2021-04-05 23:52:24"
+178,"Ronald Berry","Vice President - Relationship Manager, Charitable Asset Management","6/1/2019 12:00:00 AM",Present,"1 yr 11 mos","Greater Boston Area","Vice President - Relationship Manager, Charitable Asset Management",https://www.linkedin.com/in/ronaldberry/,"State Street Global Advisors","2021-04-06 15:19:04"
+179,"Michael Kane","Vice President - Investment Manager Real Estate","6/1/2017 12:00:00 AM",Present,"3 yrs 11 mos","Western Region","Vice President - Investment Manager Real Estate",https://www.linkedin.com/in/michael-kane-7910487/,"State Street Global Advisors","2021-04-06 15:19:43"
+180,"Christopher Luongo, CFA","Institutional Portfolio Manager, Global Asset Allocation","11/1/2017 12:00:00 AM",Present,"3 yrs 6 mos","Boston, Massachusetts","Institutional Portfolio Manager, Global Asset Allocation",https://www.linkedin.com/in/christopher-luongo-cfa-41a38024/,"Fidelity Investments","2021-04-06 15:30:13"
+181,"Courtney Sholler (She/Her)","Company Name
+Fidelity Investments",NULL,NULL,NULL,NULL,"Company Name
+Fidelity Investments",https://www.linkedin.com/in/courtneysholler/,"Fidelity Investments","2021-04-06 15:30:54"
+182,"Christine Gill","Company Name
+BNY Mellon",NULL,NULL,NULL,NULL,"Company Name
+BNY Mellon",https://www.linkedin.com/in/christine-gill-b548838/,"BNY Mellon Investment Management","2021-04-06 15:37:35"
+183,"Keith Collier, CFA","Company Name
+BNY Mellon","1/1/2021 12:00:00 AM",Present,"4 mos",NULL,"Company Name
+BNY Mellon",https://www.linkedin.com/in/keith-collier-cfa/,"BNY Mellon Investment Management","2021-04-06 15:38:13"
+184,"Xavier Goss, CFA","Portfolio Manager","1/1/2021 12:00:00 AM",Present,"4 mos","Los Angeles Metropolitan Area","Portfolio Manager",https://www.linkedin.com/in/xavier-goss-cfa-7470941/,"Capital Group ","2021-04-06 15:43:51"
+185,"Michelle J. Black, CIMAÂ®, CPWAÂ®","Company Name
+Capital Group","10/1/2019 12:00:00 AM",Present,"1 yr 7 mos",NULL,"Company Name
+Capital Group",https://www.linkedin.com/in/michelle-j-black-cima%C2%AE-cpwa%C2%AE-34132424/,"Capital Group ","2021-04-06 15:44:34"
+186,"Felise Agranoff, CFA","Company Name
+J.P. Morgan Asset Management","5/1/2014 12:00:00 AM"," Present","7 yrs",NULL,"Research Analyst covering Industrials, Energy, Financials & Business Services for J.P. Morgan Mid & Small Cap funds",https://www.linkedin.com/in/felise-agranoff-cfa-549b919/,"J.P. Morgan Asset Management","2021-04-06 15:49:29"
+187,"Joseph Knight","Company Name
+J.P. Morgan Asset Management",NULL,NULL,NULL,NULL,"Company Name
+J.P. Morgan Asset Management",https://www.linkedin.com/in/josephknight83/,"J.P. Morgan Asset Management","2021-04-06 15:50:10"
+188,"Brent Jenkins","Senior Vice President","11/1/2014 12:00:00 AM",Present,"6 yrs 6 mos","New York","Senior Vice President",https://www.linkedin.com/in/bejenkins/,PIMCO,"2021-04-06 15:52:48"
+189,"Lillian Qian Lin","Senior Vice President Portfolio Manager",NULL,NULL,NULL,NULL,"Senior Vice President Portfolio Manager",https://www.linkedin.com/in/lillianqlin/,PIMCO,"2021-04-06 15:53:28"
+190,"Gustavo Lozano","Mexico Country Head, Central America & Caribbean Manager","6/1/2012 12:00:00 AM",Present,"8 yrs 11 mos","Mexico City Area, Mexico","Mexico Country Head, Central America & Caribbean Manager",https://www.linkedin.com/in/gustavo-lozano-67083959/,"Amundi ","2021-04-06 15:56:58"
+191,"Eric ALCARAZ","Portfolio Manager Assistant - Hedged Equity","9/1/2020 12:00:00 AM",Present,"8 mos","Ville de Paris, ÃŽle-de-France, France","Portfolio Manager Assistant - Hedged Equity",https://www.linkedin.com/in/eric-alcaraz-96702716a/,"Amundi ","2021-04-06 15:57:40"
+192,"Michael Baker","Chief Technology Officer","4/1/2020 12:00:00 AM",Present,"1 yr 1 mo","Newark, New Jersey, United States","Chief Technology Officer",https://www.linkedin.com/in/michael-baker-0262a46/,"Prudential Financial","2021-04-06 17:46:52"
+193,"Irma Simion MacFarlane","Director, Investment Research",NULL,NULL,NULL,NULL,"Director, Investment Research",https://www.linkedin.com/in/irmasimionmacfarlane/,"Prudential Financial","2021-04-06 17:47:33"
+194,"Justin Onuekwusi","Fund Manager, Head of Retail Multi-Asset Funds","8/1/2013 12:00:00 AM",Present,"7 yrs 9 mos","London, England","Fund Manager, Head of Retail Multi-Asset Funds",https://www.linkedin.com/in/justinonuekwusi/,"Legal & General Investment Management (LGIM)","2021-04-06 17:51:19"
+195,"Olivier Bindo","Programme Manager","5/1/2019 12:00:00 AM",Present,"2 yrs","London, United Kingdom","Programme Manager",https://www.linkedin.com/in/olivier-bindo/,"Legal & General Investment Management (LGIM) Full-time","2021-04-06 17:51:57"
+196,"Svetlana Kurilova","Portfolio manager",NULL,NULL,NULL,NULL,"Portfolio manager",https://www.linkedin.com/in/svetlana-kurilova-275ba219/,"Goldman Sachs Asset Management Int.","2021-04-06 17:54:55"
+197,"Kelly (Denk) Sivewright","Vice President",NULL,NULL,NULL,NULL,"Vice President",https://www.linkedin.com/in/kelly-denk-sivewright-9076962/,"Goldman Sachs Asset Management Int.","2021-04-06 17:55:32"
+198,"Nicholas Petrucelli","Managing Director, Asset Allocation Portfolio Manager",NULL,NULL,NULL,NULL,"Managing Director, Asset Allocation Portfolio Manager",https://www.linkedin.com/in/nicholas-petrucelli-16854a6/,"Wellington Management International","2021-04-06 17:58:53"
+199,"Amy Trainor","Asset Allocation Strategist",NULL,NULL,NULL,NULL,"Asset Allocation Strategist",https://www.linkedin.com/in/amy-trainor-3b19b599/,"Wellington Management International","2021-04-06 17:59:33"
+200,"Pia Sojo, CIMAÂ®","Managing Regional Director","4/1/2017 12:00:00 AM",Present,"4 yrs 1 mo","Miami, Florida, Estados Unidos","Managing Regional Director",https://www.linkedin.com/in/pia-sojo-cima%C2%AE-607709b/,"Natixis Investment Managers","2021-04-06 18:03:27"
+201,"Vladislav Grigorov, CFA","Portfolio Analyst","7/1/2017 12:00:00 AM",Present,"3 yrs 10 mos","Greater Boston Area","Portfolio Analyst",https://www.linkedin.com/in/vladislav-grigorov-cfa-47002622/,"Natixis Investment Managers","2021-04-06 18:04:08"
+202,"Chris Flick","Software Asset Manager","7/1/2018 12:00:00 AM",Present,"2 yrs 10 mos","Baltimore, Maryland Area","Software Asset Manager",https://www.linkedin.com/in/chris-flick-3b63547/,"T. Rowe Price ","2021-04-06 18:08:36"
+203,"Will Chao, CFA","Company Name
+T. Rowe Price",NULL,NULL,NULL,NULL,"Company Name
+T. Rowe Price",https://www.linkedin.com/in/will-chao-cfa-2a3a3325/,"T. Rowe Price ","2021-04-06 18:09:13"
+204,"Mike Swink, CCIM, CPM","Asset Manager","6/1/2019 12:00:00 AM",Present,"1 yr 11 mos","Greater Atlanta Area","Asset Manager",https://www.linkedin.com/in/mike-swink-ccim-cpm-60b57aa/,Nuveen,"2021-04-06 18:12:12"
+205,"James Colon","Managing Director, Multi-Asset Portfolio Manager",NULL,NULL,NULL,NULL,"Managing Director, Multi-Asset Portfolio Manager",https://www.linkedin.com/in/james-colon-b2b56928/,Nuveen,"2021-04-06 18:12:49"
+206,"Iuliia Boutin (Pastukhova), MBA","Associate Portfolio Manager","8/1/2020 12:00:00 AM",Present,"9 mos","Chicago, Illinois, United States","Associate Portfolio Manager",https://www.linkedin.com/in/iuliia-boutin-pastukhova-mba-229123a1/,"Northern Trust Asset Management ","2021-04-06 18:15:37"
+207,"Hannah Genord","Company Name
+Northern Trust Asset Management",NULL,NULL,NULL,NULL,"Company Name
+Northern Trust Asset Management",https://www.linkedin.com/in/hannah-genord-5b779ab0/,"Northern Trust Asset Management ","2021-04-06 18:16:18"
+208,"Spencer P.","Associate Asset Manager","8/1/2018 12:00:00 AM",Present,"2 yrs 9 mos","Greater New York City Area","Associate Asset Manager",https://www.linkedin.com/in/spencerbeattie/,"Invesco US","2021-04-06 18:24:44"
+209,"Noelle Corum, CFA","Company Name
+Invesco US",NULL,NULL,NULL,NULL,"Company Name
+Invesco US",https://www.linkedin.com/in/noelle-corum-cfa-620ba18/,"Invesco US","2021-04-06 18:25:21"
+210,"Andrew Falk","Asset Manager","1/1/2020 12:00:00 AM",Present,"1 yr 4 mos","Alpharetta, Georgia, United States","Asset Manager",https://www.linkedin.com/in/andrew-falk-b22a93b0/,"AXA Investment Managers ","2021-04-06 18:27:04"
+211,"Beatriz Ayuso Cortina","Company Name
+AXA Investment Managers",NULL,NULL,NULL,NULL,"Company Name
+AXA Investment Managers",https://www.linkedin.com/in/beatriz-ayuso-cortina-178969143/,"AXA Investment Managers","2021-04-06 18:27:46"
+212,"Peter McNamara","Asset Manager","9/1/2017 12:00:00 AM",Present,"3 yrs 8 mos",London,"Asset Manager",https://www.linkedin.com/in/peter-mcnamara-40381b58/,"DWS Group","2021-04-06 21:34:26"
+213,"Andy Martin","Vice President - Asset Manager / Portfolio Manager","6/1/2006 12:00:00 AM",Present,"14 yrs 11 mos","San Francisco Bay Area","Vice President - Asset Manager / Portfolio Manager",https://www.linkedin.com/in/andy-martin-b7977b2/,"Deutsche Asset Management","2021-04-06 21:35:04"
+214,"Christopher Smith","Company Name
+Affiliated Managers Group",NULL,NULL,NULL,NULL,"Vice President, Risk Management and Internal Audit at Affiliated Managers Group
+",https://www.linkedin.com/in/christopher-smith-ab134713/,"Affiliated Managers Group","2021-04-06 21:37:30"
+215,"Simon Osborne","Vice President, Global Compliance at Affiliated Managers Group",NULL,NULL,NULL,NULL,"Vice President, Global Compliance at Affiliated Managers Group",https://www.linkedin.com/in/simon-osborne-5387966/,"Affiliated Managers Group","2021-04-06 21:38:12"
+216,"Xiomara Colon","Project Manager","12/1/2013 12:00:00 AM",Present,"7 yrs 5 mos","New Jersey","Project Manager",https://www.linkedin.com/in/xiomara-colon-3014b5a8/,"UBS Global Asset Management","2021-04-06 21:41:43"
+217,"Juha Seppala","Director, Asset Allocation","2018 â€“",NULL,"3 yrs","New York, New York","Director, Asset Allocation",https://www.linkedin.com/in/juha-seppala-84b36a1/,UBS,"2021-04-06 21:42:20"
+218,"Gauthier Mavinga LakÃ©","Company Name
+Insight Investment",NULL,NULL,NULL,NULL,"Company Name
+Insight Investment",https://www.linkedin.com/in/gauthier-mavinga-lak%C3%A9-01389831/,"Insight Investment","2021-04-06 21:45:18"
+219,"Abhijit Korde","Portfolio Manager","2/1/2018 12:00:00 AM",Present,"3 yrs 3 mos","London, United Kingdom","Portfolio Manager",https://www.linkedin.com/in/abhijit-korde-74844138/,"Insight Investment","2021-04-06 21:46:01"
+220,"Katsu Sakai","Senior Director",NULL,NULL,NULL,NULL,"Senior Director",https://www.linkedin.com/in/katsusakai/,"Sumitomo Mitsui Trust Bank","2021-04-06 21:49:03"
+221,"Albert Tew II","Senior Vice President, Americas Finance","10/1/2003 12:00:00 AM",Present,"17 yrs 7 mos","1251 Avenue of the Americas, 22nd Floor, New York, NY 10020","Senior Vice President, Americas Finance",https://www.linkedin.com/in/albert-tew-ii-3a7b0a5/,"Sumitomo Mitsui Trust Bank","2021-04-06 21:49:44"
+222,"Gary Sleator","Senior Asset Manager at Aberdeen Standard Investments",NULL,NULL,NULL,NULL,"Senior Asset Manager at Aberdeen Standard Investments",https://www.linkedin.com/in/gary-sleator-5a1a8828/,"Aberdeen Standard Investments","2021-04-06 21:53:57"
+223,"Holly Mozley","Company Name
+Aberdeen Standard Investments",NULL,NULL,NULL,NULL,"Company Name
+Aberdeen Standard Investments",https://www.linkedin.com/in/holly-mozley-b21b19119/,"Aberdeen Standard Investments","2021-04-06 21:54:38"
+224,"Dan Penrose","Director, National Sales Manager",NULL,NULL,NULL,NULL,"Director, National Sales Manager",https://www.linkedin.com/in/dan-penrose-39a6b15/,"Legg Mason","2021-04-06 22:04:31"
+225,"Anh Nguyen","Vice President, Product Development Manager","3/1/2018 12:00:00 AM",Present,"3 yrs 2 mos",London,"Vice President, Product Development Manager",https://www.linkedin.com/in/anh-nguyen-50785427/,"Legg Mason","2021-04-06 22:05:12"
+226,"Adam Gorlyn","Company Name
+Franklin Templeton Investments",NULL,NULL,NULL,NULL,"Company Name
+Franklin Templeton Investments",https://www.linkedin.com/in/adam-gorlyn-8b4b6a5/,"Franklin Templeton","2021-04-06 22:09:04"
+227,"Mohit Jain",Manager,"5/1/2018 12:00:00 AM",Present,"3 yrs","New Delhi",Manager,https://www.linkedin.com/in/mohit-jain-51a30b28/,"Franklin Templeton","2021-04-06 22:09:44"
+228,"David Campbell, CFA","Portfolio Manager at BNP Paribas Asset Management",NULL,NULL,NULL,NULL,"Portfolio Manager at BNP Paribas Asset Management
+",https://www.linkedin.com/in/david-campbell-cfa-7292a4106/,"BNP Paribas Asset Management","2021-04-06 22:15:03"
+229,"Zheyi Z.","Analyst/Portfolio Manager at BNP Paribas Asset Management",NULL,NULL,NULL,NULL,"Analyst/Portfolio Manager at BNP Paribas Asset Management",https://www.linkedin.com/in/murdyzhou/,"BNP Paribas Asset Management","2021-04-06 22:15:44"
+230,"Paulette H.","Software Asset Manager, AVP","8/1/2016 12:00:00 AM",Present,"4 yrs 9 mos","United States","Software Asset Manager, AVP",https://www.linkedin.com/in/pauletteholmes/,MUFG,"2021-04-06 22:19:45"
+231,"Safet Paljevic","Vice President - IT Asset Manager","10/1/2019 12:00:00 AM",Present,"1 yr 7 mos","Greater New York City Area","Vice President - IT Asset Manager",https://www.linkedin.com/in/safet-paljevic-1bab5626/,"MUFG ","2021-04-06 22:20:26"
+232,"Gavin Counsell","Multi-Asset Fund Manager","8/1/2018 12:00:00 AM",Present,"2 yrs 9 mos","London, United Kingdom","Multi-Asset Fund Manager",https://www.linkedin.com/in/gavin-counsell-5a267430/,"Allianz Global Investors","2021-04-06 22:27:12"
+233,"Claudio Marsala","Company Name
+Allianz Global Investors",NULL,NULL,NULL,NULL,"Company Name
+Allianz Global Investors",https://www.linkedin.com/in/claudio-marsala-6b67023/,"Allianz Global Investors","2021-04-06 22:27:53"
+234,"Stirling Simmons","Associate Director - Equity Asset Management","8/1/2017 12:00:00 AM",Present,"3 yrs 9 mos","Atlanta, GA","Associate Director - Equity Asset Management",https://www.linkedin.com/in/stirlingsimmons/,"MetLife Investment Management","2021-04-06 22:31:04"
+235,"James Williams III","Equity Asset Manager","3/1/2019 12:00:00 AM",Present,"2 yrs 2 mos","Los Angeles, California","Equity Asset Manager",https://www.linkedin.com/in/jamesewilliamsiii/,"MetLife Investment Management","2021-04-06 22:31:43"
+236,"Shawn Doty","Associate Portfolio Manager at Dimensional Fund Advisors",NULL,NULL,NULL,NULL,"Associate Portfolio Manager at Dimensional Fund Advisors
+",https://www.linkedin.com/in/shawn-doty-54b30224/,"Dimensional Fund Advisors","2021-04-06 22:35:03"
+237,"Jake Jolly, CFA","Portfolio Manager at Dimensional Fund Advisors",NULL,NULL,NULL,NULL,"Portfolio Manager at Dimensional Fund Advisors",https://www.linkedin.com/in/jake-jolly-cfa-9ba0001a/,"Dimensional Fund Advisors","2021-04-06 22:35:41"
+238,"Annie O'Hara","Company Name
+Schroders",NULL,NULL,NULL,NULL,"Company Name
+Schroders",https://www.linkedin.com/in/annie-o-hara-a68910103/,Schroders,"2021-04-06 22:39:22"
+239,"Alexander Cooke AssocRICS","Asset Manager","5/1/2019 12:00:00 AM",Present,"2 yrs","Manchester, United Kingdom","Asset Manager",https://www.linkedin.com/in/alexander-cooke-assocrics-6400653a/,Schroders,"2021-04-06 22:40:03"
+240,"Andrew Conn","Communications Director, North America","9/1/2017 12:00:00 AM",Present,"3 yrs 8 mos","New York, New York","Communications Director, North America",https://www.linkedin.com/in/andrew-conn-9b000611/,"BNY Mellon Investment Management Full-time","2021-04-06 22:44:00"
+241,"Andy Provencher, CFA","Head of North American Distribution","3/1/2018 12:00:00 AM",Present,"3 yrs 2 mos","New York, New York","Head of North American Distribution",https://www.linkedin.com/in/andy-provencher-cfa-457064a/,"BNY Mellon Investment Management","2021-04-06 22:44:41"
+242,"Sandy Miller","Senior Portfolio Manager - Focus Equities","1/1/2019 12:00:00 AM",Present,"2 yrs 4 mos","New York, New York","Senior Portfolio Manager - Focus Equities",https://www.linkedin.com/in/sandy-miller-960b0a3/,APG,"2021-04-06 22:53:17"
+243,"J. Michael McCarthy","Company Name
+APG Asset Management",NULL,NULL,NULL,NULL,"Company Name
+APG Asset Management",https://www.linkedin.com/in/jmichaelmccarthy/,APG,"2021-04-06 22:53:59"
+244,"Lorenzo Mainardis","Portfolio Officer",NULL,NULL,NULL,NULL,"Portfolio Officer",https://www.linkedin.com/in/lorenzo-mainardis-06842056/,"Generali Investments","2021-04-06 23:05:45"
+245,"Massimo Spagnol","Company Name
+Generali Investments","10 yrs",mos,"Jan 2020 â€“ Present","1 yr 4 mos","Company Name
+Generali Investments",https://www.linkedin.com/in/massimo-spagnol-85772921/,"Generali Investments","2021-04-06 23:06:23"
+246,"Christopher Mason, CFA","AVP, Product Manager - Multi-Asset Class","10/1/2019 12:00:00 AM",Present,"1 yr 7 mos","Nashville, Tennessee","AVP, Product Manager - Multi-Asset Class",https://www.linkedin.com/in/christopher-mason-cfa-6b073136/,AllianceBernstein,"2021-04-06 23:09:41"
+247,"James Stewart","Company Name
+AllianceBernstein",NULL,NULL,NULL,NULL,"Company Name
+AllianceBernstein",https://www.linkedin.com/in/jamesstewartjr/,AllianceBernstein,"2021-04-06 23:10:19"
+248,"Jon Swaney","Managing Director",NULL,NULL,NULL,NULL,"Managing Director",https://www.linkedin.com/in/jonbswaney/,"New York Life Investments","2021-04-06 23:12:58"
+249,"Dale Hanley","Managing Director - Chief Risk Officer","9/1/2015 12:00:00 AM",Present,"5 yrs 8 mos","New York, NY","Managing Director - Chief Risk Officer",https://www.linkedin.com/in/dale-hanley-7786456/,"New York Life Investments","2021-04-06 23:13:39"
+250,"Leo Lam","Quantitative Strategy","7/1/2015 12:00:00 AM",Present,"5 yrs 10 mos","New York","Quantitative Strategy",https://www.linkedin.com/in/leo-lam-b1228014/,"Asset Management One USA Inc.","2021-04-06 23:16:14"
+251,"Keisuke Kamiura","Assistant Vice President/ Planning & Administration",NULL,NULL,NULL,NULL,"Assistant Vice President/ Planning & Administration",https://www.linkedin.com/in/keisuke-kamiura-50a73716a/,"Asset Management One USA Inc.","2021-04-06 23:16:50"
+252,"Katy Howes","Asset Manager","1/1/2019 12:00:00 AM",Present,"2 yrs 4 mos","London, United Kingdom","Asset Manager",https://www.linkedin.com/in/katy-howes-49303856/,"Columbia Threadneedle Investments EMEA APAC","2021-04-08 22:37:54"
+253,"Alice Banks","Asset Manager","1/1/2019 12:00:00 AM",Present,"2 yrs 4 mos","London, United Kingdom","Asset Manager",https://www.linkedin.com/in/alice-banks-860a4762/,"Columbia Threadneedle Investments EMEA APAC","2021-04-08 22:38:36"
+254,"Brian Doherty","Senior Asset Controller",NULL,NULL,NULL,NULL,"Senior Asset Controller",https://www.linkedin.com/in/brian-doherty-9b98534/,"MFS Investment Management","2021-04-08 22:42:07"
+255,"Jon Sage, CFA","Company Name
+MFS Investment Management",NULL,NULL,NULL,NULL,"Company Name
+MFS Investment Management",https://www.linkedin.com/in/jon-sage-cfa-50b01110/,"MFS Investment Management","2021-04-08 22:45:41"
+256,"Heather Dennis","Company Name
+Wells Fargo Bank",NULL,NULL,NULL,NULL,"Company Name
+Wells Fargo Bank",https://www.linkedin.com/in/heatherkdennis/,"Wells Fargo Asset Management ","2021-04-08 22:49:16"
+257,"Ethan Miller","Asset Manager",NULL,NULL,NULL,NULL,"Asset Manager",https://www.linkedin.com/in/esmiller2/,"Morgan Stanley Investment Management","2021-04-08 22:53:37"
+258,"Sergei Parmenov","Portfolio Manager, Global Asset Allocation",NULL,NULL,NULL,NULL,"Portfolio Manager, Global Asset Allocation",https://www.linkedin.com/in/sergei-parmenov-50445230/,"Morgan Stanley Investment Management","2021-04-08 22:54:19"
+259,"James Woodhouse","Asset Manager","3/1/2017 12:00:00 AM",Present,"4 yrs 2 mos","London, United Kingdom","Asset Manager",https://www.linkedin.com/in/james-woodhouse-355b5230/,"Aviva Investors","2021-04-08 22:57:21"
+260,"Julian Cobourne","Company Name
+Aviva Investors",NULL,NULL,NULL,NULL,"Company Name
+Aviva Investors",https://www.linkedin.com/in/julian-cobourne-7005b75a/,"Aviva Investors","2021-04-08 22:58:01"
+261,"Freddy Fernando Diaz Castro","Asset Manager, Real Estate Finance - Fixed Income","5/1/2019 12:00:00 AM",Present,"2 yrs","London, United Kingdom","Asset Manager, Real Estate Finance - Fixed Income",https://www.linkedin.com/in/freddy-diazcastro/,"M&G Investments ","2021-04-08 23:01:06"
+262,"Nwaebo Robert Ughaonu, CFA","Company Name
+M&G Investments",NULL,NULL,NULL,NULL,"Company Name
+M&G Investments",https://www.linkedin.com/in/nwaebo-robert-ughaonu-cfa-468a7746/,"M&G Investments","2021-04-08 23:01:47"
+263,"Gautam Bhupal","Company Name
+HSBC Asset Management (India)",NULL,NULL,NULL,NULL,"Company Name
+HSBC Asset Management (India)",https://www.linkedin.com/in/gautambhupal/,"HSBC Global Asset Management ","2021-04-08 23:13:09"
+264,"Becky Hiu","Company Name
+Principal Global Investors",NULL,NULL,NULL,NULL,"Company Name
+Principal Global Investors",https://www.linkedin.com/in/beckyhiu/,"Principal Global Investors","2021-04-08 23:16:09"
+265,"Jenna de Souza","Company Name
+Principal Global Investors",NULL,NULL,NULL,NULL,"Company Name
+Principal Global Investors",https://www.linkedin.com/in/jenna-de-souza/,"Principal Global Investors","2021-04-08 23:16:50"
+266,"Kurt Halvorson, CFA","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/kurt-halvorson-cfa-0b035a7/,"Western Asset Management Company","2021-04-08 23:20:35"
+267,"Bob Jordan","Senior Managing Director",NULL,NULL,NULL,NULL,"Senior Managing Director",https://www.linkedin.com/in/bob-jordan-5a921112/,"Blackstone ","2021-04-08 23:25:11"
+268,"Kira Luscher",Analyst,"6/1/2020 12:00:00 AM",Present,"11 mos","New York, New York, United States",Analyst,https://www.linkedin.com/in/kira-luscher/,"Blackstone ","2021-04-08 23:25:51"
+269,"Huai Jhih Chang","Deputy Manager","3/1/2015 12:00:00 AM",Present,"6 yrs 2 mos","Taipei City, Taiwan","Deputy Manager",https://www.linkedin.com/in/huai-jhih-chang-3a8b3b92/,"Nomura Asset Management","2021-04-08 23:28:55"
+270,"Jian S.","Company Name
+Nomura Asset Management",NULL,NULL,NULL,NULL,"Company Name
+Nomura Asset Management",https://www.linkedin.com/in/jian-s-2a447110/,"Nomura Asset Management","2021-04-08 23:29:35"
+271,"Barry Malicki","Vice President - Senior Real Estate Asset Manager","7/1/2019 12:00:00 AM",Present,"1 yr 10 mos","Boston, MA","Vice President - Senior Real Estate Asset Manager",https://www.linkedin.com/in/barry-malicki-8248798/,"Eaton Vance ","2021-04-08 23:33:29"
+272,"Michael Alexander","Sr. Real Estate Asset Manager, Vice President",NULL,NULL,NULL,NULL,"Sr. Real Estate Asset Manager, Vice President",https://www.linkedin.com/in/michael-alexander-a3458812/,"Eaton Vance ","2021-04-08 23:34:09"
+273,"Olivier Hakim, CIIA","Insurance Equity Portfolio Manager","11/1/2020 12:00:00 AM",Present,"6 mos","Ville de Paris, ÃŽle-de-France, France","Insurance Equity Portfolio Manager",https://www.linkedin.com/in/olivier-hakim-ciia-521b687/,"Ostrum Asset Management ","2021-04-08 23:37:03"
+274,"Maroua HATIM","Market Risk Manager","11/1/2018 12:00:00 AM",Present,"2 yrs 6 mos","RÃ©gion de Paris, France","Market Risk Manager",https://www.linkedin.com/in/maroua-hatim-a9838144/,"Ostrum Asset Management","2021-04-08 23:37:43"
+275,"Anne Murphy, MBA","Manager - Asset Liability Management","12/1/2018 12:00:00 AM",Present,"2 yrs 5 mos","Chicago, Illinois","Manager - Asset Liability Management",https://www.linkedin.com/in/anne-murphy-mba-b6104156/,"Charles Schwab","2021-04-08 23:41:22"
+276,"Omar Aguilar, Ph.D.","Chief Investment Officer of Passive Equities and Multi-Asset Strategies","2011 â€“",NULL,"10 yrs","San Francisco, California, United States","Chief Investment Officer of Passive Equities and Multi-Asset Strategies",https://www.linkedin.com/in/omaraguilarschwab/,"Charles Schwab Investment Management, Inc.","2021-04-08 23:41:58"
+277,"Ann Ferentino, CFA","Portfolio Manager/Senior Investment Analyst",NULL,NULL,NULL,NULL,"Portfolio Manager/Senior Investment Analyst",https://www.linkedin.com/in/ann-ferentino-cfa-7765417/,"Federated Hermes","2021-04-08 23:44:31"
+278,"Dana Meissner","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/dana-meissner-00b0904/,"Federated Hermes","2021-04-08 23:45:13"
+279,"Josh Taykowski","Company Name
+Credit Suisse Asset Management Limited",NULL,NULL,NULL,NULL,"Company Name
+Credit Suisse Asset Management Limited",https://www.linkedin.com/in/joshtaykowski/,"Credit Suisse Asset Management","2021-04-08 23:51:19"
+280,"Charles Pettinato","Company Name
+Credit Suisse Asset Management",NULL,NULL,NULL,NULL,"Company Name
+Credit Suisse Asset Management",https://www.linkedin.com/in/charles-pettinato-17111712/,"Credit Suisse Asset Management","2021-04-08 23:52:00"
+281,"Maximilian Kaufmann","Senior Portfolio Manager",NULL,NULL,NULL,NULL,"Senior Portfolio Manager",https://www.linkedin.com/in/maximiliankaufmann/," Geode Capital Management","2021-04-08 23:59:32"
+282,"Eric Matteson, CAIA","Company Name
+Geode Capital Management",NULL,NULL,NULL,NULL,"Company Name
+Geode Capital Management",https://www.linkedin.com/in/eric-matteson-caia-9649348/," Geode Capital Management","2021-04-09 00:00:13"
+283,"Dennis Neumann","Company Name
+Union Investment",NULL,NULL,NULL,NULL,"Company Name
+Union Investment",https://www.linkedin.com/in/dennis-neumann/,"Union Investment","2021-04-09 00:04:48"
+284,"Laura Kastner","Graduate Program | Digitalization in Real Estate","9/1/2020 12:00:00 AM",Present,"8 mos","Hamburg, Deutschland","Graduate Program | Digitalization in Real Estate",https://www.linkedin.com/in/laura-kastner-473359120/,"Union Investment","2021-04-09 00:05:29"
+285,"Hanbo Li","Asset Manager","8/1/2018 12:00:00 AM",Present,"2 yrs 9 mos","Greater Chicago Area","Asset Manager",https://www.linkedin.com/in/hanbo-li-1aa5508a/,"Aegon Asset Management","2021-04-09 00:08:15"
+286,"Jason Shounick","Associate Asset Manager","10/1/2020 12:00:00 AM",Present,"7 mos","Chicago, Illinois, United States","Associate Asset Manager",https://www.linkedin.com/in/jason-shounick-9a3714150/,"Aegon Asset Management ","2021-04-09 00:08:57"
+287,"Nicoletta Saccone","Junior Portfolio Manager","6/1/2019 12:00:00 AM",Present,"1 yr 11 mos","Milano, Italia","Junior Portfolio Manager",https://www.linkedin.com/in/nicoletta-saccone-37962689/,"Eurizon Asset Management","2021-04-09 00:12:41"
+288,"Andrea Villani","Company Name
+Eurizon",NULL,NULL,NULL,NULL,"Company Name
+Eurizon",https://www.linkedin.com/in/andrea-villani-9833201/,"Eurizon Asset Management","2021-04-09 00:13:22"
+289,"Cristian DelSolar, CFA",Researcher,"9/1/2017 12:00:00 AM",Present,"3 yrs 8 mos","San Francisco Bay Area",Researcher,https://www.linkedin.com/in/cristian-delsolar-cfa-02220624/,"Mellon Capital","2021-04-09 00:16:41"
+290,"Jun Shen","Company Name
+Mellon Capital",NULL,NULL,NULL,NULL,"Company Name
+Mellon Capital",https://www.linkedin.com/in/jun-shen-716b372/,"Mellon Capital","2021-04-09 00:17:22"
+291,"Nicholas Harper MPhil Oxon","Portfolio Manager","7/1/2017 12:00:00 AM",Present,"3 yrs 10 mos","London, Greater London, United Kingdom","Portfolio Manager",https://www.linkedin.com/in/nicholas-harper-mphil-oxon-4b994b1b/,"Janus Henderson Investors","2021-04-09 00:19:46"
+292,"Peter Webster, CFA","Company Name
+Henderson Global Investors",NULL,NULL,NULL,NULL,"Company Name
+Henderson Global Investors",https://www.linkedin.com/in/peter-webster-cfa-21a04120/,"Janus Henderson Investors","2021-04-09 00:20:28"
+293,"Jasmine Wells","Company Name
+Macquarie Group",NULL,NULL,NULL,NULL,"Company Name
+Macquarie Group",https://www.linkedin.com/in/jasminethind/,"Macquarie Group ","2021-04-09 00:23:25"
+294,"Wandy Hoh","Managing Director","12/1/2020 12:00:00 AM",Present,"5 mos","New York, New York, United States","Managing Director",https://www.linkedin.com/in/wandy-hoh-4b8742/,"Macquarie Group ","2021-04-09 00:24:07"
+295,"Marlie Tepait","Asset Manager",NULL,NULL,NULL,NULL,"Asset Manager",https://www.linkedin.com/in/marlie-tepait-052431108/,Barings,"2021-04-09 00:27:06"
+296,"Christian Wood","Company Name
+Barings",NULL,NULL,NULL,NULL,"Company Name
+Barings",https://www.linkedin.com/in/cwood92/,Barings,"2021-04-09 00:29:38"
+297,"John Cronin","Director, US Asset Management at SEI",NULL,NULL,NULL,NULL,"Director, US Asset Management at SEI",https://www.linkedin.com/in/john-cronin-ab313625/,SEI,"2021-04-09 00:33:20"
+298,"John Csaszar, MBA, CFA","Company Name
+SEI",NULL,NULL,NULL,NULL,"Company Name
+SEI",https://www.linkedin.com/in/john-csaszar-mba-cfa-14253921/,SEI,"2021-04-09 00:34:02"
+299,"Alissa Howard, CAIA","Institutional Portfolio Manager","4/1/2020 12:00:00 AM",Present,"1 yr 1 mo","Boston, Massachusetts, United States","Institutional Portfolio Manager",https://www.linkedin.com/in/alissa-howard-caia-73aa9822/,"RBC Global Asset Management","2021-04-09 00:36:55"
+300,"Sean McCurley, CFA","Portfolio Manager","2/1/2018 12:00:00 AM",Present,"3 yrs 3 mos","Toronto, Ontario, Canada","Portfolio Manager",https://www.linkedin.com/in/sean-mccurley-cfa-7297164/,"RBC Global Asset Management","2021-04-09 00:37:35"
+301,"Marco NÃ¤der","Company Name
+Fidelity International",NULL,NULL,NULL,NULL,"Company Name
+Fidelity International",https://www.linkedin.com/in/marco-n%C3%A4der-7703484a/,"Fidelity International","2021-04-09 00:40:25"
+302,"George Efstathopoulos","Multi Asset Portfolio Manager","9/1/2011 12:00:00 AM",Present,"9 yrs 8 mos",Singapore,"Multi Asset Portfolio Manager",https://www.linkedin.com/in/george-efstathopoulos-4079a413/,"Fidelity International","2021-04-09 00:41:07"
+303,"Dirk Pannewig","Company Name
+DekaBank Deutsche Girozentrale",NULL,NULL,NULL,NULL,"Company Name
+DekaBank Deutsche Girozentrale",https://www.linkedin.com/in/dirk-pannewig-20906861/,"DekaBank Deutsche Girozentrale","2021-04-09 00:43:48"
+304,"Dr. Dominik Wolff","Head of Quantitative Research/ Portfolio Manager Asset Allocation","2/1/2016 12:00:00 AM",Present,"5 yrs 3 mos","Frankfurt am Main, Deutschland","Head of Quantitative Research/ Portfolio Manager Asset Allocation",https://www.linkedin.com/in/dr-dominik-wolff-21248bba/,"DekaBank Deutsche Girozentrale","2021-04-09 00:44:29"
+305,"Varinia Siefker","Company Name
+Dodge & Cox",NULL,NULL,NULL,NULL,"Company Name
+Dodge & Cox",https://www.linkedin.com/in/variniasiefker/,"Dodge & Cox","2021-04-09 00:47:13"
+306,"Paul Cecconi, CIMAÂ®","Portfolio Manager","5/1/2019 12:00:00 AM",Present,"2 yrs","San Francisco Bay Area","Portfolio Manager",https://www.linkedin.com/in/pcecconi/,"Dodge & Cox","2021-04-09 00:47:56"
+307,"Ali Hassani","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/ali-hassani-6b89297a/,MEAG,"2021-04-09 00:50:44"
+308,"Heiko Bosler MRICS","Asset Manager Immobilien","7/1/2017 12:00:00 AM",Present,"3 yrs 10 mos","MÃ¼nchen und Umgebung, Deutschland","Asset Manager Immobilien",https://www.linkedin.com/in/heiko-bosler-mrics-27b79b52/,MEAG,"2021-04-09 00:51:27"
+309,"Marc Larson","Company Name
+Russell Investments",NULL,NULL,NULL,NULL,"Company Name
+Russell Investments",https://www.linkedin.com/in/marc-larson/,"Russell Investments","2021-04-09 00:58:11"
+310,"Brett Deits","Senior Portfolio Manager","6/1/2010 12:00:00 AM",Present,"10 yrs 11 mos",Seattle,"Senior Portfolio Manager",https://www.linkedin.com/in/brett-deits-199b643/,"Russell Investments","2021-04-09 00:58:50"
+311,"Robert Surgent","Managing Director","3/1/2020 12:00:00 AM",Present,"1 yr 2 mos","New York, New York","Managing Director",https://www.linkedin.com/in/robert-surgent-1730485b/,"Neuberger Berman ","2021-04-09 01:01:18"
+312,"Lee Tawil","Managing Director",NULL,NULL,NULL,NULL,"Managing Director",https://www.linkedin.com/in/lee-tawil-1a63781/,"Neuberger Berman ","2021-04-09 01:02:02"
+313,"James Perry","IT Asset Manager","1/1/2018 12:00:00 AM",Present,"3 yrs 4 mos","Greater St. Louis Area","IT Asset Manager",https://www.linkedin.com/in/james-perry-45a70818/,"Stifel Financial Corp.","2021-04-09 01:06:08"
+314,"Robert Fenton","Vice President/Investments","5/1/2018 12:00:00 AM",Present,"3 yrs","Traverse City, Michigan","Vice President/Investments",https://www.linkedin.com/in/robert-fenton-b1067010/,"Stifel Financial Corp.","2021-04-09 01:06:45"
+315,"Olutayo Osunkunle, CFA","Company Name
+Nordea Asset Management",NULL,NULL,NULL,NULL,"Company Name
+Nordea Asset Management",https://www.linkedin.com/in/olutayo-osunkunle/,"Nordea Asset Management","2021-04-09 01:11:27"
+316,"Sunil George","Portfolio Manager and Senior Analyst",NULL,NULL,NULL,NULL,"Portfolio Manager and Senior Analyst",https://www.linkedin.com/in/sunil-george-5b25568/,"Nordea Asset Management","2021-04-09 01:12:08"
+317,"Talha Zafar, CFA","Investment Manager Private Equity","2/1/2021 12:00:00 AM",Present,"3 mos",Netherlands,"Investment Manager Private Equity",https://www.linkedin.com/in/talhazafar1/,PGGM,"2021-04-09 01:15:01"
+318,"Tanvi Karambelkar","Investment Manager",NULL,NULL,NULL,NULL,"Investment Manager",https://www.linkedin.com/in/tanvi-karambelkar/,PGGM,"2021-04-09 01:15:42"
+319,"J.P. Gurnee, CFA","Company Name
+BMO Global Asset Management U.S.",NULL,NULL,NULL,NULL,"Company Name
+BMO Global Asset Management U.S.",https://www.linkedin.com/in/jamesgurnee/,"BMO Global Asset Management","2021-04-09 09:38:40"
+320,"Tim Alt, CFA, CMT","Portfolio Manager","12/1/2019 12:00:00 AM",Present,"1 yr 5 mos","Miami, FL","Portfolio Manager",https://www.linkedin.com/in/tim-alt-cfa-cmt-9a69336/,"BMO Global Asset Management","2021-04-09 09:39:22"
+321,"Alexandre Goudard","Company Name
+La Banque Postale Asset Management",NULL,NULL,NULL,NULL,"Company Name
+La Banque Postale Asset Management",https://www.linkedin.com/in/alexandregoudard/,"La Banque Postale Asset Management","2021-04-09 09:41:56"
+322,"Nicolas MEUSBURGER","Company Name
+LA BANQUE POSTALE ASSET MANAGEMENT",NULL,NULL,NULL,NULL,"Company Name
+LA BANQUE POSTALE ASSET MANAGEMENT",https://www.linkedin.com/in/nicolas-meusburger-30771125/,"La Banque Postale Asset Management","2021-04-09 09:42:38"
+323,"Peter Yanulis","Company Name
+Loomis, Sayles & Company",NULL,NULL,NULL,NULL,"Company Name
+Loomis, Sayles & Company",https://www.linkedin.com/in/peter-yanulis-ab7602a/,"Loomis, Sayles & Company","2021-04-09 09:45:12"
+324,"Heather Young, CFA","Company Name
+Loomis, Sayles & Company",NULL,NULL,NULL,NULL,"Company Name
+Loomis, Sayles & Company",https://www.linkedin.com/in/heathermaeyoung/,"Loomis, Sayles & Company","2021-04-09 09:45:52"
+325,"Adriaan van der Knaap","Portfolio Manager","4/1/2016 12:00:00 AM",Present,"5 yrs 1 mo","New York City","Portfolio Manager",https://www.linkedin.com/in/adriaan-van-der-knaap-3197b615/,"Apollo Global Management Inc.","2021-04-09 09:48:03"
+326,"Daniel Ho","Managing Director, Global Head of CRE Debt Asset Management","3/1/2020 12:00:00 AM",Present,"1 yr 2 mos","New York City Metropolitan Area","Managing Director, Global Head of CRE Debt Asset Management",https://www.linkedin.com/in/daniel-ho-27492117/,"Apollo Global Management Inc. Full-time","2021-04-09 09:48:40"
+327,"Nicoleta Dumitru","Company Name
+Baillie Gifford",NULL,NULL,NULL,NULL,"Company Name
+Baillie Gifford",https://www.linkedin.com/in/nicoleta-dumitru-7637a460/," Baillie Gifford","2021-04-09 09:50:52"
+328,"Scott Lothian","Investment Manager",NULL,NULL,NULL,NULL,"Investment Manager",https://www.linkedin.com/in/scott-lothian-41877a13/," Baillie Gifford","2021-04-09 09:51:33"
+329,"Ajamu Stoner, MBA","CRE Asset Manager","6/1/2020 12:00:00 AM",Present,"11 mos","Charlotte, North Carolina, United States","CRE Asset Manager",https://www.linkedin.com/in/ajamustoner/,Blackrock,"2021-04-09 15:15:03"
+330,"Billy Lang","Portfolio Manager","7/1/2016 12:00:00 AM",Present,"4 yrs 10 mos","New York","Portfolio Manager",https://www.linkedin.com/in/ylangylang/,"HSBC Global Asset Management ","2021-04-09 15:15:46"
+331,"John Hwang","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/john-hwang-3009727a/,"Western Asset Management Company","2021-04-09 15:20:58"
+332,"Nick Gage, CFA","Senior Principal","2008 –",NULL,"13 yrs","Greater Minneapolis-St. Paul Area","Senior Principal",https://www.linkedin.com/in/nick-gage-cfa-61a9ba8/,"Galliard Capital Management","2021-03-27 19:46:00"
+333,"Sam Caven","Managing Director","5/11/2021 12:00:00 AM",Present,"9 yrs 11 mos","San Francisco Bay Area","Managing Director",https://www.linkedin.com/in/sam-caven-87b4307/,"Starwood Capital Group","2021-03-27 21:07:00"
+334,"Richard Sidoti","Senior Manager of Portfolio Analytics",NULL,NULL,NULL,NULL,"Senior Manager of Portfolio Analytics",https://www.linkedin.com/in/richardsidoti/,"Starwood Capital Group","2021-03-27 21:08:00"
+335,"Jamie Crockett","Investment Manager","7/18/2021 12:00:00 AM",Present,"2 yrs 10 mos","London, United Kingdom","Investment Manager",https://www.linkedin.com/in/jamie-crockett-306b09108/?originalSubdomain=uk,"La Française","2021-04-04 16:05:00"
+336,"Alexander French","Investment Manager","9/16/2021 12:00:00 AM",Present,"4 yrs 8 mos","London, United Kingdom","Investment Manager",https://www.linkedin.com/in/alexanderjeromefrench/,"La Française","2021-04-04 16:09:00"
+337,"Charles Haddad","Portfolio Manager","1/19/2021 12:00:00 AM",Present,"2 yrs 4 mos","Paris Area, France","Portfolio Manager",https://www.linkedin.com/in/charles-haddad-320b566/,"OFI Asset Management","2021-04-04 16:13:00"
+338,"Smail ZERROUKI","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/smail-zerrouki/,"OFI Asset Management","2021-04-04 16:14:00"
+339,"Alessandro Benatti","Settlements Administrator","9/19/2021 12:00:00 AM",Present,"1 yr 8 mos","County Dublin, Ireland","Settlements Administrator",https://www.linkedin.com/in/alessandro-benatti-40204980/,"Irish Life Investment Managers","2021-04-04 16:24:00"
+340,"Leonie Mac Cann, CFA","Senior Portfolio Manager","7/20/2021 12:00:00 AM",Present,"10 mos","Dublin, Ireland","Senior Portfolio Manager",https://www.linkedin.com/in/leonie-mac-cann-cfa-154b3310/,"Irish Life Investment Managers","2021-04-04 16:25:00"
+341,"Christoph Wunn",Director,NULL,NULL,NULL,NULL,Director,https://www.linkedin.com/in/christoph-wunn-41a88a53/,"William Blair","2021-04-04 16:38:00"
+342,"Charles Kurose","Investment Banking Vice President",NULL,NULL,NULL,NULL,"Investment Banking Vice President",https://www.linkedin.com/in/charleskurose/,"William Blair","2021-04-04 16:39:00"
+343,"Chris Mahoney","Fund Manager","7/20/2021 12:00:00 AM",Present,"10 mos","London, England, United Kingdom","Fund Manager",https://www.linkedin.com/in/chris-mahoney-b92570108/,"Jupiter Asset Management","2021-04-04 16:55:00"
+344,"David Lewis","Fund Manager",NULL,NULL,NULL,NULL,"Fund Manager",https://www.linkedin.com/in/david-lewis-88904367/,"Jupiter Asset Management","2021-04-04 16:56:00"
+345,"Mikko Ripatti","Head of Iberia and Senior Client Portfolio Manager","6/15/2021 12:00:00 AM",Present,"5 yrs 11 mos",Luxembourg,"Head of Iberia and Senior Client Portfolio Manager",https://www.linkedin.com/in/mikko-ripatti-667428/,"DNB Asset Management S.A. (International) Full-time","2021-04-04 17:04:00"
+346,"Marta Oudot","Regional Manager","10/18/2021 12:00:00 AM",Present,"2 yrs 7 mos","Région de Paris, France","Regional Manager",https://www.linkedin.com/in/marta-oudot-10656a/,"DNB Asset Management S.A.","2021-04-04 17:04:00"
+347,"Tobias Tallberg","Company Name
+Handelsbanken Asset Management",NULL,NULL,NULL,NULL,"Company Name
+Handelsbanken Asset Management",https://www.linkedin.com/in/tobias-tallberg-75866349/?originalSubdomain=se,"Handelsbanken Asset Management","2021-04-04 17:07:00"
+348,"Tomas Gylfe","Portfolio Manager","20 yrs",mos,"Jun 2013 – Present","7 yrs 11 mos","Portfolio Manager",https://www.linkedin.com/in/tomas-gylfe-8913551/,"Handelsbanken Asset Management","2021-04-04 17:11:00"
+349,"Karl Stavenberg","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/karl-stavenberg-0148b78/,"Handelsbanken Asset Management","2021-04-04 17:17:00"
+350,"Xin Xu","Portfolio Manager","10/8/2021 12:00:00 AM",Present,"12 yrs 7 mos","London, United Kingdom","Portfolio Manager",https://www.linkedin.com/in/xin-xu-0409029b/,Ashmore,"2021-04-04 17:21:00"
+351,"Emir Kapanci, CFA","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/emir-kapanci-cfa-74a2a93/,Ashmore,"2021-04-04 17:22:00"
+352,"Juzheng Chen","Manager, Investment and Business Development",NULL,NULL,NULL,NULL,"Manager, Investment and Business Development",https://www.linkedin.com/in/juzheng-chen-709397a4/,CapitaLand,"2021-04-04 17:26:00"
+353,"Kalyn Lim","Manager, Asset Management",NULL,NULL,NULL,NULL,"Manager, Asset Management",https://www.linkedin.com/in/kalyn-lim-59859698/,CapitaLand,"2021-04-04 17:26:00"
+354,"Sebastiaan Masselink","Senior Investment Manager, Sustainable Energy Transition Fund","5/17/2021 12:00:00 AM",Present,"4 yrs","Utrecht Area, Netherlands","Senior Investment Manager, Sustainable Energy Transition Fund",https://www.linkedin.com/in/smasselink/,ACTIAM,"2021-04-04 17:29:00"
+355,"Alexander Lubeck","Senior Investment Manager Energy Transition",NULL,NULL,NULL,NULL,"Senior Investment Manager Energy Transition",https://www.linkedin.com/in/alexander-lubeck-2284292/,ACTIAM,"2021-04-04 17:29:00"
+356,"Dmitri Tikhonov","Head of Portfolio Management","18 yrs",mos,"Apr 2009 – Present","12 yrs 1 mo","Head of Portfolio Management",https://www.linkedin.com/in/dtikhonov/,"Record Currency Management","2021-04-04 17:36:00"
+357,"Philip Clements, CFA, CAIA","Associate Director, Client Team (North America)","9/16/2021 12:00:00 AM",Present,"4 yrs 8 mos","New York, United States","Associate Director, Client Team (North America)",https://www.linkedin.com/in/philipclements/,"Record Currency Management","2021-04-04 17:37:00"
+358,"Yigal D. Jhirad","Senior Vice President",NULL,NULL,NULL,NULL,"Senior Vice President",https://www.linkedin.com/in/yigaljhirad/,"Cohen & Steers","2021-04-04 17:41:00"
+359,"Robert Becker","Senior Vice President, Portfolio Manager","11/3/2021 12:00:00 AM",Present,"17 yrs 6 mos","Greater New York City Area","Senior Vice President, Portfolio Manager",https://www.linkedin.com/in/robert-becker-1500082a/,"Cohen & Steers","2021-04-04 17:42:00"
+360,"Matt Russ, CFA","Managing Director",NULL,NULL,NULL,NULL,"Managing Director",https://www.linkedin.com/in/mattruss/,"Marathon Asset Management","2021-04-04 17:45:00"
+361,"Adam Conrad","Managing Director - Maritime Finance","2018 –",NULL,"3 yrs","Greater New York City Area","Managing Director - Maritime Finance",https://www.linkedin.com/in/a-conrad/,"Marathon Asset Management","2021-04-04 17:46:00"
+362,"Jennifer Boss","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/jennifer-boss-5682b12/,Heitman,"2021-04-04 17:50:00"
+363,"Shruti Waghray","Senior Vice President",NULL,NULL,NULL,NULL,"Senior Vice President",https://www.linkedin.com/in/shruti-waghray/,Heitman,"2021-04-04 17:50:00"
+364,"Michael Reinhard","CEO, Managing Director",NULL,NULL,NULL,NULL,"CEO, Managing Director",https://www.linkedin.com/in/michael-reinhard-b0863b14/,"Universal Investment","2021-04-04 17:58:00"
+365,"Daniel Andemeskel","Director - Head of Innovation Management",NULL,NULL,NULL,NULL,"Director - Head of Innovation Management",https://www.linkedin.com/in/daniel-andemeskel-0990658/,"Universal Investment","2021-04-04 17:58:00"
+366,"Arun Daniel","Senior Portfolio Manager","7/14/2021 12:00:00 AM",Present,"6 yrs 10 mos","Greater Boston","Senior Portfolio Manager",https://www.linkedin.com/in/arundanielpm/,"J O Hambro Capital Management","2021-04-04 18:03:00"
+367,"Steve Kennedy","Vice President, Healthcare Portfolio Management","1/15/2021 12:00:00 AM",Present,"6 yrs 4 mos","Dallas/Fort Worth Area","Vice President, Healthcare Portfolio Management",https://www.linkedin.com/in/stevekennedy3/,"Colony Capital, Inc.","2021-04-04 18:26:00"
+368,"Dana Duprey","Associate, Global Operations Manager","11/9/2021 12:00:00 AM",Present,"11 yrs 6 mos","Greater New York City Area","Associate, Global Operations Manager",https://www.linkedin.com/in/dana-duprey-3a0b82196/,"Colony Capital, Inc. ","2021-04-04 18:26:00"
+369,"Ken Frier","Member Programming Advisory Council",NULL,NULL,NULL,NULL,"Member Programming Advisory Council",https://www.linkedin.com/in/ken-frier-00b47a1/,"SECOR Asset Management","2021-04-04 18:29:00"
+370,"Scott Freemon","Partner, Head of Strategy and Risk","10/10/2021 12:00:00 AM",Present,"10 yrs 7 mos","New York, NY","Partner, Head of Strategy and Risk",https://www.linkedin.com/in/scott-freemon-5b2ba4/,"SECOR Asset Management","2021-04-04 18:30:00"
+371,"Tony Birdsey","Senior Director",NULL,NULL,NULL,NULL,"Senior Director",https://www.linkedin.com/in/tony-birdsey-b484457/,"Tishman Speyer","2021-04-04 18:34:00"
+372,"EB Kelly","Managing Director",NULL,NULL,NULL,NULL,"Managing Director",https://www.linkedin.com/in/eb-kelly-5788715/,"Tishman Speyer","2021-04-04 18:38:00"
+373,"Federico Berruto, Ph.D., CFA","Investment Risk Manager","5/19/2021 12:00:00 AM",Present,"2 yrs",Boston,"Investment Risk Manager",https://www.linkedin.com/in/federico-berruto/,"HarbourVest Partners","2021-04-04 18:41:00"
+374,"Olav Konig","Managing Director, Head of Sales and Client Service EMEA","9/13/2021 12:00:00 AM",Present,"7 yrs 8 mos","London, United Kingdom","Managing Director, Head of Sales and Client Service EMEA",https://www.linkedin.com/in/olav-konig-ab53896/,"HarbourVest Partners","2021-04-04 18:41:00"
+375,"William W. Priest, CFA","Executive Chairman, Co-Chief Investment Officer and Portfolio Manager",NULL,NULL,NULL,NULL,"Executive Chairman, Co-Chief Investment Officer and Portfolio Manager",https://www.linkedin.com/in/william-w-priest-cfa-b42894169/,"Epoch Investment Partners, Inc.","2021-04-04 18:44:00"
+376,"Juerg Fritschi","Managing Director | Head of Asia, Business Development & Client Servicing","10/20/2021 12:00:00 AM",Present,"7 mos",Singapore,"Managing Director | Head of Asia, Business Development & Client Servicing",https://www.linkedin.com/in/juerg-fritschi-8713a7/,"Epoch Investment Partners, Inc.","2021-04-04 18:45:00"
+377,"Brian Conry","Company Name
+PineBridge Investments",NULL,NULL,NULL,NULL,"Company Name
+PineBridge Investments",https://www.linkedin.com/in/brianconry/,"PineBridge Investments","2021-04-06 17:38:00"
+378,"Kate E. Faraday","Portfolio Manager, Global Equities, Managing Director",NULL,NULL,NULL,NULL,"Portfolio Manager, Global Equities, Managing Director",https://www.linkedin.com/in/kate-e-faraday-86a1794/,"PineBridge Investments","2021-04-06 17:39:00"
+379,"Arnaud Besse","Senior Portfolio Manager - Private Banking","9/15/2021 12:00:00 AM",Present,"5 yrs 8 mos","Paris Area, France","Senior Portfolio Manager - Private Banking",https://www.linkedin.com/in/arnaud-besse-8063256/,"Rothschild & Co","2021-04-06 17:41:00"
+380,"Michael Zhang",Director,"1/21/2021 12:00:00 AM",Present,"4 mos","San Francisco Bay Area",Director,https://www.linkedin.com/in/mrzhang/,"Rothschild & Co","2021-04-06 17:42:00"
+381,"Sean Fredrick Robertson","Senior Vice President Institutional Sales",NULL,NULL,NULL,NULL,"Senior Vice President Institutional Sales",https://www.linkedin.com/in/seanfredrickrobertson/,Mesirow,"2021-04-06 17:52:00"
+382,"Deniz Akdogan","Sales Institutional Clients","7/20/2021 12:00:00 AM",Present,"10 mos",Deutschland,"Sales Institutional Clients",https://www.linkedin.com/in/deniz-akdogan-998927102/,"LBBW Asset Management Investmentgesellschaft mbH Full-time","2021-04-06 21:51:00"
+383,"Renee Carroll","Leasing Manager","6/15/2021 12:00:00 AM",Present,"5 yrs 11 mos","Las Vegas, NV","Leasing Manager",https://www.linkedin.com/in/renee-carroll-lv/,Prologis,"2021-04-06 21:56:00"
+384,"Adam Bray","Senior Leasing Manager","2/20/2021 12:00:00 AM",Present,"1 yr 3 mos","Houston, Texas Area","Senior Leasing Manager",https://www.linkedin.com/in/adam-bray/,Prologis,"2021-04-06 21:56:00"
+385,"Jean-Marc Schneebeli","Director - Senior Client Relationship Manager Independent Asset Managers","8/20/2021 12:00:00 AM",Present,"9 mos","Genève, Suisse","Director - Senior Client Relationship Manager Independent Asset Managers",https://www.linkedin.com/in/jean-marc-schneebeli-597434/,"Edmond de Rothschild","2021-04-06 22:01:00"
+386,"Adam Crickmore","Director, UK Commercial Fund Management","6/16/2021 12:00:00 AM",Present,"4 yrs 11 mos",London,"Director, UK Commercial Fund Management",https://www.linkedin.com/in/adam-crickmore-01219433/,"Edmond de Rothschild","2021-04-06 22:02:00"
+387,"Christina Han-van der Meer","Private Equity, Senior Vice President","2018 –",NULL,"3 yrs","Zurich, Switzerland","Private Equity, Senior Vice President",https://www.linkedin.com/in/christinaluhan/,"Partners Group","2021-04-06 22:05:00"
+388,"Celia Rodgers, CFA","Associate Portfolio Manager",NULL,NULL,NULL,NULL,"Associate Portfolio Manager",https://www.linkedin.com/in/celia-rodgers-cfa-0806a02a/,"Brandywine Global Investment Management","2021-04-06 22:09:00"
+389,"Tariq Ahmad","Director & CEO, Asia",NULL,NULL,NULL,NULL,"Director & CEO, Asia",https://www.linkedin.com/in/tariq-ahmad-b16874b/,"Brandywine Global Investment Management","2021-04-06 22:10:00"
+390,"Karolina Bednarova","Relationship Manager Private Banking","10/19/2021 12:00:00 AM",Present,"1 yr 7 mos","Frankfurt am Main und Umgebung, Deutschland","Relationship Manager Private Banking",https://www.linkedin.com/in/karolinabednarova/,"Hauck & Aufhäuser","2021-04-06 22:19:00"
+391,"Madeleine Sander","Company Name
+Hauck & Aufhäuser",NULL,NULL,NULL,NULL,"Company Name
+Hauck & Aufhäuser",https://www.linkedin.com/in/madeleine-sander-23758b172/,"Hauck & Aufhäuser","2021-04-06 22:19:00"
+392,"Mark Hammond","Head of Institutional Pooled Funds",NULL,NULL,NULL,NULL,"Head of Institutional Pooled Funds",https://www.linkedin.com/in/mark-hammond-8a920413/,"Newton Investment Management","2021-04-06 22:21:00"
+393,"KERRY WEST","Dividends administrator ( Aladdin project)","2/20/2021 12:00:00 AM",Present,"1 yr 3 mos","London, England, United Kingdom","Dividends administrator ( Aladdin project)",https://www.linkedin.com/in/kerry-west-5612763b/,"Newton Investment Management","2021-04-06 22:22:00"
+394,"Jeantine van der Feest","Senior Product Manager","3/20/2021 12:00:00 AM",Present,"1 yr 2 mos","Amsterdam, North Holland, Netherlands","Senior Product Manager",https://www.linkedin.com/in/jeantine/,"Kempen Capital Management","2021-04-06 22:26:00"
+395,"Gerard Roelofs","Executive committee Kempen, Global head of Client and Investment Solutions","2017 –",NULL,"4 yrs",Amsterdam,"Executive committee Kempen, Global head of Client and Investment Solutions",https://www.linkedin.com/in/gerard-roelofs-14961b5/,"Kempen Capital Management (part of Van Lanschot Kempen)","2021-04-06 22:27:00"
+396,"Pierre HACHET","Data Manager","9/19/2021 12:00:00 AM",Present,"1 yr 8 mos","Düsseldorf, North Rhine-Westphalia, Germany","Data Manager",https://www.linkedin.com/in/pierre-hachet-5a95b274/,"ODDO BHF ASSET MANAGEMENT SAS","2021-04-06 22:28:00"
+397,"Russ Trpkovski","Operating Partner","6/20/2021 12:00:00 AM",Present,"11 mos","Chicago, Illinois, United States","Operating Partner",https://www.linkedin.com/in/russtrpkovski/,"CVC Capital Partners","2021-04-06 22:33:00"
+398,"Tomas Ekman",Partner,"12/14/2021 12:00:00 AM",Present,"6 yrs 5 mos",Stockholm,Partner,https://www.linkedin.com/in/tomasekman/,"CVC Capital Partners","2021-04-06 22:33:00"
+399,"Richard Barry","Head of Executive Initiatives","1/20/2021 12:00:00 AM",Present,"1 yr 4 mos","Edinburgh City, Scotland, United Kingdom","Head of Executive Initiatives",https://www.linkedin.com/in/rjcbarry/,"Walter Scott & Partners Ltd","2021-04-06 22:37:00"
+400,"Craig McFarlane",Settlements,NULL,NULL,NULL,NULL,Settlements,https://www.linkedin.com/in/craig-mcfarlane-b9518763/,"Walter Scott & Partners Ltd","2021-04-06 22:38:00"
+401,"Steve Roche","General Manager","7/20/2021 12:00:00 AM",Present,"10 mos","New York, United States","General Manager",https://www.linkedin.com/in/steve-roche-a2107a8/,QIC,"2021-04-06 22:41:00"
+402,"Daniel O'Driscoll","Investment Manager",NULL,NULL,NULL,NULL,"Investment Manager",https://www.linkedin.com/in/daniel-o-driscoll-a326753a/,QIC,"2021-04-06 22:42:00"
+403,"Antonio Tricarico","Senior Relationship Manager Attaché de Direction","1/15/2021 12:00:00 AM",Present,"6 yrs 4 mos",Luxembourg,"Senior Relationship Manager Attaché de Direction",https://www.linkedin.com/in/antonio-tricarico-5612bb40/,"Degroof Petercam Asset Services","2021-04-06 22:46:00"
+404,"Michel Boelen","Senior Portfolio Manager","15 yrs",mos,"Oct 2005 – Present","15 yrs 7 mos","Senior Portfolio Manager",https://www.linkedin.com/in/michel-boelen/,"Degroof Petercam Asset Services","2021-04-06 22:47:00"
+405,"Sven P. Hasenberg","Vice President | M&A and VC","10/16/2021 12:00:00 AM",Present,"4 yrs 7 mos","Hamburg und Umgebung, Deutschland","Vice President | M&A and VC",https://www.linkedin.com/in/svenph/,"M.M.Warburg & CO","2021-04-06 22:50:00"
+406,"Matthias Thiel","Portfolio Manager, Vice President (Multi Asset and Liquid Alternatives)","2/18/2021 12:00:00 AM",Present,"3 yrs 3 mos","Hamburg Area, Germany","Portfolio Manager, Vice President (Multi Asset and Liquid Alternatives)",https://www.linkedin.com/in/matthias-thiel-942a48144/,"M.M.Warburg & CO","2021-04-06 22:51:00"
+407,"Lauren Connor","Associate Client Service and Business Development Officer",NULL,NULL,NULL,NULL,"Associate Client Service and Business Development Officer",https://www.linkedin.com/in/lauren-connor-1a3537102/,"Mondrian Investment Partners","2021-04-06 22:55:00"
+408,"Tom Armitage, CFA","Research Analyst",NULL,NULL,NULL,NULL,"Research Analyst",https://www.linkedin.com/in/tom-armitage-cfa-7a388660/,"Mondrian Investment Partners","2021-04-06 22:56:00"
+409,"Barbara Brida","Executive Director","3/17/2021 12:00:00 AM",Present,"4 yrs 2 mos","Zürich Area, Switzerland","Executive Director",https://www.linkedin.com/in/barbara-brida-23670a17/,"LGT Capital Partners","2021-04-06 22:58:00"
+410,"Pierre-Yves Moix","Chief Investment Officer, systematic strategies","9/18/2021 12:00:00 AM",Present,"2 yrs 8 mos","Pfäffikon SZ, Switzerland","Chief Investment Officer, systematic strategies",https://www.linkedin.com/in/pierre-yves-moix-270b8543/,"LGT Capital Partners","2021-04-06 22:59:00"
+411,"Jaime Garrido de la Parra","Director de Informacion de Mercados y Estrategia de Inversion. CESGA.","10/20/2021 12:00:00 AM",Present,"7 mos","Madrid, Comunidad de Madrid, España","Director de Informacion de Mercados y Estrategia de Inversion. CESGA.",https://www.linkedin.com/in/jaime-garrido-de-la-parra-a678039/,"CaixaBank Asset Management","2021-04-06 23:01:00"
+412,"Camille Lancesseur","ESG Investment","6/17/2021 12:00:00 AM",Present,"3 yrs 11 mos","London, United Kingdom","ESG Investment",https://www.linkedin.com/in/camille-lancesseur-28193240/,"BlueBay Asset Management","2021-04-06 23:14:00"
+413,"Gaetano TROIANO","Senior Manager Regulatory Reporting",NULL,NULL,NULL,NULL,"Senior Manager Regulatory Reporting",https://www.linkedin.com/in/gaetano-troiano-200a79/,"BlueBay Asset Management","2021-04-06 23:15:00"
+414,"Pamela Jackson","Aegon Asset Management",NULL,NULL,NULL,NULL,"Aegon Asset Management",https://www.linkedin.com/in/pamela-jackson-7a27b342/,"Victory Capital Management","2021-04-06 23:18:00"
+415,"Edouard Giraud","Senior Sales Manager","5/19/2021 12:00:00 AM",Present,"2 yrs","Frankfurt Am Main Area, Germany","Senior Sales Manager",https://www.linkedin.com/in/edouardgiraud/,"Victory Capital Management","2021-04-06 23:19:00"
+416,"Jorge Paredes, CFA, MAI","Vice President","9/17/2021 12:00:00 AM",Present,"3 yrs 8 mos","Chicago, IL","Vice President",https://www.linkedin.com/in/jorge-paredes-cfa-mai-96ab8634/,"LaSalle Investment Management","2021-04-07 08:25:00"
+417,"Manish Singhai","Chief Investment Officer","5/16/2021 12:00:00 AM",Present,"5 yrs",Singapore,"Chief Investment Officer",https://www.linkedin.com/in/manish-singhai-b20a7238/,"Tokio Marine Asset Management International","2021-04-07 08:42:00"
+418,"Romain Dessarzin","Assistant de gérance",NULL,NULL,NULL,NULL,"Assistant de gérance",https://www.linkedin.com/in/romain-dessarzin-845b85208/,"Baloise Asset Management","2021-04-07 08:48:00"
+419,"Michael Boylan","Co-Manager & Principal",NULL,NULL,NULL,NULL,"Co-Manager & Principal",https://www.linkedin.com/in/michael-boylan-95720855/,"BBH Capital Partners","2021-04-07 08:54:00"
+420,"Zakaria Darouich, CFA, CQF","Senior Portfolio Manager","2/19/2021 12:00:00 AM",Present,"2 yrs 3 mos","Paris Area, France","Senior Portfolio Manager",https://www.linkedin.com/in/zakariadarouich/,"CPR Asset Management","2021-04-07 09:49:00"
+421,"Nicolas Lacour","Head of Digital Marketing","7 yrs",mos,"Mar 2017 – Present","4 yrs 2 mos","Head of Digital Marketing",https://www.linkedin.com/in/nicolas-lacour/,"CPR Asset Management","2021-04-07 09:50:00"
+422,"Debangan Misra","Head Of Technology ,Engineering Manager","6/18/2021 12:00:00 AM",Present,"2 yrs 11 mos","Dublin, Leinster, Ireland","Head Of Technology ,Engineering Manager",https://www.linkedin.com/in/debanganmisra/,"W&W Investment Managers","2021-04-07 09:57:00"
+423,"Deirdre O'Reilly FCA","Independent Non-Executive Director","6/20/2021 12:00:00 AM",Present,"11 mos","London, England, United Kingdom","Independent Non-Executive Director",https://www.linkedin.com/in/deirdre-o-reilly-fca-3192b25a/,"W&W Investment Managers","2021-04-07 09:57:00"
+424,"Xiao Chen","Equity Investments - Stock Selector Group","7/15/2021 12:00:00 AM",Present,"5 yrs 10 mos","Greater Boston Area","Equity Investments - Stock Selector Group",https://www.linkedin.com/in/xiao-chen-049b7295/,"PanAgora Asset Management","2021-04-07 10:05:00"
+425,"Maria Granlund",Intern,"6/1/1997 12:00:00 AM","7/1/1997 12:00:00 AM","2 mos","Sterling, Virginia, USA","Company Name
+Alfred Berg",https://www.linkedin.com/in/maria-granlund/,"Saab Aircraft Finance Corporation","2021-09-04 14:18:00"
+426,"Eric Rustad","Wealth Management Internship",NULL,NULL,NULL,NULL,"Investment Analyst",https://www.linkedin.com/in/ericrustad/,NULL,"2021-09-04 14:19:00"
+427,"Jonathan Wilson",Associate,NULL,NULL,NULL,NULL,"Managing Director",https://www.linkedin.com/in/jonathan-wilson-9721684/,NULL,"2021-09-04 14:19:00"
+428,"Lata McNulty","Senior Manager, Business Risk and Compliance","1/14/2021 12:00:00 AM","6/15/2021 12:00:00 AM","1 yr 6 mos","Melbourne, Australia","Company Name
+Maple-Brown Abbott",https://www.linkedin.com/in/lata-mcnulty-a2888b7/,Superpartners,"2021-09-04 14:20:00"
+429,"Jeremy Katz","Real Estate Group",NULL,NULL,NULL,NULL,"Company Name
+HQ Capital",https://www.linkedin.com/in/jeremy-katz-a931605/,NULL,"2021-09-04 14:20:00"
+430,"Jeffrey Beachell","Portfolio Manager, Fixed Income Portfolio Manager, & IT Director","9/1/1993 12:00:00 AM","5/1/1997 12:00:00 AM","3 yrs 9 mos","suburban Philadelphia",Partner,https://www.linkedin.com/in/jeffrey-beachell-52a3332/,"Stolper & Co.","2021-09-04 14:48:00"
+431,"Martin Glob","Freelance developer",NULL,NULL,NULL,NULL,"Systems Manager",https://www.linkedin.com/in/martinglob/,NULL,"2021-09-04 14:48:00"
+432,"Jeppe Christiansen","Head of International Economics",NULL,NULL,NULL,NULL,CEO,https://www.linkedin.com/in/jeppe-christiansen-37b834131/,NULL,"2021-09-04 14:49:00"
+433,"Domingo Alonso","Senior Financial Analyst","2005 â€“",NULL,"1 yr","Greater New York City Area","Managing Partner",https://www.linkedin.com/in/domingo-alonso-5295214/,"General Motors","2021-09-04 14:49:00"
+434,"Kurt Kara","Portfolio Manager",NULL,NULL,NULL,NULL,"Head of Global Value Equities",https://www.linkedin.com/in/kurt-kara-8758831/,NULL,"2021-09-04 14:50:00"
+435,"Julie Gorte","Program Manager for Technology",NULL,NULL,NULL,NULL,"Senior Vice President for Sustainable Investing",https://www.linkedin.com/in/julie-gorte-9278ab/,NULL,"2021-09-04 14:50:00"
+436,"Benjamin Wilson",Analyst,NULL,NULL,NULL,NULL,"Managing Director",https://www.linkedin.com/in/benjamin-wilson-8b3a6a4/,NULL,"2021-09-04 14:51:00"
+437,"Kyle Jonas","Caddy / Bag Room Attendant","5/13/2021 12:00:00 AM","8/16/2021 12:00:00 AM","3 yrs 4 mos","Wilton CT","Company Name
+HQ Capital Private Equity",https://www.linkedin.com/in/kyle-jonas-429242115/,"Rolling Hills Country Club","2021-09-04 14:51:00"
+438,"Rajnish S. Rao, CPA","Audit Senior","2002 â€“",NULL,"2 yrs","New York, NY","Vice President, Private Equity Finance",https://www.linkedin.com/in/rajnish-s-rao-cpa-8836789/,"EY Full-time","2021-09-04 14:52:00"
+439,"Wilco Visser","Specialist Second Line Monitoring (SLM) Risk a.i.",NULL,NULL,NULL,NULL,"Senior Analist CDD a.i.",https://www.linkedin.com/in/wilco-visser-bbb4107/,NULL,"2021-09-04 14:53:00"
+440,"Jacco Tool",Owner/trainer,NULL,NULL,NULL,NULL,"Company Name
+Bouwinvest",https://www.linkedin.com/in/jaccotool/,NULL,"2021-09-04 14:53:00"
+441,"Bas Bogaerts","Compliance Advisor CAAML & Sanctions a.i.","7/14/2021 12:00:00 AM","12/14/2021 12:00:00 AM","6 mos","Amsterdam Area, Netherlands","Compliance Manager a.i.",https://www.linkedin.com/in/basbogaerts/,"ABN AMRO Bank N.V.","2021-09-04 14:54:00"
+442,"Kent Siefers","High Yield Research Analyst","1996 â€“",NULL,"1 yr","Greater Pittsburgh Area","Company Name
+Impax Asset Management LLC | Pax World Funds",https://www.linkedin.com/in/kent-siefers-35641a39/,"Federated Investors","2021-09-04 14:54:00"
+443,"Chris B.","Investment Banking Analyst","2005 â€“",NULL,"1 yr","Greater New York City Area","Director of Investor Relations & Fundraising | Private Equity, Sustainable Investing",https://www.linkedin.com/in/christopherbole/,"Bear Stearns","2021-09-04 14:55:00"
+444,"Barbara Browning","Senior Equity Analyst",NULL,NULL,NULL,NULL,"Portfolio Manager, US Large Cap, Global Woman's Select Strategy, Global Women's Leadership Fund",https://www.linkedin.com/in/barbarabrowning/,NULL,"2021-09-04 14:55:00"
+445,"Jonathan Yan","Pre-MBA Associate",NULL,NULL,NULL,NULL,Investor,https://www.linkedin.com/in/jonathan-yan-00194127/,NULL,"2021-09-04 14:56:00"
+446,"Stefan Jaecklin","Board Member Lionstep","12/17/2021 12:00:00 AM",Present,"3 yrs 5 mos","ZÃ¼rich Area, Switzerland","Startup Entrepreneur and Founder, as well as Advisor to Financial Services Companies",https://www.linkedin.com/in/stefan-jaecklin-1b00021/,LIONSTEP,"2021-09-04 14:56:00"
+447,"Noah Bonomi Antunes","Internship in Trading, M&A and Market Analyst","7/8/2021 12:00:00 AM","9/8/2021 12:00:00 AM","3 mos","Tokyo, Japan","Vice President",https://www.linkedin.com/in/noahbonomi/,UBS,"2021-09-04 14:57:00"
+448,"Karen Massicot",Communication,NULL,NULL,NULL,NULL,"Company Name
+Mirova",https://www.linkedin.com/in/karen-massicot-9107271a/,NULL,"2021-09-04 14:57:00"
+449,"Guillaume Sarrauste","sales trader",NULL,NULL,NULL,NULL,"Cross assets trader",https://www.linkedin.com/in/guillaume-sarrauste-2287628/,NULL,"2021-09-04 14:58:00"
+450,"Jessica Poon","Investment Banking Associate","9/1/2021 12:00:00 AM","1/4/2021 12:00:00 AM","2 yrs 5 mos","Hong Kong","Senior Portfolio Manager - Global Equities; Co-Fund Manager of the Sycomore Happy@Work Fund",https://www.linkedin.com/in/jessica-poon-85aa626/,J.P.Morgan,"2021-09-04 14:58:00"
+451,"Timothy Heffer",Manager,NULL,NULL,NULL,NULL,"Managing Director, UK",https://www.linkedin.com/in/timothy-heffer-4125855/,NULL,"2021-09-04 14:59:00"
+452,"Dave Chan","Management Development Program",NULL,NULL,NULL,NULL,"Portfolio Manager/VP",https://www.linkedin.com/in/dave-chan-9a03a8/,NULL,"2021-09-04 14:59:00"
+453,"Janine Andresen","Head of Product Coordination",NULL,NULL,NULL,NULL,"Wealth Management",https://www.linkedin.com/in/janine-andresen-562a532/,NULL,"2021-09-04 15:00:00"
+454,"Alex Baixas","Chief Digital Officer","1/13/2021 12:00:00 AM","4/14/2021 12:00:00 AM","1 yr 4 mos","Madrid Area, Spain","Company Name
+Renta 4",https://www.linkedin.com/in/alexbaixas/,"GREY EspaÃ±a","2021-09-04 15:00:00"
+455,"William Holmberg, CAIA","Head of Business Development","2/1/2000 12:00:00 AM","11/1/2021 12:00:00 AM","1 yr 10 mos","Greater New York City Area","Executive Director",https://www.linkedin.com/in/wcholmberg/,"Incogniti (e-commerce start up)","2021-09-04 15:01:00"
+456,"Arturo Frei","Trader (NYSE)","5/9/2021 12:00:00 AM","3/10/2021 12:00:00 AM","11 mos","Edificio YMCA, CompaÃ±ia 1390","Gerente general",https://www.linkedin.com/in/arturo-frei-26a68533/,Swifttrade,"2021-09-04 15:22:00"
+457,"Andrea Prencipe","Conducting Officer","12/8/2021 12:00:00 AM","3/16/2021 12:00:00 AM","7 yrs 4 mos",Luxembourg,CEO,https://www.linkedin.com/in/andrea-prencipe-b463a7b/,"Rovere SociÃ©tÃ© de Gestion s.a. (Gruppo Banco Desio)","2021-09-04 15:23:00"
+458,"Jonathan Tubiana",Internship,NULL,NULL,NULL,NULL,"Company Name
+Abbott Capital Management, LLC",https://www.linkedin.com/in/jonathan-tubiana-10a07812/,NULL,"2021-09-04 15:24:00"
+459,"Maria Zyulyaeva","External sustainability advisor","3/18/2021 12:00:00 AM","5/18/2021 12:00:00 AM","3 mos","Moscow, Russia","Environmental Analyst (Sustainable technology) l Consultant",https://www.linkedin.com/in/maria-zyulyaeva/,"United Metallurgical Company Contract","2021-09-04 15:24:00"
+460,"Jennie Benza","Analyst - Mergers & Acquisitions",NULL,NULL,NULL,NULL,"Principal & IC Member - Private Equity Primaries, Secondaries, Co-Investments",https://www.linkedin.com/in/jennie-benza-60953b6/,NULL,"2021-09-04 15:24:00"
+461,"Weston Tompkins, CFA","Investment Analyst",NULL,NULL,NULL,NULL,"Company Name
+Securis Investment Partners LLP",https://www.linkedin.com/in/weston-tompkins-cfa-6700a513/,NULL,"2021-09-04 15:24:00"
+462,"Jen Reinglass","Director, Institutional Business Development","2014 â€“",NULL,"2 yrs","Greater New York City Area","Head of Business Development, North America",https://www.linkedin.com/in/jen-reinglass-b7a02a1/,"Muzinich & Co","2021-09-04 15:25:00"
+463,"Amber Tattersall","Legal Assistant Paralegal",NULL,NULL,NULL,NULL,"Company Name
+Cromwell Property Group",https://www.linkedin.com/in/amber-tattersall-28213591/,NULL,"2021-09-04 15:25:00"
+464,"Ariel Roeton","Customer Service Supervisor","3/12/2021 12:00:00 AM","4/17/2021 12:00:00 AM","5 yrs 2 mos",Carindale,"Project Coordinator",https://www.linkedin.com/in/ariel-roeton-3a33941bb/,"Coles Part-time","2021-09-04 15:26:00"
+465,"Jonathan Yaron","President & CEO",NULL,NULL,NULL,NULL,"Chairman of the Board (Active), CEO since January 2019",https://www.linkedin.com/in/jonathan-yaron-81a12a3/,NULL,"2021-09-04 15:26:00"
+466,"Aman Goyal","Audit and Assurance","10/13/2021 12:00:00 AM","5/17/2021 12:00:00 AM","3 yrs 8 mos","Kolkata Area, India","Investment Associate",https://www.linkedin.com/in/aman-goyal-5814a2124/,EY,"2021-09-04 15:26:00"
+467,"Laurent Vidal","Head of Development and Production",NULL,NULL,NULL,NULL,"Head of Business Development",https://www.linkedin.com/in/laurent-vidal-3a909bb/,NULL,"2021-09-04 15:26:00"
+468,"Sikandar Salam","Company Name
+Commerzbank AG",NULL,NULL,NULL,NULL,"Company Name
+Fisch Asset Management",https://www.linkedin.com/in/sikandar-salam-482761134/,NULL,"2021-09-04 15:27:00"
+469,"Brandon Bieberstein","Junior Associate","5/9/2021 12:00:00 AM","3/11/2021 12:00:00 AM","1 yr 11 mos","Toronto, Canada Area","Company Name
+Fisch Asset Management",https://www.linkedin.com/in/brandon-bieberstein/,"First Capital","2021-09-04 15:27:00"
+470,"Jennifer Juste Owens","Senior Counsel","2011 â€“",NULL,"2 yrs","Englewood, New Jersey","Deputy Chief Compliance Officer and Deputy General Counsel",https://www.linkedin.com/in/jennifer-juste-owens-442a021b/,MarketCounsel,"2021-09-04 15:27:00"
+471,"Clemencia Vera","Company Name
+The AES Corporation","5 yrs",NULL,"Dec 2015 â€“ 2016","1 yr","Vice President of Strategic Innovation",https://www.linkedin.com/in/clemencia-vera-2384803a/,"â€¢ Analyzed variances by business entity and segment to prepare MD&A discussion to include in External SEC Filings
+â€¢ Evaluated quarterly business drivers to prepare global company analytic by segment and P&L line item
+","2021-09-04 15:28:00"
+472,"Rakel Wedholm","Executive Assistant",NULL,NULL,NULL,NULL,"Executive Assistant to the CEO",https://www.linkedin.com/in/rakel-wedholm/,NULL,"2021-09-04 15:28:00"
+473,"Michael Weissenburger","Company Name
+Wells Fargo Capital Finance",NULL,NULL,NULL,NULL,"Managing Director, Head of Origination",https://www.linkedin.com/in/michaelweissenburger/,NULL,"2021-09-04 15:28:00"
+474,"Andrew Ross CFA","Company Name
+MFS Investment Management","9 yrs",mos,"Aug 2007 â€“ Apr 2011","3 yrs 9 mos","Director, Portfolio Specialist",https://www.linkedin.com/in/andrew-ross-cfa-8b3b5433/,"Supported a wide range of strategies including Large cap Value, International Value, and various fixed income strategies including Emerging Market Debt","2021-09-04 15:29:00"
+475,"Jenny Gooch, CPA",Controller,"1/1/2000 12:00:00 AM","3/8/2021 12:00:00 AM","8 yrs 3 mos","Greater Boston Area","Chief Financial Officer",https://www.linkedin.com/in/jenny-gooch-cpa-06216575/,"K Capital Partners","2021-09-04 15:29:00"
+476,"Anssi Huhta","Company Name
+OP Financial Group","7 yrs",mos,"Jan 2019 â€“ May 2020","1 yr 5 mos","EVP, Corporate customers and member of the Executive Committee",https://www.linkedin.com/in/anssi-huhta-ba55315/,"Chief Executive Officer, OP Card Company Ltd.","2021-09-04 15:29:00"
+477,"Lindsey (Thomson) DiMartino","Corps Member","1/9/2021 12:00:00 AM","6/9/2021 12:00:00 AM","6 mos","Boston, MA","Company Name
+AlphaSimplex Group",https://www.linkedin.com/in/lindsey-dimartino-8aa13637/,"City Year","2021-09-04 15:30:00"
+478,"LoÃ¯c Olivier Fabre","Mathematics Tutorship","2016 â€“",NULL,"1 yr",Orsay,"ModÃ©lisation et gestion du risque",https://www.linkedin.com/in/loic-olivier-fabre/,"UniversitÃ© Paris-Saclay","2021-09-04 15:30:00"
+479,"JÃ©rÃ´me Kaeppelin","IngÃ©nieur patrimonial",NULL,NULL,NULL,NULL,"Global Portfolio Manager",https://www.linkedin.com/in/j%C3%A9r%C3%B4me-kaeppelin-88791518/,NULL,"2021-09-04 15:30:00"
+480,"Shaun Condon","Head of Environment and Safety","2006 â€“",NULL,"15 yrs","Sydney, Australia","Head of Environment and Safety",https://www.linkedin.com/in/shaun-condon-1747b8b/,"Investa Property Group","2021-09-04 15:30:00"
+481,"Mary Chapman","Asset Manager Commercial",NULL,NULL,NULL,NULL,"Senior Property Manager",https://www.linkedin.com/in/mary-chapman-23bb102a/,NULL,"2021-09-04 15:31:00"
+482,"Zac Azzi","Various Accounting and Management Roles",NULL,NULL,NULL,NULL,"Chief Operating Officer and Company Secretary",https://www.linkedin.com/in/zacazzi/,NULL,"2021-09-04 15:31:00"
+483,"Robert Brown","Trading Consultant","4/5/2021 12:00:00 AM","2/8/2021 12:00:00 AM","2 yrs 11 mos","Sydney, Australia","Investment Specialist",https://www.linkedin.com/in/robertstirlingbrown/,"Macquarie Group","2021-09-04 15:31:00"
+484,"Katie Mittel","Student Assistant",NULL,NULL,NULL,NULL,"Company Name
+River Road Asset Management",https://www.linkedin.com/in/katie-mittel-238b64145/,NULL,"2021-09-04 15:32:00"
+485,"Liam Clancy","Investment Analyst",NULL,NULL,NULL,NULL,"Associate Equity Analyst",https://www.linkedin.com/in/liammclancy/,NULL,"2021-09-04 15:32:00"
+486,"Martin Hahn","Company Name
+Apertus Technologies, Inc.","7 yrs",mo,"Jan 1994 â€“ Jan 1997","3 yrs 1 mo","Chief Executive Officer",https://www.linkedin.com/in/martin-hahn-7a2106/,"Initiated and grew 1990 start-up gateway business, transitioning the division from an older IBM plug compatible controller and terminal business of $20 million to a $40 million networking business with 20% profit contribution by 1995 and resulting in 18-month stock appreciation from $2.00 to $15.00","2021-09-04 15:32:00"
+487,"Janne Moltke-Leth","Member of Advisory Board","6/12/2021 12:00:00 AM","8/15/2021 12:00:00 AM","3 yrs 3 mos","Copenhagen, Capital Region, Denmark","Company Name
+Kolpin Hotels",https://www.linkedin.com/in/janne-moltke-leth-60ba052/,"Gehl Architects","2021-09-04 15:33:00"
+488,"Jordan Milman","Managing Director / Head of Subprime and Non-Agency Trading and Resecuritization","7/1/2000 12:00:00 AM","3/10/2021 12:00:00 AM","9 yrs 9 mos","New York","Global Head of Structured Products",https://www.linkedin.com/in/jordan-milman-22983091/,"Deutsche Bank","2021-09-04 15:33:00"
+489,"Wilco Visser","Financieringsspecialist / Coach Bijzonder Beheer a.i. via United 4 You","4/16/2021 12:00:00 AM","8/16/2021 12:00:00 AM","5 mos",Elst,"Senior Analist CDD a.i.",https://www.linkedin.com/in/wilco-visser-bbb4107/,"Rabobank Oost Betuwe","2021-09-04 15:33:00"
+490,"Barin Yucemen",Trader,"1992 â€“",NULL,"2 yrs","Istanbul, Turkey","Company Name
+VTB Capital",https://www.linkedin.com/in/barin-yucemen-7231651a/,Finansbank,"2021-09-04 15:34:00"
+491,"Andreas Boesenberg","Head of Private Equity",NULL,NULL,NULL,NULL,"Managing Director",https://www.linkedin.com/in/andreas-boesenberg-53a77914/,NULL,"2021-09-04 15:34:00"
+492,"Sarah Harmon","Manager, Member Services",NULL,NULL,NULL,NULL,"Member Board of Directors",https://www.linkedin.com/in/sarahmharmon/,NULL,"2021-09-04 15:34:00"
+493,"Martin Hahn","Company Name
+First Bank (U.S. Bank)","3 yrs",NULL,"1985 â€“ 1986","1 yr","Chief Executive Officer",https://www.linkedin.com/in/martin-hahn-7a2106/,"Assisted the CEO and EVP of the bank holding company to define the interstate expansion strategy of the bank prior to interstate bank deregulation
+The bank subsequently attempted to purchase a number of out of state banks including California, Colorado, Oregon, Washington and Wisconsin","2021-09-04 21:26:00"
+494,"John Breckenridge","President, COO and Lead Director","1/1/1999 12:00:00 AM","12/1/2021 12:00:00 AM","3 yrs","Tokyo, Japan","Senior Managing Director and Global Head",https://www.linkedin.com/in/john-breckenridge-05399/,"Densei Lambda KK","2021-09-04 21:27:00"
+495,"James Dowey","Economist at the Centre for International Labour Market Studies","2004 â€“",NULL,"1 yr","Aberdeen, United Kingdom","Fund Manager",https://www.linkedin.com/in/james-dowey-40361914b/,"Robert Gordon University","2021-09-04 21:27:00"
+496,"ROBIN GEFFEN","Founder CEO and Fund Manager",NULL,NULL,NULL,NULL,"Head of Global Equities and Fund Manager",https://www.linkedin.com/in/robin-geffen-626a50a3/,NULL,"2021-09-04 21:28:00"
+497,"Thorsten Schrieber",Vorstand,"1/1/2021 12:00:00 AM","9/7/2021 12:00:00 AM","6 yrs 9 mos",Pullach,"Company Name
+DJE Kapital AG",https://www.linkedin.com/in/thorsten-schrieber-b596b6155/,"DJE Kapital AG","2021-09-04 21:28:00"
+498,"John Iborg","Fixed Income Research Associate","12/12/2021 12:00:00 AM","10/17/2021 12:00:00 AM","4 yrs 11 mos","Greater New York City Area","Multi-Asset Portfolio Manager",https://www.linkedin.com/in/johniborg/,"J.P. Morgan","2021-09-04 21:29:00"
+499,"Michael J. LaBella, CFA","Portfolio Manager","2005 â€“",NULL,"5 yrs","New York","SVP, Co-Head of Systematic Strategies",https://www.linkedin.com/in/michael-j-labella-cfa-4a14422/,"Deutsche Bank","2021-09-04 21:29:00"
+500,"Francis O.","Associate Director","8/9/2021 12:00:00 AM","1/11/2021 12:00:00 AM","1 yr 6 mos","Dallas, TX","Portfolio Manager",https://www.linkedin.com/in/francis-o-00460a11/,"ORIX Corporation USA","2021-09-04 21:30:00"
+501,"Jean Abillama, CFA","Senior Vice President","8/12/2021 12:00:00 AM","8/17/2021 12:00:00 AM","5 yrs 1 mo","London, United Kingdom","Global Sovereigns & Middle East Head",https://www.linkedin.com/in/jean-abillama-cfa-1502861/,PIMCO,"2021-09-04 21:30:00"
+502,"Janna Haahtela","Company Name
+Handelsbanken Capital Markets",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/janna-haahtela-118983/,NULL,"2021-09-04 21:31:00"
+503,"Daniel Kay",Director,"2003 â€“",NULL,"18 yrs","London, United Kingdom","Senior Advisor",https://www.linkedin.com/in/daniel-kay-742ab96/,"Ten Harley Street Limited","2021-09-04 21:31:00"
+504,"Nathan Kornfeld",CEO,NULL,NULL,NULL,NULL,Partner,https://www.linkedin.com/in/nathan-kornfeld-8531117/,NULL,"2021-09-04 21:32:00"
+505,"Ilya Lee-Paveliev","Founder, Fundraising Platform","3/11/2021 12:00:00 AM","10/12/2021 12:00:00 AM","1 yr 8 mos","Dublin, Ireland","Portfolio Manager",https://www.linkedin.com/in/ileepaveliev/,"Trinity Fund Part-time","2021-09-04 21:32:00"
+506,"Adrian Lee","Lecturer in Statistics","1979 â€“",NULL,"1 yr",Pennsylvania,"President and CIO",https://www.linkedin.com/in/adrian-lee-am/,"University of Pennsylvania","2021-09-04 21:33:00"
+507,"Aaron Hara","Proprietary Trader","1999 â€“",NULL,"1 yr","Greater New York City Area","Managing Director, Chief Investment Officer, Alternative Investments, Public Securities Group",https://www.linkedin.com/in/aaron-hara-358b7a106/,"Spear, Leeds & Kellogg","2021-09-04 21:33:00"
+508,"Mark Crocombe","IT Network Analyst",NULL,NULL,NULL,NULL,"Information Technology Infrastructure Engineer",https://www.linkedin.com/in/markcrocombe/,NULL,"2021-09-04 21:34:00"
+509,"Jeff Reder",Analyst,"7/1/1997 12:00:00 AM","3/1/1999 12:00:00 AM","1 yr 9 mos","New York, NY","Company Name
+CenterSquare Investment Management",https://www.linkedin.com/in/jeff-reder-59b1922/,"Salomon Brothers / Citigroup","2021-09-04 21:34:00"
+510,"Scott Crowe","Associate Lecturer","9/1/1999 12:00:00 AM","6/1/2021 12:00:00 AM","1 yr 10 mos",Sydney,"Managing Director, Chief Investment Strategist, Portfolio Manager & Executive Board Member",https://www.linkedin.com/in/scott-crowe-39292652/,"UTS: University of Technology Sydney","2021-09-04 21:35:00"
+511,"Jeffrey Turkel",Associate,"9/5/2021 12:00:00 AM","6/7/2021 12:00:00 AM","1 yr 10 mos","New York, New York","Senior Vice President",https://www.linkedin.com/in/jeffreyturkel/,"The Leitner Group Inc.","2021-09-04 21:35:00"
+512,"Todd Briddell",Analyst,"4/1/1991 12:00:00 AM","4/1/1993 12:00:00 AM","2 yrs 1 mo",Philadelphia,"Chief Executive and Chief Investment Officer",https://www.linkedin.com/in/todd-briddell-1b2559b5/,"MIG Capital Management, Inc.","2021-09-04 21:36:00"
+513,"Shameer Karim, CFA",Analyst,NULL,NULL,NULL,NULL,"Senior Vice President",https://www.linkedin.com/in/shameerkarim/,NULL,"2021-09-04 21:36:00"
+514,"Francis Verpoucke","Company Name
+Amundi USA",NULL,NULL,NULL,NULL,"Managing Director",https://www.linkedin.com/in/francis-verpoucke-8221ba15/,NULL,"2021-09-04 21:37:00"
+515,"Marie Vallaeys",Analyst,"12/17/2021 12:00:00 AM","2/18/2021 12:00:00 AM","3 mos","Paris, France","Analyste, spÃ©cialiste ESG",https://www.linkedin.com/in/marie-vallaeys/,"CTM - Click To Meat","2021-09-04 21:37:00"
+516,"Sabrina Ritossa Fernandez","Vice-president and project manager","9/13/2021 12:00:00 AM","9/14/2021 12:00:00 AM","1 yr 1 mo","Lisbon, Portugal","Analyst, ESG Specialist",https://www.linkedin.com/in/sabrina-ritossa-fernandez-03221034/,"NOVA Social Consulting","2021-09-04 21:38:00"
+517,"Arturo Frei",Consultor,"3/10/2021 12:00:00 AM","11/10/2021 12:00:00 AM","9 mos","Presidente Riesco 5561, of. 1804 Las Condes, Santiago - Chile Fono: (56 2) 24","Gerente general",https://www.linkedin.com/in/arturo-frei-26a68533/,"Genesis Consulting & Capital","2021-09-04 21:38:00"
+518,"Alex Baixas","Production Director","5/5/2021 12:00:00 AM","9/7/2021 12:00:00 AM","2 yrs 5 mos","Madrid Area, Spain","Company Name
+Renta 4",https://www.linkedin.com/in/alexbaixas/,"Ilion Animation Studios","2021-09-04 21:39:00"
+519,"Hemal Vyas","Research Assistant","5/11/2021 12:00:00 AM","8/11/2021 12:00:00 AM","4 mos","Windsor, Ontario","Company Name
+Foyston, Gordon & Payne Inc.",https://www.linkedin.com/in/hemalvyas16/,"Dr. Rajeeva Sinha","2021-09-04 21:39:00"
+520,"Laetitia Marcucci-Demeure","Oil & Gas / Mining - Structured Finance","4/13/2021 12:00:00 AM","10/13/2021 12:00:00 AM","7 mos",Paris,Principal,https://www.linkedin.com/in/laetitia-marcucci-demeure-7a0a4128/,"BNP Paribas","2021-09-04 21:40:00"
+521,"Jemma Launhardt-Gibb","Risk & Compliance Adviser","2008 â€“",NULL,"3 yrs","Edinburgh, United Kingdom","Operational Risk Manager",https://www.linkedin.com/in/jemma-launhardt-gibb-a4053141/,"Martin Currie","2021-09-04 21:40:00"
+522,"Tom Dickson","Company Name
+Franklin Templeton","21 yrs",NULL,"Jan 2002 â€“ Jun 2013","11 yrs 6 mos","Partner, Client Service and Sales",https://www.linkedin.com/in/tom-dickson-7b268718/,"Responsible for managing Global Fixed Income Retail and Institutional portfolios for the Franklin Templeton organization. Member of the Global Asset Allocation Committee, responsible for establishing overall investment policy including country allocations. ","2021-09-04 21:41:00"
+523,"Charlotte Boudouresque","Client Advisor","1/17/2021 12:00:00 AM",NULL,"1 mo","RÃ©gion de Lille, France","M&A Transaction Services",https://www.linkedin.com/in/charlotte-boudouresque-17b8a3125/,"American Vintage","2021-09-04 21:41:00"
+524,"Nathalie Wallace",Founder,"2015 â€“",NULL,"6 yrs",Boston,"Head of Strategy and Development",https://www.linkedin.com/in/nathwallace/,"i2 Venture, llc","2021-09-04 21:42:00"
+525,"Nicho Jenkins","Fund Manager",NULL,NULL,NULL,NULL,"Managing Director",https://www.linkedin.com/in/nicho-jenkins-277b6744/,NULL,"2021-09-04 21:42:00"
+526,"Mikhail Adedeji","Intern, Petroleum Economics and Engineering",NULL,NULL,NULL,NULL,"Real Estate Private Equity",https://www.linkedin.com/in/mikhail-adedeji-36686a92/,NULL,"2021-09-04 21:43:00"
+527,"Charlotte Cottier Perez","Crosstraining Intern","8/14/2021 12:00:00 AM","12/14/2021 12:00:00 AM","5 mos","RÃ©gion de Wiesbaden, Allemagne",Analyst,https://www.linkedin.com/in/charlotte-cottier/,"Hotel Nassauer Hof Wiesbaden","2021-09-04 21:43:00"
+528,"Monica O'Neill","Interim Managing Partner","1997 â€“",NULL,"2 yrs","Washington, D.C.","Founder and CEO",https://www.linkedin.com/in/monicaoneillenso/,"The Greater Washington Initiative","2021-09-04 21:44:00"
+529,"Ric Lewis","Founder & Chief Executive",NULL,NULL,NULL,NULL,"Company Name
+Tristan Capital Partners",https://www.linkedin.com/in/ric-lewis-570a3846/,NULL,"2021-09-04 21:44:00"
+530,"Danny Chung","Air Traffic Control Specialist","8/13/2021 12:00:00 AM","5/15/2021 12:00:00 AM","1 yr 10 mos","Wonju, Gangwon-do, Korea",Associate,https://www.linkedin.com/in/danny-chung-a45033114/,"Republic of Korea Army","2021-09-04 21:45:00"
+531,"Adam Schlegel","Public Affairs Summer Analyst","5/11/2021 12:00:00 AM","7/11/2021 12:00:00 AM","3 mos","Beijing, China","Private Equity Associate",https://www.linkedin.com/in/adam-schlegel-2b5247b/,"Rockwool Asia","2021-09-04 21:45:00"
+532,"Wilibrordus Armand Amadeus","Equity Capital Markets Analyst","3/14/2021 12:00:00 AM","12/15/2021 12:00:00 AM","1 yr 10 mos","New York City, NY","Summer Senior Associate",https://www.linkedin.com/in/armand-amadeus/,"Goldman Sachs","2021-09-04 21:46:00"
+533,"Brian Fruh","DB Admin, System Administrator","6/1/1998 12:00:00 AM","8/1/1998 12:00:00 AM","3 mos","Methuen, MA","Chief Information Officer",https://www.linkedin.com/in/brian-fruh-a5583a/,3M,"2021-09-04 21:46:00"
+534,"Alexis Huseby","Business Partnerships Program Intern","6/15/2021 12:00:00 AM","8/15/2021 12:00:00 AM","3 mos","Seattle, WA","Equity Analyst",https://www.linkedin.com/in/katharynalexis/,"Climate Solutions","2021-09-04 21:47:00"
+535,"Joe Keefe","Senior Adviser for Strategic Social Policy",NULL,NULL,NULL,NULL,President,https://www.linkedin.com/in/joe-keefe-0815008/,NULL,"2021-09-04 21:47:00"
+536,"David Ryan CFA, CAIA, FRM","Fixed Income Fund Manager","7/1/1999 12:00:00 AM","7/3/2021 12:00:00 AM","4 yrs 1 mo",Dublin,"Company Name
+Setanta Asset Management Ltd",https://www.linkedin.com/in/david-ryan-cfa-caia-frm-31474315/,"Swiss Re","2021-09-04 21:48:00"
+537,"Clint Trenkelbach",Intern,2012,NULL,"less than a year","Singapore, Singapore","Company Name
+HQ Capital",https://www.linkedin.com/in/wctrenkelbach/,"TSL Marketing","2021-09-04 21:48:00"
+538,"Anvi Somaiya","Audit and Tax Intern","9/11/2021 12:00:00 AM","6/15/2021 12:00:00 AM","3 yrs 10 mos","Mumbai Area, India","Senior Investment Analyst - Private Equity",https://www.linkedin.com/in/anvi2204/,"VSM & Co.","2021-09-04 21:49:00"
+539,"Carsten Dilling","Chairman of the Board of Directors","6/17/2021 12:00:00 AM",Present,"3 yrs 11 mos",Copenhagen,"Senior Advisor",https://www.linkedin.com/in/carstendilling/,Icotera,"2021-09-04 21:49:00"
+540,"Ray G. Li","Portfolio Management Associate Co-Op - Active Equity Products Team","1/16/2021 12:00:00 AM","6/16/2021 12:00:00 AM","6 mos","Boston, Massachusetts","Junior Private Equity Analyst",https://www.linkedin.com/in/lirayg/,"State Street Global Advisors","2021-09-04 21:50:00"
+541,"Imad Hammad","Trainee / High-Frequency Trading","4/10/2021 12:00:00 AM","10/10/2021 12:00:00 AM","7 mos",Paris,"Quantitative Researcher",https://www.linkedin.com/in/imad-hammad-57a1701b/,"CrÃ©dit Agricole CIB","2021-09-04 21:51:00"
+542,"Camilla Levin","Company Owner",NULL,NULL,NULL,NULL,"Human Resources",https://www.linkedin.com/in/camilla-levin-b1958b48/,NULL,"2021-09-04 21:51:00"
+543,"Per Stoltze Kristensen","Financial Analyst",NULL,NULL,NULL,NULL,Director,https://www.linkedin.com/in/per-stoltze-kristensen-6472141/,NULL,"2021-09-04 21:51:00"
+544,"Nathan Steele","Sales Associate","5/12/2021 12:00:00 AM","1/13/2021 12:00:00 AM","9 mos","Cranberry Township","Trading Operations Associate",https://www.linkedin.com/in/nathan-steele-9755bb67/,RadioShack,"2021-09-04 21:52:00"
+545,"Kelley Wise Pinson","Senior Project Manager",NULL,NULL,NULL,NULL,"Senior Digital Program Project Agile Leader",https://www.linkedin.com/in/kpinson/,NULL,"2021-09-04 21:52:00"
+546,"Norman Lane","Trading Operations Co-op",NULL,NULL,NULL,NULL,"Trading Assistant",https://www.linkedin.com/in/norman-lane-b5691552/,NULL,"2021-09-04 21:53:00"
+547,"David Hogarty","Head of Strategy Development, Senior Portfolio Manager","5/3/2021 12:00:00 AM",Present,"18 yrs","County Dublin, Ireland","Head of Strategy Development, Senior Portfolio Manager",https://www.linkedin.com/in/david-hogarty-766085152/?originalSubdomain=ie,"KBI Global Investors","2021-09-04 21:54:00"
+548,"Matt Sheldon","Equity Analyst",NULL,NULL,NULL,NULL,"Senior Portfolio Manager",https://www.linkedin.com/in/matt-sheldon-29747531/,NULL,"2021-09-04 21:54:00"
+549,"Noel. O'Halloran","Aeronautical Engineer-Structures",NULL,NULL,NULL,NULL,"Company Name
+KBI Global Investors",https://www.linkedin.com/in/noel-o-halloran-20320245/?originalSubdomain=ie,NULL,"2021-09-04 21:54:00"
+550,"Sean Hawkshaw","Head of Portfolio Management",NULL,NULL,NULL,NULL,CEO,https://www.linkedin.com/in/sean-hawkshaw-2b0b2248/?originalSubdomain=ie,NULL,"2021-09-04 21:55:00"
+551,"Simon Padley","Company Name
+KBC Asset Management",NULL,NULL,NULL,NULL,"Senior Vice President Business Development & Client Services",https://www.linkedin.com/in/simonpadleykbi/,NULL,"2021-09-04 21:55:00"
+552,"Yie-Hsin Hung","Managing Director","9/1/1986 12:00:00 AM","2/1/1997 12:00:00 AM","10 yrs 6 mos","Greater New York City Area","Company Name
+New York Life Investments",https://www.linkedin.com/in/yiehsinhung/,"Dean Witter Reynolds Inc. Full-time","2021-09-04 21:56:00"
+553,"Salvatore Bruno","Assistant Treasurer",NULL,NULL,NULL,NULL,"Managing Director",https://www.linkedin.com/in/sbruno/,NULL,"2021-09-04 21:57:00"
+554,"Karen Niessink","Training Manager",NULL,NULL,NULL,NULL,"Managing Director, Head of International Business Planning & Development",https://www.linkedin.com/in/karen-niessink-37a5b11/,NULL,"2021-09-04 21:57:00"
+555,"Drew Guff","Managing Director",NULL,NULL,NULL,NULL,"Managing Director",https://www.linkedin.com/in/drew-guff-506ab1182/,NULL,"2021-09-04 22:02:00"
+556,"Grace Paulsen","Spinning Instructor",NULL,NULL,NULL,NULL,"Vice President, Energy",https://www.linkedin.com/in/gracepaulsen/,NULL,"2021-09-04 22:03:00"
+557,"Mats Wandrell","Senior Portfolio Manager Emerging Europe","11/2/2021 12:00:00 AM","7/7/2021 12:00:00 AM","4 yrs 9 mos","Stockholm, Sverige","CEO/Senior Portfolio Manager at",https://www.linkedin.com/in/mats-wandrell-34133430/,"Swedbank Robur","2021-09-04 22:03:00"
+558,"Stefan Schauer","Company Name
+Deutsche Asset Management","10 yrs",mos,"Jan 2010 â€“ Dec 2016","7 yrs","Senior Portfolio Manager Global Convertible Bonds",https://www.linkedin.com/in/stefan-schauer-245952a6/,"Primary and Surveillance analysis for structured finance instruments (senior and subordinated tranches, asset backed securities (ABS), RMBS, CMBS, CDO, CLO); ","2021-09-04 22:04:00"
+559,"Juliana Ascenso","Human Resources Intern","3/18/2021 12:00:00 AM","5/18/2021 12:00:00 AM","3 mos","Lisboa e RegiÃ£o, Portugal","Human Resources Assistant",https://www.linkedin.com/in/julianascenso/,Webhelp,"2021-09-04 22:04:00"
+560,"Aurora Guglielmana","Office Manager",NULL,NULL,NULL,NULL,"Office Manager - PA to CEO",https://www.linkedin.com/in/aurora-guglielmana-28918514/,NULL,"2021-09-04 22:05:00"
+561,"Andrew Merrill","Summer Analyst",NULL,NULL,NULL,NULL,"Company Name
+Hayfin Capital Management LLP",https://www.linkedin.com/in/andrewkmerrill/,NULL,"2021-09-04 22:05:00"
+562,"Adam Moriwaki",Consultant,"10/12/2021 12:00:00 AM","12/12/2021 12:00:00 AM","3 mos","Greater New York City Area","Managing Director | Portfolio Manager",https://www.linkedin.com/in/adam-moriwaki-0b14a45/,Spring11,"2021-09-04 22:06:00"
+563,"Stephan Montes","Vice President","12/15/2021 12:00:00 AM","12/16/2021 12:00:00 AM","1 yr 1 mo","Columbia University - Beta Chapter",Associate,https://www.linkedin.com/in/stephan-montes-366a72113/,"Delta Sigma Phi Fraternity","2021-09-04 22:06:00"
+564,"Mauricio Chavarriaga","Portfolio Manager, Equities",NULL,NULL,NULL,NULL,"Portfolio Manager, Equities",https://www.linkedin.com/in/mauricio-chavarriaga-65b198/,NULL,"2021-09-04 22:07:00"
+565,"John M. Malloy Jr.",Intern,NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/john-m-malloy-jr-44380622/,NULL,"2021-09-04 22:07:00"
+566,"James Tollemache","Co Founder","8/3/2021 12:00:00 AM","5/5/2021 12:00:00 AM","1 yr 10 mos","Mayfair, London","Company Name
+RWC Partners",https://www.linkedin.com/in/james-tollemache-7073a021/,"Beat Capital","2021-09-04 22:08:00"
+567,"Jacqueline Hurley, CFA",Analyst,"6/2/2021 12:00:00 AM","4/4/2021 12:00:00 AM","1 yr 11 mos","Greater New York City Area","Portfolio Manager",https://www.linkedin.com/in/jacqueline-hurley-cfa-0b0a252/,Accenture,"2021-09-04 22:08:00"
+568,"Bill Ballou","Chief Operating Officer",NULL,NULL,NULL,NULL,"Chief Operating Officer",https://www.linkedin.com/in/bill-ballou-28655413/,NULL,"2021-09-04 22:09:00"
+569,"Mark Martin",Associate,"3/5/2021 12:00:00 AM","1/8/2021 12:00:00 AM","2 yrs 11 mos","London, United Kingdom","Fund Manager",https://www.linkedin.com/in/mark-martin-34450b12/?originalSubdomain=uk,"Allen & Overy","2021-09-04 22:09:00"
+570,"Kevin Dickson","Leveraged Finance Vice President","6/7/2021 12:00:00 AM","4/16/2021 12:00:00 AM","8 yrs 11 mos",NYC,Analyst,https://www.linkedin.com/in/kevin-dickson-741b8920/,"Deutsche Bank Securities","2021-09-04 22:10:00"
+571,"Sir Michael Hintze, AM","Chief Executive and Senior Investment Officer",NULL,NULL,NULL,NULL,"Group Executive Chairman and Senior Investment Officer of CQS",https://www.linkedin.com/in/sir-michael-hintze-am-03984355/,NULL,"2021-09-04 22:10:00"
+572,"Sagar Sharma","Consulting Analyst","6/16/2021 12:00:00 AM","8/16/2021 12:00:00 AM","3 mos","Greater New York City Area",Analyst,https://www.linkedin.com/in/sagarsharma96/,"WSP | Parsons Brinckerhoff","2021-09-04 22:11:00"
+573,"Paul Kim",Analyst,NULL,NULL,NULL,NULL,"Credit Analyst",https://www.linkedin.com/in/paulkkhkim/,NULL,"2021-09-04 22:11:00"
+574,"Mark Curtis","Executive Director","2/3/2021 12:00:00 AM","2/4/2021 12:00:00 AM","1 yr 1 mo","Greater New York City Area","Head of Sales & Marketing",https://www.linkedin.com/in/mark-curtis-92a01b1/,CIBC,"2021-09-04 22:12:00"
+575,"Nick Knight-Evans","Legal Adviser",NULL,NULL,NULL,NULL,"Chief Operating Officer",https://www.linkedin.com/in/nick-knight-evans-1b041b8/,NULL,"2021-09-04 22:12:00"
+576,"Rachel Trees","Editorial intern","5/11/2021 12:00:00 AM","8/11/2021 12:00:00 AM","4 mos","Indianapolis, Indiana Area","Super Substitute",https://www.linkedin.com/in/racheltrees/,"Indianapolis Recorder Newspaper Internship","2021-09-04 22:13:00"
+577,"Jacob Chr. Nielsen",Bestyrelsesformand,"9/16/2021 12:00:00 AM","7/19/2021 12:00:00 AM","2 yrs 11 mos","Padborg, Region Syddanmark, Danmark",CEO,https://www.linkedin.com/in/jacob-chr-nielsen-1061481/,"E3 Gruppen A/S","2021-09-04 22:13:00"
+578,"Sahan Abayarathna","Summer Analyst","5/10/2021 12:00:00 AM","7/10/2021 12:00:00 AM","3 mos","Greater New York City Area",Director,https://www.linkedin.com/in/sahan-abayarathna-63a04a18/,"Bank of America Merrill Lynch","2021-09-04 22:14:00"
+579,"Joseph Sowin",Trader,"6/2/2021 12:00:00 AM","10/5/2021 12:00:00 AM","3 yrs 5 mos","Greater New York City Area","Company Name
+Highland Capital Management, L.P.",https://www.linkedin.com/in/joseph-sowin/,"DKR Capital","2021-09-04 22:14:00"
+580,"Timothy Cournoyer","Corporate Associate","10/13/2021 12:00:00 AM","4/16/2021 12:00:00 AM","2 yrs 7 mos","Dallas/Fort Worth Area","Managing Director and Assistant General Counsel",https://www.linkedin.com/in/timothy-cournoyer-86b8767/,"Thompson & Knight LLP","2021-09-04 22:15:00"
+581,"Mark Petrick","Volunteer Income Tax Assistant","2/15/2021 12:00:00 AM","4/15/2021 12:00:00 AM","3 mos","Burlington, Vermont Area","Assistant Portfolio Manager",https://www.linkedin.com/in/markpetrick/,"Champlain Valley Office of Economic Opportunity","2021-09-04 22:15:00"
+582,"Kevin Kwon",Researcher,"8/14/2021 12:00:00 AM","5/15/2021 12:00:00 AM","10 mos","Georgia Tech, Atlanta, GA","Research Analyst",https://www.linkedin.com/in/kevin-kwon-8202928b/,"Ben T. Zinn Combustion Laboratory","2021-09-04 22:16:00"
+583,"Alexander Wolfman","Summer Associate","5/1/1996 12:00:00 AM","8/1/1996 12:00:00 AM","4 mos","Greater New York City Area","Partner, Global Head of Business Development",https://www.linkedin.com/in/alexander-wolfman-077681a0/,"Schulte Roth & Zabel LLP","2021-09-04 22:16:00"
+584,"Sami Cheikha, CFA",Intern,"6/14/2021 12:00:00 AM","7/14/2021 12:00:00 AM","2 mos","Paris, France","Company Name
+Kairos Partners SGR",https://www.linkedin.com/in/sami-cheikha-cfa-693667aa/,"Merrill Lynch","2021-09-04 22:17:00"
+585,"Riccardo Valeri","Equity Analyst","9/14/2021 12:00:00 AM","4/15/2021 12:00:00 AM","8 mos",Lugano,"Senior Portfolio Manager",https://www.linkedin.com/in/riccardo-valeri-374a4799/,"Syz Asset Management SA","2021-09-04 22:17:00"
+586,"Jan-Erik Eriksson","Company Name
+State Treasury of Finland","2 yrs",mos,"Jun 2006 â€“ Nov 2007","1 yr 6 mos","Company Name
+Evli Bank Plc",https://www.linkedin.com/in/jan-erik-eriksson-8481232/,"â€¢ Selling T-bills
+â€¢ Liquidity management","2021-09-04 22:18:00"
+587,"Joachim Dannberg","Summer Intern","5/6/2021 12:00:00 AM","6/6/2021 12:00:00 AM","2 mos",Helsinki,"Company Name
+Evli Bank Plc",https://www.linkedin.com/in/joachim-dannberg/,"American Express","2021-09-04 22:18:00"
+588,"Giuseppe Brandaleone","Direzione Commerciale - Pianificazione Commerciale e Sviluppo Rete","4/1/2020 12:00:00 AM",Present,"1 yr 1 mo","Milano, Lombardia, Italia","Direzione Commerciale - Pianificazione Commerciale e Sviluppo Rete",https://www.linkedin.com/in/giuseppe-brandaleone-5440954/,"ARCA Fondi SGR Full-time","2021-04-08 18:54:39"
+589,"Jay Jhaveri","Credit Manager","7/1/2016 12:00:00 AM",Present,"4 yrs 10 mos","Mumbai, Maharashtra, India","Credit Manager",https://www.linkedin.com/in/jay-jhaveri-93161b22/,"Shinhan Bank","2021-04-08 18:55:10"
+590,"Matthew Beesley","Chief Investment Officer","4/1/2020 12:00:00 AM",Present,"1 yr 1 mo","London, England, United Kingdom","Chief Investment Officer",https://www.linkedin.com/in/matthew-beesley-04045420/,"Artemis Investment Management Full-time","2021-04-08 18:55:39"
+591,"Angelo Di Palma","Principal, Portfolio Manager","7/1/2019 12:00:00 AM",Present,"1 yr 10 mos","1 York Street, Suite 1100","Principal, Portfolio Manager",https://www.linkedin.com/in/angelo-di-palma-85b51370/,BentallGreenOak,"2021-04-08 18:56:11"
+592,"Bryan Scott, CFA","Investment Manager","6/1/2009 12:00:00 AM",Present,"11 yrs 11 mos","Naperville, IL","Investment Manager",https://www.linkedin.com/in/bryan-scott-cfa-91456286/,"GW&K Investment Management","2021-04-08 18:56:39"
+593,"Scott Waterstredt, CFA","Managing Director/SVP","1/1/2019 12:00:00 AM",Present,"2 yrs 4 mos","Whippany, NJ","Managing Director/SVP",https://www.linkedin.com/in/scott-waterstredt-cfa-4a24414/,"MetLife Investment Management","2021-04-08 18:57:10"
+594,"Brian Lieberman","Credit Analyst","8/1/2018 12:00:00 AM",Present,"2 yrs 9 mos","New York, NY","Credit Analyst",https://www.linkedin.com/in/brian-lieberman-6439a591/,"Muzinich & Co","2021-04-08 18:57:42"
+595,"Dr. Philipp Weber","Equity Portfolio Manager","10/1/2017 12:00:00 AM",Present,"3 yrs 7 mos","Frankfurt am Main","Equity Portfolio Manager",https://www.linkedin.com/in/dr-philipp-weber-b6604a41/,"Quoniam Asset Management GmbH","2021-04-08 18:58:47"
+596,"Chris Barris","Head of Global High Yield & Deputy CIO","1/1/2013 12:00:00 AM",Present,"8 yrs 4 mos",Boston,"Head of Global High Yield & Deputy CIO",https://www.linkedin.com/in/chris-barris-5ba25954/,Alcentra,"2021-04-08 18:59:18"
+597,"Lidia Fido","CFO, Member of the Management Board","7/1/2017 12:00:00 AM",Present,"3 yrs 10 mos","Warsaw, Masovian District, Poland","CFO, Member of the Management Board",https://www.linkedin.com/in/lidia-fido-89414810b/,Gothaer,"2021-04-08 18:59:44"
+598,"Barone Daniele","Senior Portfolio Manager","1/1/2013 12:00:00 AM",Present,"8 yrs 4 mos","ZÃ¼rich Area, Switzerland","Senior Portfolio Manager",https://www.linkedin.com/in/barone-daniele-59275025/,"Mirabaud Group","2021-04-08 19:00:14"
+599,"Andrew Collier","Middle Office Officer","7/1/2018 12:00:00 AM",Present,"2 yrs 10 mos","Dublin, Leinster, Ireland","Middle Office Officer",https://www.linkedin.com/in/andrew-collier-2ba0b332/,"Comgest Asset Management International Ltd","2021-04-08 19:00:48"
+600,"Hunter Schwarz","Portfolio Manager/Analyst","4/1/2006 12:00:00 AM",Present,"15 yrs 1 mo","New York, NY","Portfolio Manager/Analyst",https://www.linkedin.com/in/hunter-schwarz-109a04136/,"Stone Harbor Investment Partners","2021-04-08 19:01:22"
+601,"Scott Howard","Associate - Asset Management","7/1/2017 12:00:00 AM",Present,"3 yrs 10 mos","Greater Boston Area","Associate - Asset Management",https://www.linkedin.com/in/scott-howard/,"AEW Capital Management","2021-04-08 19:01:52"
+602,"Adam T. Goodman","Managing Director","2015 â€“",NULL,"6 yrs","Greater New York City Area","Managing Director",https://www.linkedin.com/in/adam-t-goodman-39aaa012/,"Intermediate Capital Group (ICG)","2021-04-08 19:02:28"
+603,"T. Scott White","Principal, Investor Relations","2/1/2019 12:00:00 AM",Present,"2 yrs 3 mos","Greater Chicago Area","Principal, Investor Relations",https://www.linkedin.com/in/tsw77/,"Adams Street Partners","2021-04-08 19:03:01"
+604,"Julia Vartik, CIPM","Reporting Analyst","12/1/2014 12:00:00 AM",Present,"6 yrs 5 mos","Groningen, Netherlands","Reporting Analyst",https://www.linkedin.com/in/juliavartik/,"Aegon Asset Management (formerly TKP Investments)","2021-04-08 19:03:30"
+605,"karen k","Senior Manager","3/1/2015 12:00:00 AM",Present,"6 yrs 2 mos","ä¸­å›½ ä¸Šæµ·","Senior Manager",https://www.linkedin.com/in/karen-k-643685a2/,"HFT Investments","2021-04-08 19:03:59"
+606,"Oliver Murray","Managing Director","3/1/2002 12:00:00 AM",Present,"19 yrs 2 mos","Greater San Diego Area","Managing Director",https://www.linkedin.com/in/oliver-murray-7460826/,"Brandes Investment Partners","2021-04-08 19:04:34"
+607,"Daihao Peng","Equity & ESG Analyst","1/1/2021 12:00:00 AM",Present,"4 mos","Paris, ÃŽle-de-France, France","Equity & ESG Analyst",https://www.linkedin.com/in/daihaopeng/,"DNCA Finance","2021-04-08 19:05:03"
+608,"Chris Duindam","Portfolio Manager","8/1/2008 12:00:00 AM",Present,"12 yrs 9 mos","Amsterdam Area, Netherlands","Portfolio Manager",https://www.linkedin.com/in/chrisduindam/,InsingerGilissen,"2021-04-08 19:05:34"
+609,"Vincent Ficca","Head of Equity Trading",NULL,NULL,NULL,NULL,"Head of Equity Trading",https://www.linkedin.com/in/vincent-ficca-3b052534/,NULL,"2021-04-08 19:06:04"
+610,"Laina Draeger, CFA","Company Name
+Los Angeles Capital Management and Equity Research, Inc.",NULL,NULL,NULL,NULL,"Company Name
+Los Angeles Capital Management and Equity Research, Inc.",https://www.linkedin.com/in/laina-draeger-cfa-4588871/,NULL,"2021-04-08 19:06:36"
+611,"Jeff Young","Company Name
+Beutel, Goodman & Company Ltd.",NULL,NULL,NULL,NULL,"Company Name
+Beutel, Goodman & Company Ltd.",https://www.linkedin.com/in/jeff-young-8323876/,NULL,"2021-04-08 19:07:07"
+612,"Joseph Stein","Director of Quantitative Research","1/1/2020 12:00:00 AM",Present,"1 yr 4 mos","Greater Boston Area","Director of Quantitative Research",https://www.linkedin.com/in/jfsteinjr/,"Natixis Investment Managers Full-time","2021-04-08 19:07:35"
+613,"Mark Giles","Portfolio Specialist / Regional Director",NULL,NULL,NULL,NULL,"Portfolio Specialist / Regional Director",https://www.linkedin.com/in/mark-giles-6711a751/,NULL,"2021-04-08 19:08:43"
+614,"Ivan Aleksandrov","Managing Partner","12/1/2020 12:00:00 AM",Present,"5 mos","Warsaw, Mazowieckie, Poland","Managing Partner",https://www.linkedin.com/in/ivan-aleksandrov-39a485139/,"Genesis Asset Management","2021-04-08 19:09:11"
+615,"Michael Bergin","Vice President","9/1/2015 12:00:00 AM",Present,"5 yrs 8 mos","New York City","Vice President",https://www.linkedin.com/in/michael-bergin-72baaa4a/,Natixis,"2021-04-08 19:09:40"
+616,"Joseph Forrester","Investment Management","1/1/2010 12:00:00 AM",Present,"11 yrs 4 mos","London, United Kingdom","Investment Management",https://www.linkedin.com/in/josephforrester/,"Winton Group","2021-04-08 19:10:44"
+617,"Karla Sandino","Company Name
+Banco Sabadell",NULL,NULL,NULL,NULL,"Company Name
+Banco Sabadell",https://www.linkedin.com/in/karla-sandino-73688825/,NULL,"2021-04-08 19:11:44"
+618,"Aris Economou",Associate,"9/1/2020 12:00:00 AM",Present,"8 mos","New York, United States",Associate,https://www.linkedin.com/in/ariseconomou/,"Unigestion Full-time","2021-04-08 19:12:15"
+619,"Ian Swanson","Director, Investments","2010 â€“",NULL,"11 yrs","Pasadena, CA","Director, Investments",https://www.linkedin.com/in/ian-swanson-9981ab57/,"First Quadrant","2021-04-08 19:12:48"
+620,"Thomas Handte",Portfoliomanager,"4/1/2015 12:00:00 AM",Present,"6 yrs 1 mo","Frankfurt am Main und Umgebung, Deutschland",Portfoliomanager,https://www.linkedin.com/in/thomas-handte-399ba212b/,"Assenagon Asset Management","2021-04-08 19:13:16"
+621,"Jacques Kappe","Senior Portfolio Manager Fixed Income and Socially Responsible Investments",NULL,NULL,NULL,NULL,"Senior Portfolio Manager Fixed Income and Socially Responsible Investments",https://www.linkedin.com/in/jacques-kappe-812a66/,NULL,"2021-04-08 19:14:20"
+622,"Michael Kirkpatrick","Managing Director and Senior Portfolio Manager",NULL,NULL,NULL,NULL,"Managing Director and Senior Portfolio Manager",https://www.linkedin.com/in/michael-kirkpatrick-2a8bb210/,NULL,"2021-04-08 19:15:25"
+623,"Jeff Peate, CAIA","Managing Director, Business Development North America","9/1/2019 12:00:00 AM",Present,"1 yr 8 mos","Greater New York City Area","Managing Director, Business Development North America",https://www.linkedin.com/in/jeff-peate-caia-8855911/,"Cheyne Capital","2021-04-08 19:16:32"
+624,"Kresten Johnsen","Company Name
+BankInvest",NULL,NULL,NULL,NULL,"Company Name
+BankInvest",https://www.linkedin.com/in/kresten-johnsen-32654959/,NULL,"2021-04-08 19:17:02"
+625,"Polly Andersen, MBA","Senior Manager Financial Planning Analysis",NULL,NULL,NULL,NULL,"Senior Manager Financial Planning Analysis",https://www.linkedin.com/in/polly-andersen-mba-2155ba16/,NULL,"2021-04-08 19:18:44"
+626,"Hanna Morikami, CFA","Investment Professional","5/1/2018 12:00:00 AM",Present,"3 yrs","Greater New York City Area","Investment Professional",https://www.linkedin.com/in/hanna-morikami/,"BlueMountain Capital Management","2021-04-08 19:19:15"
+627,"Ruamkhun Rob Dusdeesurapot","Investment Analyst","2017 â€“",NULL,"4 yrs","London, United Kingdom","Investment Analyst",https://www.linkedin.com/in/ruamkhun-rob-dusdeesurapot-499124112/,"Cardano Full-time","2021-04-08 19:19:44"
+628,"Aidan DatenÃ©","Private Equity Analyst","7/1/2019 12:00:00 AM",Present,"1 yr 10 mos","New York, United States","Private Equity Analyst",https://www.linkedin.com/in/aidan-daten%C3%A9-bb99a158/,"Landmark Partners","2021-04-08 19:20:13"
+629,"Prashant Inamdar","Company Name
+Westwood Holdings Group, Inc.",NULL,NULL,NULL,NULL,"Company Name
+Westwood Holdings Group, Inc.",https://www.linkedin.com/in/prashant-inamdar/,NULL,"2021-04-08 19:20:41"
+630,"Derek Olsen, CFA","Investment Management, Technology, and Operations","4/1/2001 12:00:00 AM",Present,"20 yrs 1 mo","Naperville, Illinois","Investment Management, Technology, and Operations",https://www.linkedin.com/in/derek-olsen-cfa-a9303a46/,"Calamos Investments","2021-04-08 19:21:13"
+631,"Hans Abate","Head of Portfolio Management","2006 â€“",NULL,"15 yrs","Miami/Fort Lauderdale Area","Head of Portfolio Management",https://www.linkedin.com/in/hans-abate-8a07288/,"EFG Asset Management","2021-04-08 19:21:44"
+632,"Grace Minorca","Operations Associate","2/1/2015 12:00:00 AM",Present,"6 yrs 3 mos","Stamford, Connecticut","Operations Associate",https://www.linkedin.com/in/graceminorca/,"Tweedy, Browne Company","2021-04-08 19:22:14"
+633,"Kaijie (Kenneth) Zhu","Investment Professional",NULL,NULL,NULL,NULL,"Investment Professional",https://www.linkedin.com/in/kaijie-kenneth-zhu-83b102a3/,NULL,"2021-04-08 19:22:46"
+634,"Ed Jeans","Equity Analyst",NULL,NULL,NULL,NULL,"Equity Analyst",https://www.linkedin.com/in/ed-jeans-69b54b101/,NULL,"2021-04-08 19:23:17"
+635,"Tony Wu","Senior Analyst",NULL,NULL,NULL,NULL,"Senior Analyst",https://www.linkedin.com/in/tony-wu-700a6b31/,NULL,"2021-04-08 19:23:50"
+636,"Michael Dettmer",Associate,"8/1/2020 12:00:00 AM",Present,"9 mos","San Francisco Bay Area",Associate,https://www.linkedin.com/in/michael-dettmer-84695299/,"ValueAct Capital","2021-04-08 19:24:20"
+637,"Piotr TrzciÅ„ski, MRICS","Director, Head of Investment Poland","5/1/2017 12:00:00 AM",Present,"4 yrs","Warsaw, Masovian District, Poland","Director, Head of Investment Poland",https://www.linkedin.com/in/piotr-trzci%C5%84ski-mrics-b1860822/,"Savills Investment Management","2021-04-08 19:24:48"
+638,"Abhinav Rathee","Portfolio Manager","8/1/2018 12:00:00 AM",Present,"2 yrs 9 mos","Copenhagen Area, Capital Region, Denmark","Portfolio Manager",https://www.linkedin.com/in/abhinav-rathee-1076764/,"C WorldWide Asset Management","2021-04-08 19:25:15"
+639,"Eve Danbury","Company Name
+Millennium Global Investments Limited",NULL,NULL,NULL,NULL,"Company Name
+Millennium Global Investments Limited",https://www.linkedin.com/in/evedanbury/,NULL,"2021-04-08 19:25:43"
+640,"Brandt Dusthimer","Investment Analyst","4/1/2015 12:00:00 AM",Present,"6 yrs 1 mo","Austin, Texas Area","Investment Analyst",https://www.linkedin.com/in/dusthimer/,"Yacktman Asset Management","2021-04-08 19:26:14"
+641,"Lhoucine ADERDOR","Senior Portfolio Manager","10/1/2018 12:00:00 AM",Present,"2 yrs 7 mos",Singapore,"Senior Portfolio Manager",https://www.linkedin.com/in/lhoucine-aderdor-3a185146/,"H2O AM Asia","2021-04-08 19:26:42"
+642,"Michael Pfeiffer",Fondsmanager,"9/1/2008 12:00:00 AM",Present,"12 yrs 8 mos",Linz,Fondsmanager,https://www.linkedin.com/in/michael-pfeiffer-87972a160/,"Kepler Fonds KAG","2021-04-08 19:27:12"
+643,"Rajiv Shetty","Managing Director, SYZ Impact","10/1/2020 12:00:00 AM",Present,"7 mos","Zurich, Switzerland","Managing Director, SYZ Impact",https://www.linkedin.com/in/rajivshetty/,"SYZ Group","2021-04-08 19:27:43"
+644,"Aobo Guo","Growth Equity Investor","3/1/2019 12:00:00 AM",Present,"2 yrs 2 mos","San Francisco Bay Area","Growth Equity Investor",https://www.linkedin.com/in/aobo-guo/,"Generation Investment Management","2021-04-08 19:28:47"
+645,"Brandon Arrindell, CFA","Company Name
+Southeastern Asset Management",NULL,NULL,NULL,NULL,"Company Name
+Southeastern Asset Management",https://www.linkedin.com/in/brandon-arrindell-cfa-88877018/,NULL,"2021-04-08 19:29:19"
+646,"Arthur Ntale, CFA","Assistant Fund Manager",NULL,NULL,NULL,NULL,"Assistant Fund Manager",https://www.linkedin.com/in/arthur-ntale-cfa-85a58424/,NULL,"2021-04-08 19:29:50"
+647,"Kevin Hwang","Senior Analyst","8/1/2018 12:00:00 AM",Present,"2 yrs 9 mos","New York, New York","Senior Analyst",https://www.linkedin.com/in/kevinshwang/,"Glenview Capital","2021-04-08 19:30:20"
+648,"Tony Rosenthal","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/tony-rosenthal-ab11972a/,NULL,"2021-04-08 19:30:50"
+649,"William Hench","Portfolio Manager, Principal","6/1/2002 12:00:00 AM",Present,"18 yrs 11 mos","New York","Portfolio Manager, Principal",https://www.linkedin.com/in/william-hench-94140411/,"Royce Investment Partners","2021-04-08 19:31:21"
+650,"Liwei Yin","Senior Quantitative Analyst",NULL,NULL,NULL,NULL,"Senior Quantitative Analyst",https://www.linkedin.com/in/liwei-yin/,NULL,"2021-04-08 19:31:49"
+651,"Ross Kelley","Investment Banking Associate","6/1/2020 12:00:00 AM",Present,"11 mos","Greater New York City Area","Investment Banking Associate",https://www.linkedin.com/in/ross-kelley/,TD,"2021-04-08 19:32:39"
+652,"Matt Meissner","Vice President","9/1/2019 12:00:00 AM",Present,"1 yr 8 mos","Miami/Fort Lauderdale Area","Vice President",https://www.linkedin.com/in/matt-meissner-92836b58/,"EnTrust Global","2021-04-08 19:33:10"
+653,"Loraine Arde","Development Analyst, Retail","11/1/2018 12:00:00 AM",Present,"2 yrs 6 mos","Sydney, Australia","Development Analyst, Retail",https://www.linkedin.com/in/loraineardesydney/,"The GPT Group Full-time","2021-04-08 19:33:38"
+654,"Hartmuth Sude","Private & Institutional Banking",NULL,NULL,NULL,NULL,"Private & Institutional Banking",https://www.linkedin.com/in/hartmuth-sude-699bbb150/,NULL,"2021-04-08 19:34:08"
+655,"Leopold Meiler","Real Estate Debt Analyst","9/1/2020 12:00:00 AM",Present,"8 mos","Paris, ÃŽle-de-France, France","Real Estate Debt Analyst",https://www.linkedin.com/in/leopoldmeiler/,"SCOR Investment Partners SE Permanent","2021-04-08 19:34:38"
+656,"Scott Warner","Managing Director",NULL,NULL,NULL,NULL,"Managing Director",https://www.linkedin.com/in/scott-warner-7172281/,NULL,"2021-04-08 19:35:12"
+657,"Nhi Nguyen","Recruitment Sourcing Executive","2/1/2021 12:00:00 AM",Present,"3 mos","Ho Chi Minh City, Vietnam","Recruitment Sourcing Executive",https://www.linkedin.com/in/nhi-nguyen-27a367129/,"Shinhan Bank","2021-04-08 19:37:03"
+658,"Ambrose Faulks","Fund Manager","7/1/2013 12:00:00 AM",Present,"7 yrs 10 mos","London, United Kingdom","Fund Manager",https://www.linkedin.com/in/ambrose-faulks-a1383266/,"Artemis Investment Management","2021-04-08 19:37:41"
+659,"Paula Agnelli","Director, Residential Property Management, Eastern Canada","2/1/2018 12:00:00 AM",Present,"3 yrs 3 mos","Toronto, Canada Area","Director, Residential Property Management, Eastern Canada",https://www.linkedin.com/in/paula-agnelli-a4162027/,BentallGreenOak,"2021-04-08 19:38:20"
+660,"Siva Natarajan","Investment Analyst","2/1/2019 12:00:00 AM",Present,"2 yrs 3 mos","Winter Park, Florida","Investment Analyst",https://www.linkedin.com/in/sivanatarajan/,"GW&K Investment Management","2021-04-08 19:38:58"
+661,"John Wills CFA, CPA","Managing Director","7/1/2005 12:00:00 AM",Present,"15 yrs 10 mos","Morristown, NJ","Managing Director",https://www.linkedin.com/in/john-wills-cfa-cpa-44815b3/,"MetLife Investment Management","2021-04-08 19:39:36"
+662,"Lorenzo Signorini","Director - Private Debt","4/1/2014 12:00:00 AM",Present,"7 yrs 1 mo","Milan Area, Italy","Director - Private Debt",https://www.linkedin.com/in/lorsignorini/,"Muzinich & Co","2021-04-08 19:40:13"
+663,"Eduardo Serrano Rueda","Head of IFRS17 Actuarial Methodology and Implementation","11/1/2019 12:00:00 AM",Present,"1 yr 6 mos","Barcelona Area, Spain","Head of IFRS17 Actuarial Methodology and Implementation",https://www.linkedin.com/in/eduardoserranorueda/,"VidaCaixa Full-time","2021-04-08 19:40:51"
+664,"Xingyi Shi, CFA, FRM, CAIA","Senior Portfolio Manager Equities","1/1/2014 12:00:00 AM",Present,"7 yrs 4 mos","Frankfurt am Main","Senior Portfolio Manager Equities",https://www.linkedin.com/in/xingyi-shi-cfa-frm-caia-633800ab/,"Quoniam Asset Management GmbH","2021-04-08 19:41:27"
+665,"Glenn A. Weiner, CFA","Managing Director, Head of Consultant Relations, Americas","7/1/2016 12:00:00 AM",Present,"4 yrs 10 mos","New York","Managing Director, Head of Consultant Relations, Americas",https://www.linkedin.com/in/glennweinercfa/,Alcentra,"2021-04-08 19:42:03"
+666,"Selim Moknine","Senior Project Management",NULL,NULL,NULL,NULL,"Senior Project Management",https://www.linkedin.com/in/selim-moknine-046416110/,NULL,"2021-04-08 19:42:40"
+667,"Lucila Guelfi, CWMA","Relationship Manager","11/1/2018 12:00:00 AM",Present,"2 yrs 6 mos","ZÃ¼rich Area, Switzerland","Relationship Manager",https://www.linkedin.com/in/lucila-guelfi-cwma-379b3410/,"Mirabaud Group","2021-04-08 19:43:19"
+668,"Charles Biderman","Portfolio Manager, Global Emerging Markets","10/1/2010 12:00:00 AM",Present,"10 yrs 7 mos","Paris, ÃŽle-de-France, France","Portfolio Manager, Global Emerging Markets",https://www.linkedin.com/in/charles-biderman-11859b52/,COMGEST,"2021-04-08 19:43:57"
+669,"Mark Weiller","Partner, Head of Distribution & Product Management","2020 â€“",NULL,"1 yr","New York, United States","Partner, Head of Distribution & Product Management",https://www.linkedin.com/in/mark-weiller-4760b7ba/,"Stone Harbor Investment Partners Full-time","2021-04-08 19:44:33"
+670,"Thibaud Colin","Asset Manager","9/1/2015 12:00:00 AM",Present,"5 yrs 8 mos","RÃ©gion de Paris, France","Asset Manager",https://www.linkedin.com/in/thibaud-colin-21001573/,"AEW Europe","2021-04-08 19:45:10"
+671,"William O'Connell","Principal / Associate Director","2013 â€“",NULL,"8 yrs","Greater New York City Area","Principal / Associate Director",https://www.linkedin.com/in/william-o-connell-2163212/,"Intermediate Capital Group (ICG)","2021-04-08 19:45:48"
+672,"Terrie Liu, CFA","Principal - Investor Relations","1/1/2020 12:00:00 AM",Present,"1 yr 4 mos","Greater New York City Area","Principal - Investor Relations",https://www.linkedin.com/in/terrieliu/,"Adams Street Partners Full-time","2021-04-08 19:46:24"
+673,"Yanyan Xia","Company Name
+HFT Investments",NULL,NULL,NULL,NULL,"Company Name
+HFT Investments",https://www.linkedin.com/in/yanyan-xia-a95bab9b/,NULL,"2021-04-08 19:47:37"
+674,"Jonathan Menor","Senior Equity Research Analyst",NULL,NULL,NULL,NULL,"Senior Equity Research Analyst",https://www.linkedin.com/in/jonathan-menor-483397166/,NULL,"2021-04-08 19:48:15"
+675,"Fabrice Paretti","Chief Marketing and Communication Officer","3/1/2015 12:00:00 AM",Present,"6 yrs 2 mos","Paris Area, France","Chief Marketing and Communication Officer",https://www.linkedin.com/in/fabrice-paretti-09b73448/,"DNCA Finance","2021-04-08 19:48:52"
+676,"Stefano Toffano, CFA","Senior Fund Manager","8/1/2014 12:00:00 AM",Present,"6 yrs 9 mos","Amsterdam Area, Netherlands","Senior Fund Manager",https://www.linkedin.com/in/steftoffano/,InsingerGilissen,"2021-04-08 19:49:29"
+677,"jonathan lewis","AVP, Equity Trading",NULL,NULL,NULL,NULL,"AVP, Equity Trading",https://www.linkedin.com/in/jonathanlewis2/,NULL,"2021-04-08 19:50:04"
+678,"Colin Ramkissoon","Portfolio Manager, Global Equities","2011 â€“",NULL,"10 yrs","Toronto, Canada","Portfolio Manager, Global Equities",https://www.linkedin.com/in/colin-ramkissoon-b885a83/,"Beutel, Goodman & Company Ltd.","2021-04-08 19:51:18"
+679,"Caroline Randall","Portfolio Analyst","3/1/2020 12:00:00 AM",Present,"1 yr 2 mos","Boston, Massachusetts, United States","Portfolio Analyst",https://www.linkedin.com/in/carolinerandall/,"Natixis Investment Managers Full-time","2021-04-08 19:51:56"
+680,"Silvia Uggeri","Project Manager","1/1/2017 12:00:00 AM",Present,"4 yrs 4 mos","San Giuliano Milanese","Project Manager",https://www.linkedin.com/in/silvia-uggeri-9aa343/,"AGF Cross Channel Management","2021-04-08 19:52:30"
+681,"Peter Sackmann, CFA",Director,NULL,NULL,NULL,NULL,Director,https://www.linkedin.com/in/peter-sackmann-cfa-6606b01b/,NULL,"2021-04-08 19:53:05"
+682,"William Rhodes","Managing Director","1/1/2019 12:00:00 AM",Present,"2 yrs 4 mos","Stockbridge, Georgia","Managing Director",https://www.linkedin.com/in/william-rhodes-4353a326/,"Genesis Asset Management","2021-04-08 19:53:43"
+683,"Alain Gallois","Company Name
+Natixis",NULL,NULL,NULL,NULL,"Company Name
+Natixis",https://www.linkedin.com/in/alain-gallois-a5033688/,NULL,"2021-04-08 19:54:18"
+684,"Jan Aabling","Head of BizTech Wealth, SVP",NULL,NULL,NULL,NULL,"Head of BizTech Wealth, SVP",https://www.linkedin.com/in/janaabling/,NULL,"2021-04-08 19:54:52"
+685,"Vesna Macura","marketing manager",NULL,NULL,NULL,NULL,"marketing manager",https://www.linkedin.com/in/vesna-macura-873ba18/,NULL,"2021-04-08 19:56:04"
+686,"Maria Urbano Zumalacarregui","Vice President Portfolio Management","10/1/2015 12:00:00 AM",Present,"5 yrs 7 mos","Miami, Florida","Vice President Portfolio Management",https://www.linkedin.com/in/maria-urbano-zumalacarregui-5baa3326/,"Banco Sabadell","2021-04-08 19:56:45"
+687,"Rami Bidshahri","MBA Associate | Private Equity","9/1/2020 12:00:00 AM",Present,"8 mos","New York, United States","MBA Associate | Private Equity",https://www.linkedin.com/in/ramibidshahri/,"Unigestion Part-time","2021-04-08 19:57:35"
+688,"Vidit Ghai","Chief Strategy Officer (Key Initiatives & Partnerships)","3/1/2016 12:00:00 AM",Present,"5 yrs 2 mos","Delhi / NCR","Chief Strategy Officer (Key Initiatives & Partnerships)",https://www.linkedin.com/in/viditghai/,"First Quadrant","2021-04-08 19:58:08"
+689,"Johannes Ruhl, CFA","Senior Vice President","7/1/2018 12:00:00 AM",Present,"2 yrs 10 mos","MÃ¼nchen, Bayern, Deutschland","Senior Vice President",https://www.linkedin.com/in/johannes-ruhl-cfa-119b30a4/,"Assenagon Asset Management Full-time","2021-04-08 19:58:46"
+690,"Marta Echaniz Guibert",RRHH,NULL,NULL,NULL,NULL,RRHH,https://www.linkedin.com/in/marta-echaniz-guibert-63841466/,NULL,"2021-04-08 19:59:24"
+691,"Mariela Serkyova","Company Name
+SPF Beheer",NULL,NULL,NULL,NULL,"Company Name
+SPF Beheer",https://www.linkedin.com/in/marielastefanova/,NULL,"2021-04-08 19:59:57"
+692,"Horace Whitworth","Portfolio Manager",NULL,NULL,NULL,NULL,"Portfolio Manager",https://www.linkedin.com/in/horace-whitworth-284a507/,NULL,"2021-04-08 20:00:35"
+693,"Michael Sebesta, CFA","Managing Director, Head of Institutional Client Service","1/1/2013 12:00:00 AM",Present,"8 yrs 4 mos","Greater Atlanta Area","Managing Director, Head of Institutional Client Service",https://www.linkedin.com/in/michael-sebesta-cfa-726a4213/,"Seix Investment Advisors Full-time","2021-04-08 20:40:27"
+694,"Mike Byrne","Company Name
+AEW",NULL,NULL,NULL,NULL,"Company Name
+AEW",https://www.linkedin.com/in/mike-byrne-8675931/,NULL,"2021-04-08 20:41:25"
+695,"Anthony Robertson","Company Name
+Cheyne Capital",NULL,NULL,NULL,NULL,"Company Name
+Cheyne Capital",https://www.linkedin.com/in/anthony-robertson-012968/,NULL,"2021-04-08 20:42:06"
+696,"Bich Van Ha","Investment Manager",NULL,NULL,NULL,NULL,"Investment Manager",https://www.linkedin.com/in/bich-van-ha-16618b13/,NULL,"2021-04-08 20:42:36"
+697,"Kirsti Ring Jensen","Company Name
+Jyske Bank",NULL,NULL,NULL,NULL,"Company Name
+Jyske Bank",https://www.linkedin.com/in/kirsti-ring-jensen-9b19b483/,NULL,"2021-04-08 20:43:07"
+698,"Harris Sheikh","Investment Analyst",NULL,NULL,NULL,NULL,"Investment Analyst",https://www.linkedin.com/in/harris-sheikh-77376b4/,NULL,"2021-04-08 20:44:51"
+699,"Nick Coogan","Investment Analyst","11/1/2020 12:00:00 AM",Present,"6 mos","London, England, United Kingdom","Investment Analyst",https://www.linkedin.com/in/nickjtcoogan/,"Cardano Full-time","2021-04-08 20:45:17"
+700,"Kelli Keith","Private Equity","9/1/2019 12:00:00 AM",Present,"1 yr 8 mos","New York, New York","Private Equity",https://www.linkedin.com/in/kelli-keith-1a531459/,"Landmark Partners","2021-04-08 20:45:48"
+701,"Zach Hutchings","Client Service Associate","9/1/2020 12:00:00 AM",Present,"8 mos","Houston, Texas, United States","Client Service Associate",https://www.linkedin.com/in/zach-hutchings-295517137/,"Westwood Holdings Group, Inc. Full-time","2021-04-08 20:46:19"
+702,"Shruti Khetan","Investment Analyst","10/1/2018 12:00:00 AM",Present,"2 yrs 7 mos","Greater Chicago Area","Investment Analyst",https://www.linkedin.com/in/shrutikhetan/,"Calamos Investments Full-time","2021-04-08 20:46:45"
+703,"Eduardo Cruz","Head of Private Banking",NULL,NULL,NULL,NULL,"Head of Private Banking",https://www.linkedin.com/in/eduardo-cruz-879ab83a/,NULL,"2021-04-08 20:47:15"
+704,"Andrew Ewert","Equity Analyst",NULL,NULL,NULL,NULL,"Equity Analyst",https://www.linkedin.com/in/andrew-ewert-a4a81510/,NULL,"2021-04-08 20:47:48"
+705,"Nazanin Soltan","Private Equity Intern","3/1/2021 12:00:00 AM",Present,"2 mos","Hong Kong SAR","Private Equity Intern",https://www.linkedin.com/in/nazanin-soltan-a410b5197/,"PAG Full-time","2021-04-08 20:48:31"
+706,"James Dudgeon","US Fund Analyst","1/1/2016 12:00:00 AM",Present,"5 yrs 4 mos","London, United Kingdom","US Fund Analyst",https://www.linkedin.com/in/james-dudgeon-599b3222/,"Majedie Asset Management","2021-04-08 20:49:01"
+707,"Paul Danes","Company Name
+Martin Currie",NULL,NULL,NULL,NULL,"Company Name
+Martin Currie",https://www.linkedin.com/in/paul-danes-5bbba06/,NULL,"2021-04-08 20:55:16"
+708,"A.J. Galainena",Associate,NULL,NULL,NULL,NULL,Associate,https://www.linkedin.com/in/a-j-galainena-b36a509b/,NULL,"2021-04-08 20:56:02"
+709,"Lauren Post, ACA","Investment Analyst",NULL,NULL,NULL,NULL,"Investment Analyst",https://www.linkedin.com/in/laurenemmapost/,NULL,"2021-04-08 20:56:33"
+710,"Mattias Kolm","Portfolio Manager","9/1/2012 12:00:00 AM",Present,"8 yrs 8 mos","Copenhagen Area, Denmark","Portfolio Manager",https://www.linkedin.com/in/mattias-kolm-83339a/,"C WorldWide Asset Management","2021-04-08 20:57:03"
+711,"Simon Lack","Company Name
+Millennium Global Investments Limited",NULL,NULL,NULL,NULL,"Company Name
+Millennium Global Investments Limited",https://www.linkedin.com/in/simon-lack-53860864/,NULL,"2021-04-08 20:57:34"
+712,"Chase Frock, CFA","Company Name
+Yacktman Asset Management",NULL,NULL,NULL,NULL,"Company Name
+Yacktman Asset Management",https://www.linkedin.com/in/chasefrock/,NULL,"2021-04-08 20:58:05"
+713,"Matthieu Genessay","Client Portfolio Manager, H2O AM LLP","8/1/2011 12:00:00 AM",Present,"9 yrs 9 mos","London, Royaume-Uni","Client Portfolio Manager, H2O AM LLP",https://www.linkedin.com/in/matthieu-genessay-b245681a/,"H2O AM LLP","2021-04-08 20:58:36"
+714,"Gernot Schrotter","Company Name
+KEPLER-FONDS Kapitalanlagegesellschaft m.b.H.",NULL,NULL,NULL,NULL,"Company Name
+KEPLER-FONDS Kapitalanlagegesellschaft m.b.H.",https://www.linkedin.com/in/gernot-schrotter-470160131/,NULL,"2021-04-08 20:59:07"
+715,"Sherban Tautu","Head of Global Investment Advisory","1/1/2011 12:00:00 AM",Present,"10 yrs 4 mos","Geneva Area, Switzerland","Head of Global Investment Advisory",https://www.linkedin.com/in/sherban-tautu-94426b/,"Banque SYZ & CO SA","2021-04-08 20:59:38"
+716,"Lila Preston","Head of Growth Equity","2004 â€“",NULL,"17 yrs","San Francisco Bay Area","Head of Growth Equity",https://www.linkedin.com/in/lila-preston-2198b/,"Generation Investment Management","2021-04-08 21:00:40"
+717,"Wade Donels","Senior Trader","7/1/2016 12:00:00 AM",Present,"4 yrs 10 mos","Greater Memphis Area","Senior Trader",https://www.linkedin.com/in/wade-donels-883b8933/,"Southeastern Asset Management","2021-04-08 21:01:16"
+718,"Guy Davidson","Investment Specialist","12/1/2018 12:00:00 AM",Present,"2 yrs 5 mos","United Kingdom","Investment Specialist",https://www.linkedin.com/in/guy-davidson-906b1714/,"Veritas Asset Management LLP","2021-04-08 21:01:48"
+719,"Dennis Chao","Company Name
+Glenview Capital",NULL,NULL,NULL,NULL,"Company Name
+Glenview Capital",https://www.linkedin.com/in/dennisdchao/,NULL,"2021-04-08 21:02:19"
+720,"Michael Connors","Portfolio Manager, Director of Portfolio Analytics",NULL,NULL,NULL,NULL,"Portfolio Manager, Director of Portfolio Analytics",https://www.linkedin.com/in/michael-connors-92484a161/,NULL,"2021-04-08 21:03:32"
+721,"Ross Kelley","Investment Banking Associate","6/1/2020 12:00:00 AM",Present,"11 mos","Greater New York City Area","Investment Banking Associate",https://www.linkedin.com/in/ross-kelley/,TD,"2021-04-08 21:04:04"
+722,"Grace Miller","Vice President","11/1/2014 12:00:00 AM",Present,"6 yrs 6 mos","Greater New York City Area","Vice President",https://www.linkedin.com/in/grace-a-miller/,"EnTrust Global","2021-04-08 21:05:07"
+723,"Chris Moses Zahar","Company Name
+The GPT Group",NULL,NULL,NULL,NULL,"Company Name
+The GPT Group",https://www.linkedin.com/in/chrismz/,NULL,"2021-04-08 21:05:38"
+724,"Mag. Alexander Tsitsovits","Managing Director",NULL,NULL,NULL,NULL,"Managing Director",https://www.linkedin.com/in/mag-alexander-tsitsovits-48837990/,NULL,"2021-04-08 21:06:10"
+725,"Alexandre Genneret","Investment Analyst - Leveraged Loans & Private Debt","10/1/2020 12:00:00 AM",Present,"7 mos","Paris Area, France","Investment Analyst - Leveraged Loans & Private Debt",https://www.linkedin.com/in/alexandregenneret/,"SCOR Investment Partners SE Permanent","2021-04-08 21:06:39"
+726,"Jeff Willardson, CFA","Managing Director",NULL,NULL,NULL,NULL,"Managing Director",https://www.linkedin.com/in/jeff-willardson-cfa-5757a05/,NULL,"2021-04-08 21:07:07"
+727,"Mette Harbo Bossow","Investment Manager","1/1/2012 12:00:00 AM",Present,"9 yrs 4 mos",Denmark,"Investment Manager",https://www.linkedin.com/in/mette-harbo-bossow/,Sparinvest,"2021-04-08 21:07:38"
+728,"Vito Donvito","Company Name
+ARCA Fondi SGR",NULL,NULL,NULL,NULL,"Company Name
+ARCA Fondi SGR",https://www.linkedin.com/in/vito-donvito-373611b1/,NULL,"2021-04-08 21:41:06"
+729,"Hyukrhin Kwon","Manager, Investment Banking Department","4/1/2011 12:00:00 AM",Present,"10 yrs 1 mo","Jung-gu, Seoul, Korea","Manager, Investment Banking Department",https://www.linkedin.com/in/hyukrhin-kwon-62b38126/,"Shinhan Bank","2021-04-08 21:41:38"
+730,"Jack Holmes, CFA","Fund Manager",NULL,NULL,NULL,NULL,"Fund Manager",https://www.linkedin.com/in/jack-holmes-cfa-3118b722/,NULL,"2021-04-08 21:42:10"
+731,"Hagerman Brian","Vice President Asset Management",NULL,NULL,NULL,NULL,"Vice President Asset Management",https://www.linkedin.com/in/hagerman-brian-b6010b45/,NULL,"2021-04-08 21:42:40"
+732,"Todd Howard","Portfolio Manager","9/1/2017 12:00:00 AM",Present,"3 yrs 8 mos","Greater Philadelphia Area","Portfolio Manager",https://www.linkedin.com/in/todd-howard-8962753b/,"MetLife Investment Management Full-time","2021-04-08 21:43:12"
+733,"Ferran Bolet ArbÃ³s","Investment Project Manager","2/1/2017 12:00:00 AM",Present,"4 yrs 3 mos","Barcelona Area, Spain","Investment Project Manager",https://www.linkedin.com/in/ferran-bolet-arb%C3%B3s-a45769b/,VidaCaixa,"2021-04-08 21:43:43"
+734,"Joaquin Valdez","Portfolio Analyst","9/1/2020 12:00:00 AM",Present,"8 mos","New York, New York, United States","Portfolio Analyst",https://www.linkedin.com/in/joaquinvaldez/,"Alcentra Full-time","2021-04-08 21:44:59"
+735,"Volker Wedel","managing director",NULL,NULL,NULL,NULL,"managing director",https://www.linkedin.com/in/volker-wedel-0a51481/,NULL,"2021-04-08 21:45:29"
+736,"Barone Daniele","Senior Portfolio Manager","1/1/2013 12:00:00 AM",Present,"8 yrs 4 mos","ZÃ¼rich Area, Switzerland","Senior Portfolio Manager",https://www.linkedin.com/in/barone-daniele-59275025/,"Mirabaud Group","2021-04-08 21:45:59"
+737,"Swati Madhabushi, CFA","Analyst/Portfolio Manager","5/1/2019 12:00:00 AM",Present,"2 yrs",Singapore,"Analyst/Portfolio Manager",https://www.linkedin.com/in/swati-madhabushi-cfa-49891b66/,COMGEST,"2021-04-08 21:46:30"
+738,"Kevin Beckley","Finance Department","6/1/2014 12:00:00 AM",Present,"6 yrs 11 mos","31 W. 52nd Street 16th Floor New York, NY 10019","Finance Department",https://www.linkedin.com/in/kevin-beckley-0ab82167/,"Stone Harbor Investment Partners","2021-04-08 21:47:01"
+739,"Cassie Cicalis","Acquisitions Analyst","8/1/2020 12:00:00 AM",Present,"9 mos","Boston, Massachusetts, United States","Acquisitions Analyst",https://www.linkedin.com/in/cassie-cicalis-76bb1914a/,"AEW Full-time","2021-04-08 21:47:33"
+740,"Matthew Lerner","Special Situations Private Equity","4/1/2020 12:00:00 AM",Present,"1 yr 1 mo","New York, NY","Special Situations Private Equity",https://www.linkedin.com/in/matthew-lerner-5b0b09a0/,"Intermediate Capital Group (ICG)","2021-04-08 21:48:04"
+741,"Casper Novod-Knudsen","Company Name
+Nykredit",NULL,NULL,NULL,NULL,"Company Name
+Nykredit",https://www.linkedin.com/in/casper-novod-knudsen-50129793/,NULL,"2021-04-08 21:49:44"
+742,"Nikesh Mistry","Strategy Engineer, Investment Management Team","10/1/2019 12:00:00 AM",Present,"1 yr 7 mos","London, United Kingdom","Strategy Engineer, Investment Management Team",https://www.linkedin.com/in/nikesh-mistry-695587a6/,Winton,"2021-04-08 21:50:16"
+743,"Alexander Rietz","Portfolio Manager / Infrastructure","11/1/2013 12:00:00 AM",Present,"7 yrs 6 mos","Munich Area, Germany","Portfolio Manager / Infrastructure",https://www.linkedin.com/in/alexander-rietz-1b24659/,"KGAL Investment Management GmbH & Co. KG","2021-04-08 21:50:47"
+744,"Nihar R. Panda","Associate Director, Trading","5/1/2010 12:00:00 AM",Present,"11 yrs","pasadena, ca","Associate Director, Trading",https://www.linkedin.com/in/nihar-r-panda-7092822/,"First Quadrant","2021-04-08 21:51:16"
+745,"JosÃ© Manuel Castro","Company Name
+Mirabaud Group",NULL,NULL,NULL,NULL,"Company Name
+Mirabaud Group",https://www.linkedin.com/in/josemanuelcastro/,NULL,"2021-04-08 21:56:37"
+746,"Edouard Laurencin","Fund Analyst",NULL,NULL,NULL,NULL,"Fund Analyst",https://www.linkedin.com/in/edouard-laurencin/,NULL,"2021-04-08 21:57:08"
+747,"Susanne Nazemi Hosseini","Client Manager",NULL,NULL,NULL,NULL,"Client Manager",https://www.linkedin.com/in/susanne-nazemi-hosseini-030711130/,NULL,"2021-04-08 21:57:42"

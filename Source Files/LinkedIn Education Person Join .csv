@@ -1,0 +1,863 @@
+personID,educationid,name,current_position,location,degree,from_date,to_date
+1,34,"Matthew Miskin CFA","Company Name
+John Hancock Investment Management",NULL,MBA,2009,2012
+2,33,"Qingze (David) Lin","Company Name
+China Asset Management Co., Ltd.",Shanghai,NULL,NULL,NULL
+3,37,"Tomas Bakutis, CFA","Fund Manager","2 yrs 8 mos","Master's degree",2007,2009
+4,39,"Claire (Staniforth) Talbot","Company Name
+AMP Capital",NULL,"Bachelor of Land Economy",1998,2001
+5,38,"Daniel Hochman","Company Name
+Bridgewater Associates","Westport, CT",B.A.,2007,2011
+6,40,"Kevin Brennan","Company Name
+Bridgewater Associates","Washington, District Of Columbia","Master of Business Administration (M.B.A.)",1999,2001
+7,41,"Lucas Bouwhuis","Senior Portfolio Manager",NULL,NULL,NULL,NULL
+8,42,"Amir Saleem, CFA","Senior Portfolio Manager Fixed Income",NULL,NULL,NULL,NULL
+9,52,"Vivienne Taberer","Portfolio Manager",NULL,NULL,NULL,NULL
+10,43,"David McGillveray","Head of Investment Risk and Performance",NULL,"2.1 PPE (Politics, Philosophy and Economics)",1990,1993
+11,44,"Ben Nielson","Sr Investment Analyst","Greater Los Angeles Area",NULL,NULL,NULL
+12,45,"Jeremy Thames","Investment Research Analyst",NULL,"Bachelorâ€™s Degree",2012,2016
+14,47,"Ignacio Calle Cuartas",CEO,NULL,NULL,NULL,NULL
+15,48,"Daniel P. Finnegan","Company Name
+ClearBridge Investments","Stamford, CT",BS,2003,2007
+16,49,"Aram Green","Portfolio Manager",NULL,BA,1994,1998
+17,50,"Laetitia Nieuwenhuys, CAIA","Portfolio Manager",Luxembourg,"MBA Essentials",2019,2019
+18,51,"Peter Vanwalleghem","Junior Asset Manager",NULL,NULL,NULL,NULL
+19,6,"Ari Barkan","Managing Director, Client and Partner Group","Moscow, Russian Federation","Bachelor of Arts (BA)",1987,1991
+20,2,"Dina DiLorenzo","Chief Operating Officer",NULL,NULL,NULL,NULL
+21,4,"Mitchell Lee","Managing Director & Co-Head of KKR Insurance Company Asset Management","5 yrs",NULL,NULL,NULL
+22,7,"Helena Bergstrom","Product Strategist, Alternatives","Sydney, Australia",NULL,NULL,NULL
+23,9,"Alberto Botter","Company Name
+AQR Capital Management","Greater New York City Area","Master of Science",2008,2010
+24,11,"Christine Hurtsellers","Company Name
+Voya Investment Management","Columbus, Ohio Area",Bachelors,1982,1985
+25,15,"Alexander J. H. Molson","Company Name
+Caisse de dÃ©pÃ´t et placement du QuÃ©bec (CDPQ)","Montreal, Canada Area","Bachelor of Commerce",2010,2010
+26,17,"Marcos Romo","Company Name
+BNY Mellon","Lewisville, Texas","Bachelor of Business Administration (B.B.A.)",2000,2004
+27,5,"Patrick Wacker","Portfolio Manager Emerging Markets","New York, NY",NULL,NULL,NULL
+28,21,"John King","Portfolio Manager","London, United Kingdom","Master of Arts - MA",2001,2004
+29,22,"Terence Brennan","Portfolio Manager","Greater New York City Area","Bachelor of Arts (B.A.)",1982,1986
+30,53,"Jonathan Banks","Company Name
+Santander Asset Management UK","Baker Street, London, UK",MA,2002,2006
+31,54,"Aditya. Palwankar","Portfolio Manager",NULL,NULL,NULL,NULL
+32,24,"EDWARD N.","Portfolio Manager",Singapore,NULL,NULL,NULL
+33,25,"Ryuichiro Kuze, CFA","Senior Portfolio Manager","Tokyo, London",BA,1995,2000
+34,26,"James Kenney, CFA","Company Name
+Pictet Asset Management",NULL,NULL,NULL,NULL
+35,27,"Stephanie Clarke","Company Name
+Pictet Asset Management",NULL,NULL,NULL,NULL
+37,28,"Thomas Lee","Portfolio Manager & Managing Director",Illinois,NULL,NULL,NULL
+38,55,"Justin YANG","Fixed Income Trader","Hong Kong","Master of Science (MSc)",2016,2018
+39,56,"Cecil Poon","Company Name
+E Fund Management (HK) Co., Ltd",NULL,"Bachelor of Mathematics",2003,2007
+41,59,"Claudio Serra","Portfolio Manager",NULL,NULL,NULL,NULL
+42,58,"Ruth Walter, CFA","Fund of Funds","3 yrs 3 mos",NULL,NULL,NULL
+43,57,"Caio Rossoni","Portfolio Manager - Asset Management","Sao Paulo, Brazil","MBA, Finance Major",2015,2017
+44,60,"Guy Fiumarelli","COO / Head of Operations",NULL,BA,1983,1987
+45,61,"Dan Bihi-Zenou","Chief Executive Officer, JSSREM","Geneva Area, Switzerland",IDP-C,2015,2016
+46,62,"Benjamin Zerbib",Director,NULL,NULL,NULL,NULL
+47,63,"Bellen Chang","Managing Director","Hong Kong","Master of Business Administration - MBA",1995,1997
+48,64,"Jeff Smith, CFA","Company Name
+American Century Investments",NULL,"Bachelor of Science in Business Administration",2001,2005
+49,65,"Rich Weiss","Chief Investment Officer - Multi-Asset Strategies",NULL,M.B.A.,1982,1984
+50,68,"Joe Gaffney",NULL,NULL,NULL,NULL,NULL
+51,66,"Tony Huang","Senior Analyst, Investment Compliance","Sydney, Australia","Master's Degree",2014,2014
+52,67,"Rizi Mohanty","Company Name
+First State Investments","New Delhi, Delhi, India",MBA,2008,2010
+53,69,"Mike Faloon","Portfolio Manager",NULL,finance,1995,1998
+54,70,"Michael Piersol","Emerging Markets Senior Bond Trader","Greater Boston Area",NULL,NULL,NULL
+55,71,"Bruno Wicki, CFA","Company Name
+ZÃ¼rcher Kantonalbank","2 yrs",CFA,2000,2002
+56,72,"Christian Amos","Senior Risk Manager Asset Management","2 yrs 8 mos",NULL,NULL,NULL
+57,73,"Mark Pearce","Company Name
+GAM Investments","London, United Kingdom","Master's Degree",1997,1999
+58,74,"Tim Love","Investment Director","London, United Kingdom","Professional Accounting Exams",1983,1986
+59,75,"Catherine Thomas-Tkatchenko","Company Name
+Lyxor Asset Management","Paris Area, France","Masterâ€™s Degree",2003,2007
+60,76,"David Cormann","Company Name
+Lord, Abbett & Co. LLC",NULL,"Bachelor's degree",1996,2000
+61,77,"Colleen Boccolini","Company Name
+Lord, Abbett & Co. LLC",NULL,NULL,NULL,NULL
+62,78,"Severin Testroet","Portfolio Manager High Yield","Frankfurt Am Main Area, Germany","Master's Degree",2013,2014
+63,79,"Andrew Arnott","President and CEO",NULL,"Bachelor's degree",1989,1993
+64,30,"Thomas Haugaard","Senior EM Economist/Portfolio Manager, Emerging Markets Debt",NULL,"HA 1st part",1998,2000
+65,32,"David Wong, CFA, FRM","Company Name
+CIBC Asset Management","4 yrs 10 mos",FRM,2006,2006
+66,31,"Marius Dumitru","Company Name
+CIBC Asset Management - Investment accounting","7 yrs 2 mos",Certificate,2004,2006
+67,3,"Qui Dang","Company Name
+BNY Mellon","7 yrs 3 mos","Bachelor of Science (BS)",2001,2006
+68,80,"Michael Pagano","Company Name
+Voya Investment Management",NULL,MBA,1995,1998
+69,23,"Francis Kidd","Director Middle Office","London, United Kingdom",Other,1993,1995
+70,81,"Alex Howson","Investment Manager","Geneva, Switzerland","Master of Arts (MA)",2001,2004
+71,82,"Victor Verberk","Company Name
+Robeco","5 yrs",RBA,1998,2000
+72,83,"Marcelo Nantes de Souza","Chief Investment Officer","SÃƒÂ£o Paulo Area, Brazil",MBA,2001,2003
+73,84,"Renato Eid Tucci","Portfolio Manager","SÃƒÂ£o Paulo e RegiÃƒÂ£o, Brasil",NULL,NULL,NULL
+74,85,"Jacky Cheung",Director,"Hong Kong",Msc,2010,2012
+75,86,"Miguel Castillo","Company Name
+American Century Investments",NULL,"Master of Business Administration (MBA)",2005,2007
+76,87,"Oliver Grimson","Institutional Investment Director","London, United Kingdom","Level 3 Award in Wines",2017,2018
+77,89,"Erin Carlson","Credit - Asset Management",NULL,Master,2010,2011
+78,88,"Cosimo Chirico","Head of Credit Corporate","Head quarter - Basiglio (Mi)","Certificate Banking & Finance",2018,2021
+79,90,"Giuliana Gorla","Private Banker",Italia,Laurea,1986,1991
+80,91,"Daniel Sailer, CESGA","Director ESG Strategy & Advisory","Frankfurt Am Main Area, Germany","Bachelor of Arts with Honours in Banking and Finance",2004,2007
+81,92,"Marian Moritz Frisch","Company Name
+Metzler Asset Management GmbH","5 yrs 4 mos","Bachelor of Science (job-integrated studies 210 ECTS)",2012,2015
+82,93,"Rahul Bapna, CFA","Managing Director","Dallas-Fort Worth Metroplex",NULL,NULL,NULL
+83,94,"Stephanie Manter, CFA, CIPM","Managing Director",NULL,MBA,2004,2006
+84,95,"Hannu Takala","Company Name
+OP Financial Group",NULL,"Master's degree",2017,2021
+86,97,"Eric Gandhi","Company Name
+Boston Partners Global Investors, Inc.",NULL,MBA,2011,2013
+87,98,"Stephanie McGirr","Equity Analyst",Boston,NULL,NULL,NULL
+89,100,"Ken Fisher","Executive Chairman and Co-Chief Investment Officer",NULL,NULL,NULL,NULL
+90,101,"Vin DeLucia","Chief Investment Officer",NULL,"Bachelor of Science (BS)",1984,1988
+91,104,"Hank Trzupek","Head Of Investment Accounting",NULL,NULL,NULL,NULL
+92,102,"John Capeci","Portfolio Manager","Boston, MA",PhD,1984,1990
+93,103,"John Zakrzewski","Manager Operations and Reporting","Arrowstreet Capital","Master of Business Administration (MBA)",2007,2010
+94,105,"Jason Rodowicz, CFA","Manager, Investment Services Group",Boston,MBA,2006,2009
+95,106,"Michael Ponikiewicz","VP, Portfolio Manager","Boston, Massachusetts",NULL,NULL,NULL
+96,107,"Sean Geary","Company Name
+Acadian Asset Management",NULL,MBA,2009,2011
+97,108,"Ian Rice","Portfolio Manager â€“ Private Equity",NULL,MBA,2004,2005
+98,111,"Robert Crusha","Senior Portfolio Manager",NULL,NULL,NULL,NULL
+99,109,"Michael Chan, CFA","Vice President and Senior Portfolio Manager","Toronto, Canada Area",CFA,1995,1997
+100,110,"Michael Quigley","Executive Vice President - Head of Institutional Markets","Montreal, Canada Area",B.A.A,1980,1983
+101,112,"Ryan Delaney","Managing Director, Head of Asset Management for Real Estate funds","Los Angeles, CA","Economics and Pre-law",1997,2001
+102,113,"Matthew Wilson","Portfolio Manager, Co-Head of Special Situations and Private Equity","Los Angeles, CA","Master of Business Administration (M.B.A.)",2001,2003
+104,114,"Julia Dissmann, CFA","ESG Investment Strategist","Metropolregion MÃƒÂ¼nchen","Master of Science (MS)",2012,2015
+105,115,"David Dowden","Portfolio Manager",Princeton,MBA,1991,1993
+107,116,"Tom Kirby","Asset Manager",NULL,NULL,NULL,NULL
+108,117,"Justin Shanahan","Company Name
+CBRE Global Investors",NULL,"Bachelor of Science (BSc)",2010,2014
+109,118,"Kok Wei Yap, CFA","Portfolio Manager","Hong Kong",NULL,NULL,NULL
+112,119,"Kurt Baker","Vice President","Atlanta, Georgia",NULL,NULL,NULL
+113,120,"Joel Thomas","Asset Manager","Charlotte, NC","Masterâ€™s Degree",2014,2016
+114,121,"Nicole Scott","Company Name
+Man Group",NULL,"Bachelor's Degree",2011,2014
+115,122,"Rob Sims","Company Name
+Hines",NULL,"Master of Business Administration (MBA)",1984,1986
+116,123,"Will Rice","Company Name
+Hines",NULL,"Bachelor of Arts",2006,2008
+117,124,"Nicolas Vienne","Company Name
+CovÃ©a Finance","2 yrs 4 mos","Postgraduate Degree in Portfolio Management",2009,2010
+118,125,"Carlo Majolo","Company Name
+Anima SGR","4 yrs 1 mo","Bachelor of Science (BSc)",1999,2004
+120,126,"Malcolm White","Portfolio Manager",NULL,NULL,NULL,NULL
+121,127,"Jason Weyeneth, CFA","Vice President, Investor Relations & Corporate Strategy",NULL,NULL,NULL,NULL
+123,128,"Julien Albertini","Portfolio Manager","Greater New York City Area",MBA,2007,2009
+124,129,"Charles Hamker","Company Name
+Artisan Partners",NULL,"Bachelor's degree",1985,1990
+125,130,"Daniel Kane","Portfolio Manager",NULL,MBA,2004,2007
+126,131,"Guy Lakonishok","Partner and Portfolio Manager",Chicago,MBA,2008,2009
+127,164,"Scott Kemper","Partner & Director, Client Portfolio Services","Chicago, Illinois, United States",MBA,2003,2006
+128,132,"Eric Souders, CFA","Portfolio Manager - Absolute Return and Multi Asset","Los Angeles, California",NULL,NULL,NULL
+129,133,"Tim Crawmer","Global Multi Asset Portfolio Manager","Greater Los Angeles Area",MBA,2004,2007
+130,134,"Antonio Aita, CFA, FRM","Company Name
+BBVA Asset Management","7 yrs 5 mos","Master of Science (MSc)",2012,2014
+132,136,"Benjamin Huchet","Company Name
+Groupama Asset Management",NULL,Master,2006,2008
+134,137,"Kevin Antaya, CFA","Portfolio Manager","Hartford, CT","Bachelor of Arts (BA)",1994,1998
+135,163,"Karen Kelleher","Portfolio Manager",NULL,"MA Econ",1991,1994
+136,162,"Bill Sun","ETF Portfolio Manager","Hong Kong","Bachelor's degree",2005,2009
+137,138,"Saniel Chandrawat","Senior Investment Analyst","Hong Kong","Chartered Accountant, India",2001,2004
+138,139,"Kevin S.C. Sung","Portfolio Manager","Hong Kong",MSc,2010,2012
+139,140,"Teresa Z.","Vice President",NULL,PhD,2001,2007
+140,141,"Nick Westlind","SVP, Associate General Counsel, Asset Management","Toronto, Ontario",NULL,NULL,NULL
+141,142,"David Navachandrabala, CPA, CMA, MBA, PMP","Director, Portfolio Management","Toronto, Ontario, Canada",MBA,2009,2010
+142,143,"Ramiz Chelat","Company Name
+Vontobel Asset Management","4 yrs 11 mos","Bachelor of Commerce (B.Com.)",1993,1995
+143,161,"Daniele Bonomo","Company Name
+Vontobel Asset Management","2 yrs 7 mos","Master of Science - MS",2016,2018
+146,146,"Ivan Del Rio, CFA","Managing Director, Offshore Investments","Miami, Florida, United States",Bachelor,2004,2008
+147,147,"Keith Miller","Senior Fund Manager","London, United Kingdom","Master of Science (MSc)",1990,1992
+148,148,"Ben Nicholl, CFA","Company Name
+Royal London Asset Management","2 yrs 1 mo","Bachelor of Science (BSc) with honours",2004,2007
+149,149,"Bohong (Jerry) Zheng","Company Name
+China Asset Management Co., Ltd.","3 yrs","Master of Business Administration (MBA)",2013,2015
+150,150,"Oskars Briedis, CFA","Fund Manager","Riga, Latvia",Master,2001,2003
+151,13,"Adrian Bachman","Portfolio Manager, Director","Rockville, Maryland","Bachelor of Science (BS)",1991,1995
+152,14,"Matthew Moran","Managing Director","New York, New York",NULL,NULL,NULL
+153,18,"Niels Bodenheim","Head of Alternative Credit","The Hague Area, Netherlands",NULL,NULL,NULL
+154,19,"Juerg Zimmermann","Head Corporate Development","Zurich, Switzerland","1. Vordiplom (Associate Degree)",1991,1993
+155,20,"Christian Kuhn, CFA","Company Name
+Swiss Life Asset Managers","8 yrs 10 mos","Bachelor of Science in Business Administration Univ.",2002,2006
+156,16,"Bonnie Yu","Investment Director",Singapore,DEC,1996,1999
+157,8,"Daniel Murphy","Company Name
+SEB","5 yrs 4 mos",NULL,NULL,NULL
+158,12,"Larry Fink","Chairman and Chief Executive Officer","Greater New York City Area","Bachelor of Arts (B.A.)",1970,1974
+159,151,"Anand Gupta","Portfolio Manager",Singapore,CFA,2002,2006
+160,160,"Craig Bell","Director Global Asset Allocation",Singapore,Law,1994,1996
+161,152,"Steve Horner, CFA","Company Name
+Putnam Investments","19 yrs",BA,1987,1990
+162,153,"Arthur Bernheim","Portfolio Manager","RÃƒÂ©gion de Paris, France","Master's degree",2016,2018
+163,154,"Vivek Sapra","Senior Investment Advisor","Cologne Area, Germany",NULL,NULL,NULL
+164,155,"Lars Stolpmann","Portfolio Manager - Indirect Real Estate/Infrastructure Investments",Cologne,NULL,NULL,NULL
+165,156,"Peter Fehr","Senior Portfolio Manager","Frankfurt am Main, Hesse, Germany",Doctor,1994,2000
+166,157,"Richard Dehn","Investment Manager","Sydney, Australia","Bachelor of Applied Science (B.A.Sc.)",1988,1991
+167,158,"Sebastiaan Ranner","Company Name
+MN","8 yrs 4 mos",NULL,NULL,NULL
+168,159,"De Pauw Sabine","Fixed Income Asset Management Institutional Clients",Brussel,Master,1986,1990
+169,35,"Mikko Komi","Senior Portfolio Manager",Helsinki,"Master's degree",1997,2001
+170,36,"Darren Woods","Portfolio Manager","Dublin, Ireland","Graduate School",2003,2005
+171,1,"Colman Slain","Investment Analyst","Santa Monica, California","Bachelor of Science (BS)",2015,2019
+172,29,"Richard Shuster","Portfolio Manager",NULL,"Bachelor of Science (BS)",1979,1983
+173,10,"Ari Levine",Principal,NULL,BS,2002,2006
+174,165,"Joe Iwanski, CAPSÃ‚Â®, HCCPÃ‚Â®, COS, NCP-E","Sr. Asset Manager","Southeastern United States",NULL,NULL,NULL
+175,166,"Liza Shek, CFA",Trader,"London, United Kingdom",Master,2003,2004
+176,168,"Hua Tang","Portfolio Manager/Director","Shanghai City, China","B.A. in Economics",1994,1998
+177,169,"Liz Twiney MRICS","Vice President Asset Manager",London,NULL,NULL,NULL
+178,170,"Ronald Berry","Vice President - Relationship Manager, Charitable Asset Management","Greater Boston Area","High School",1997,2001
+179,171,"Michael Kane","Vice President - Investment Manager Real Estate","Western Region","Bachelor of Arts (BA)",1986,1990
+180,172,"Christopher Luongo, CFA","Institutional Portfolio Manager, Global Asset Allocation","Boston, Massachusetts",NULL,NULL,NULL
+181,173,"Courtney Sholler (She/Her)","Company Name
+Fidelity Investments",NULL,"Bachelor's degree",2011,2015
+182,174,"Christine Gill","Company Name
+BNY Mellon",NULL,NULL,NULL,NULL
+183,176,"Keith Collier, CFA","Company Name
+BNY Mellon",NULL,NULL,NULL,NULL
+183,175,"Keith Collier, CFA","Company Name
+BNY Mellon",NULL,NULL,NULL,NULL
+184,177,"Xavier Goss, CFA","Portfolio Manager","Los Angeles Metropolitan Area",BA,1999,2003
+185,178,"Michelle J. Black, CIMAÃ‚Â®, CPWAÃ‚Â®","Company Name
+Capital Group",NULL,NULL,NULL,NULL
+186,179,"Felise Agranoff, CFA","Company Name
+J.P. Morgan Asset Management",NULL,NULL,NULL,NULL
+187,180,"Joseph Knight","Company Name
+J.P. Morgan Asset Management",NULL,"Bachelor of Science",2007,2011
+188,181,"Brent Jenkins","Senior Vice President","New York",NULL,NULL,NULL
+189,182,"Lillian Qian Lin","Senior Vice President Portfolio Manager",NULL,MBA,2012,2014
+190,183,"Gustavo Lozano","Mexico Country Head, Central America & Caribbean Manager","Mexico City Area, Mexico",NULL,NULL,NULL
+191,184,"Eric ALCARAZ","Portfolio Manager Assistant - Hedged Equity","Ville de Paris, ÃƒÅ½le-de-France, France","Master Finance",2018,2021
+192,185,"Michael Baker","Chief Technology Officer","Newark, New Jersey, United States",NULL,NULL,NULL
+193,186,"Irma Simion MacFarlane","Director, Investment Research",NULL,NULL,NULL,NULL
+194,187,"Justin Onuekwusi","Fund Manager, Head of Retail Multi-Asset Funds","London, England",NULL,NULL,NULL
+195,188,"Olivier Bindo","Programme Manager","London, United Kingdom",NULL,NULL,NULL
+196,189,"Svetlana Kurilova","Portfolio manager",NULL,MBA,2000,2003
+197,190,"Kelly (Denk) Sivewright","Vice President",NULL,"Master of Business Administration (MBA)",2003,2006
+198,191,"Nicholas Petrucelli","Managing Director, Asset Allocation Portfolio Manager",NULL,"Master in Finance",2011,2013
+199,192,"Amy Trainor","Asset Allocation Strategist",NULL,"Bachelor of Arts (B.A.)",1990,1994
+200,193,"Pia Sojo, CIMAÃ‚Â®","Managing Regional Director","Miami, Florida, Estados Unidos",CIMA,2003,2004
+201,194,"Vladislav Grigorov, CFA","Portfolio Analyst","Greater Boston Area","Bachelor of Science",2007,2011
+202,195,"Chris Flick","Software Asset Manager","Baltimore, Maryland Area","Master of Business Administration (MBA)",2001,2003
+203,196,"Will Chao, CFA","Company Name
+T. Rowe Price",NULL,NULL,NULL,NULL
+204,197,"Mike Swink, CCIM, CPM","Asset Manager","Greater Atlanta Area",MBA,1988,1991
+205,198,"James Colon","Managing Director, Multi-Asset Portfolio Manager",NULL,NULL,NULL,NULL
+206,199,"Iuliia Boutin (Pastukhova), MBA","Associate Portfolio Manager","Chicago, Illinois, United States","Master of Business Administration - MBA",2014,2016
+207,200,"Hannah Genord","Company Name
+Northern Trust Asset Management",NULL,"Bachelor of Arts - BA",2013,2017
+208,201,"Spencer P.","Associate Asset Manager","Greater New York City Area",NULL,NULL,NULL
+209,202,"Noelle Corum, CFA","Company Name
+Invesco US",NULL,"Bachelor of Business Administration (B.B.A.)",2006,2010
+210,204,"Andrew Falk","Asset Manager","Alpharetta, Georgia, United States",NULL,NULL,NULL
+210,203,"Andrew Falk","Asset Manager","Alpharetta, Georgia, United States",NULL,NULL,NULL
+211,205,"Beatriz Ayuso Cortina","Company Name
+AXA Investment Managers",NULL,"Double Bachelor's Degree in Business Administration and Law (ICADE E-3)",2010,2015
+212,206,"Peter McNamara","Asset Manager",London,"Bachelor of Science (BSc)",2006,2009
+213,207,"Andy Martin","Vice President - Asset Manager / Portfolio Manager","San Francisco Bay Area",BA,1997,2001
+214,208,"Christopher Smith","Company Name
+Affiliated Managers Group",NULL,NULL,NULL,NULL
+215,209,"Simon Osborne","Company Name
+Affiliated Managers Group",NULL,Masters,2008,2010
+216,210,"Xiomara Colon","Project Manager","New Jersey",NULL,NULL,NULL
+217,211,"Juha Seppala","Director, Asset Allocation","New York, New York",NULL,NULL,NULL
+218,212,"Gauthier Mavinga LakÃƒÂ©","Company Name
+Insight Investment",NULL,M.Sc,2011,2013
+219,213,"Abhijit Korde","Portfolio Manager","London, United Kingdom","Master of Business Administration (MBA)",2011,2012
+220,214,"Katsu Sakai","Senior Director",NULL,B.A.,1984,1988
+221,215,"Albert Tew II","Senior Vice President, Americas Finance","1251 Avenue of the Americas, 22nd Floor, New York, NY 10020",NULL,NULL,NULL
+222,216,"Gary Sleator","Company Name
+Aberdeen Standard Investments",NULL,"IPF Diploma",2015,2016
+223,217,"Holly Mozley","Company Name
+Aberdeen Standard Investments",NULL,"Master of Science (MSc)",2016,2017
+224,218,"Dan Penrose","Director, National Sales Manager",NULL,MBA,1996,1998
+225,219,"Anh Nguyen","Vice President, Product Development Manager",London,BSc,2007,2010
+226,220,"Adam Gorlyn","Company Name
+Franklin Templeton Investments",NULL,MBA,2002,2005
+227,221,"Mohit Jain",Manager,"New Delhi","The CFA Institute Investment Foundation Program as Ã¢â‚¬Å“ClaritasÃ¢â‚¬Â",2019,2019
+228,222,"David Campbell, CFA","Company Name
+BNP Paribas Asset Management",NULL,"Bachelor of Business Administration (B.B.A.)",2008,2012
+229,223,"Zheyi Z.","Company Name
+BNP Paribas Asset Management",NULL,"Master of Science in Management(Grande Ecole)",2013,2016
+230,224,"Paulette H.","Software Asset Manager, AVP","United States",NULL,NULL,NULL
+231,225,"Safet Paljevic","Vice President - IT Asset Manager","Greater New York City Area","Associate's degree",2001,2003
+232,226,"Gavin Counsell","Multi-Asset Fund Manager","London, United Kingdom","Master of Mathematics (MMaths)",1996,2000
+233,227,"Claudio Marsala","Company Name
+Allianz Global Investors",NULL,Master,2000,2001
+234,228,"Stirling Simmons","Associate Director - Equity Asset Management","Atlanta, GA","BSBA Business",1998,2002
+235,229,"James Williams III","Equity Asset Manager","Los Angeles, California","Professional Certificate",2010,2010
+236,230,"Shawn Doty","Company Name
+Dimensional Fund Advisors",NULL,MBA,2006,2010
+237,231,"Jake Jolly, CFA","Company Name
+Dimensional Fund Advisors",NULL,"Master of Business Administration (M.B.A.)",2015,2017
+238,232,"Annie O'Hara","Company Name
+Schroders",NULL,"BachelorÃ¢â‚¬â„¢s Degree",2014,2017
+239,233,"Alexander Cooke AssocRICS","Asset Manager","Manchester, United Kingdom","Bsc (Hons) Real Estate Management",2018,2022
+240,234,"Andrew Conn","Communications Director, North America","New York, New York","Bachelor of Arts (BA)",1991,1995
+241,235,"Andy Provencher, CFA","Head of North American Distribution","New York, New York",BA,1984,1987
+242,236,"Sandy Miller","Senior Portfolio Manager - Focus Equities","New York, New York",MBA,2001,2003
+243,237,"J. Michael McCarthy","Company Name
+APG Asset Management",NULL,"Master of Business Administration (MBA)",2008,2010
+244,238,"Lorenzo Mainardis","Portfolio Officer",NULL,NULL,NULL,NULL
+245,239,"Massimo Spagnol","Company Name
+Generali Investments","1 yr 4 mos",NULL,NULL,NULL
+246,240,"Christopher Mason, CFA","AVP, Product Manager - Multi-Asset Class","Nashville, Tennessee",NULL,NULL,NULL
+247,241,"James Stewart","Company Name
+AllianceBernstein",NULL,"Master of Business Administration - MBA",2020,2022
+248,242,"Jon Swaney","Managing Director",NULL,NULL,NULL,NULL
+249,243,"Dale Hanley","Managing Director - Chief Risk Officer","New York, NY",NULL,NULL,NULL
+252,245,"Katy Howes","Asset Manager","London, United Kingdom","BSc Real Estate (Hons)",2011,2015
+253,244,"Alice Banks","Asset Manager","London, United Kingdom","MSc Real Estate",2013,2014
+254,246,"Brian Doherty","Senior Asset Controller",NULL,NULL,NULL,NULL
+255,248,"Jon Sage, CFA","Company Name
+MFS Investment Management",NULL,"MBA, MSF",2005,2008
+256,247,"Heather Dennis","Company Name
+Wells Fargo Bank",NULL,BS,1988,1992
+257,249,"Ethan Miller","Asset Manager",NULL,"Bachelor of Arts",2008,2012
+258,250,"Sergei Parmenov","Portfolio Manager, Global Asset Allocation",NULL,BA,1992,1995
+259,251,"James Woodhouse","Asset Manager","London, United Kingdom","Master of Science (MSc)",2010,2013
+260,252,"Julian Cobourne","Company Name
+Aviva Investors",NULL,NULL,NULL,NULL
+263,253,"Gautam Bhupal","Company Name
+HSBC Asset Management (India)",NULL,MBA,2002,2004
+264,254,"Becky Hiu","Company Name
+Principal Global Investors",NULL,"Master of Business Administration - MBA",2020,2023
+265,255,"Jenna de Souza","Company Name
+Principal Global Investors",NULL,NULL,NULL,NULL
+266,256,"Kurt Halvorson, CFA","Portfolio Manager",NULL,NULL,NULL,NULL
+267,257,"Bob Jordan","Senior Managing Director",NULL,MBA,1996,1998
+268,258,"Kira Luscher",Analyst,"New York, New York, United States","BachelorÃ¢â‚¬â„¢s Degree",2016,2020
+269,259,"Huai Jhih Chang","Deputy Manager","Taipei City, Taiwan","Master of Business Administration - MBA",2016,2017
+270,260,"Jian S.","Company Name
+Nomura Asset Management",NULL,"Master of Science (M.S.)",2007,2008
+271,261,"Barry Malicki","Vice President - Senior Real Estate Asset Manager","Boston, MA",Certificate,1999,2000
+272,262,"Michael Alexander","Sr. Real Estate Asset Manager, Vice President",NULL,"Bachelor of Science",1995,1999
+273,263,"Olivier Hakim, CIIA","Insurance Equity Portfolio Manager","Ville de Paris, ÃƒÅ½le-de-France, France",NULL,NULL,NULL
+274,264,"Maroua HATIM","Market Risk Manager","RÃƒÂ©gion de Paris, France","Master 222 : Asset Management",2013,2014
+275,265,"Anne Murphy, MBA","Manager - Asset Liability Management","Chicago, Illinois","Master of Business Administration - MBA",2019,2021
+276,266,"Omar Aguilar, Ph.D.","Chief Investment Officer of Passive Equities and Multi-Asset Strategies","San Francisco, California, United States",NULL,NULL,NULL
+277,267,"Ann Ferentino, CFA","Portfolio Manager/Senior Investment Analyst",NULL,"Master of Business Administration (MBA)",1997,2000
+278,268,"Dana Meissner","Portfolio Manager",NULL,MBA,1998,2000
+279,269,"Josh Taykowski","Company Name
+Credit Suisse Asset Management Limited",NULL,BA,2008,2012
+280,270,"Charles Pettinato","Company Name
+Credit Suisse Asset Management",NULL,BS,1990,1994
+281,271,"Maximilian Kaufmann","Senior Portfolio Manager",NULL,MA,1997,1998
+282,272,"Eric Matteson, CAIA","Company Name
+Geode Capital Management",NULL,MS,1998,2000
+283,273,"Dennis Neumann","Company Name
+Union Investment",NULL,"Master of Science (M.S.)",2016,2019
+284,274,"Laura Kastner","Graduate Program | Digitalization in Real Estate","Hamburg, Deutschland","Master of Science - MS",2018,2020
+285,275,"Hanbo Li","Asset Manager","Greater Chicago Area","Master's degree",2013,2015
+286,276,"Jason Shounick","Associate Asset Manager","Chicago, Illinois, United States","Bachelor of Business Administration - BBA",2014,2019
+287,277,"Nicoletta Saccone","Junior Portfolio Manager","Milano, Italia","Master of Science (MSc)",2012,2014
+288,278,"Andrea Villani","Company Name
+Eurizon",NULL,"Master's degree",2004,2005
+289,279,"Cristian DelSolar, CFA",Researcher,"San Francisco Bay Area","Master of Science (MS)",2010,2011
+290,280,"Jun Shen","Company Name
+Mellon Capital",NULL,NULL,NULL,NULL
+291,281,"Nicholas Harper MPhil Oxon","Portfolio Manager","London, Greater London, United Kingdom","Level 2",2012,2014
+292,282,"Peter Webster, CFA","Company Name
+Henderson Global Investors",NULL,"Upper Second Class Hons",2004,2007
+293,283,"Jasmine Wells","Company Name
+Macquarie Group",NULL,MBA,2008,2009
+294,284,"Wandy Hoh","Managing Director","New York, New York, United States",NULL,NULL,NULL
+295,285,"Marlie Tepait","Asset Manager",NULL,"Bachelor of Science (BS)",2011,2015
+296,286,"Christian Wood","Company Name
+Barings",NULL,"Bachelor of Science (B.S.)",2011,2015
+297,287,"John Cronin","Director, US Asset Management at SEI",NULL,MBA,1996,2000
+298,288,"John Csaszar, MBA, CFA","Company Name
+SEI",NULL,MBA,2007,2008
+299,289,"Alissa Howard, CAIA","Institutional Portfolio Manager","Boston, Massachusetts, United States",B.A.,2005,2009
+300,290,"Sean McCurley, CFA","Portfolio Manager","Toronto, Ontario, Canada",MBA,2006,2008
+301,291,"Marco NÃƒÂ¤der","Company Name
+Fidelity International",NULL,Diploma,1999,2003
+302,292,"George Efstathopoulos","Multi Asset Portfolio Manager",Singapore,MSc,2003,2004
+303,293,"Dirk Pannewig","Company Name
+DekaBank Deutsche Girozentrale",NULL,NULL,NULL,NULL
+304,294,"Dr. Dominik Wolff","Head of Quantitative Research/ Portfolio Manager Asset Allocation","Frankfurt am Main, Deutschland",PhD,2011,2015
+305,295,"Varinia Siefker","Company Name
+Dodge & Cox",NULL,NULL,NULL,NULL
+306,296,"Paul Cecconi, CIMAÃ‚Â®","Portfolio Manager","San Francisco Bay Area","Master of Business Administration (MBA)",2016,2018
+307,297,"Ali Hassani","Portfolio Manager",NULL,NULL,NULL,NULL
+308,298,"Heiko Bosler MRICS","Asset Manager Immobilien","MÃƒÂ¼nchen und Umgebung, Deutschland","Dipl.-Wirt.-Ing. (Univ.)",2006,2011
+309,299,"Marc Larson","Company Name
+Russell Investments",NULL,"Business, Econ",2000,2004
+310,300,"Brett Deits","Senior Portfolio Manager",Seattle,NULL,NULL,NULL
+311,301,"Robert Surgent","Managing Director","New York, New York","Master of Business Administration (MBA)",1991,1993
+312,302,"Lee Tawil","Managing Director",NULL,MBA,1988,1990
+313,303,"James Perry","IT Asset Manager","Greater St. Louis Area","Bachelor of Arts",2016,2020
+314,304,"Robert Fenton","Vice President/Investments","Traverse City, Michigan",NULL,NULL,NULL
+315,305,"Olutayo Osunkunle, CFA","Company Name
+Nordea Asset Management",NULL,MBA,2008,2010
+316,306,"Sunil George","Portfolio Manager and Senior Analyst",NULL,MBA,2007,2009
+317,307,"Talha Zafar, CFA","Investment Manager Private Equity",Netherlands,"Master of Business Administration - MBA",2018,2019
+318,308,"Tanvi Karambelkar","Investment Manager",NULL,"Master of Business Administration (M.B.A.)",2016,2017
+319,309,"J.P. Gurnee, CFA","Company Name
+BMO Global Asset Management U.S.",NULL,NULL,NULL,NULL
+320,310,"Tim Alt, CFA, CMT","Portfolio Manager","Miami, FL","Bachelor of Arts (B.A.)",2000,2006
+321,311,"Alexandre Goudard","Company Name
+La Banque Postale Asset Management",NULL,NULL,NULL,NULL
+322,312,"Nicolas MEUSBURGER","Company Name
+LA BANQUE POSTALE ASSET MANAGEMENT",NULL,"MASTER 222 - Gestion d'Actifs",2004,2005
+323,313,"Peter Yanulis","Company Name
+Loomis, Sayles & Company",NULL,"Master's Degree",2013,2015
+324,314,"Heather Young, CFA","Company Name
+Loomis, Sayles & Company",NULL,NULL,NULL,NULL
+325,315,"Adriaan van der Knaap","Portfolio Manager","New York City",NULL,NULL,NULL
+326,316,"Daniel Ho","Managing Director, Global Head of CRE Debt Asset Management","New York City Metropolitan Area",MBA,2000,2002
+327,317,"Nicoleta Dumitru","Company Name
+Baillie Gifford",NULL,NULL,NULL,NULL
+328,318,"Scott Lothian","Investment Manager",NULL,"BSc (Hons)",1995,1999
+329,319,"Ajamu Stoner, MBA","CRE Asset Manager","Charlotte, North Carolina, United States","Master of Business Administration (MBA)",2004,2006
+330,320,"Billy Lang","Portfolio Manager","New York",NULL,NULL,NULL
+331,321,"John Hwang","Portfolio Manager",NULL,NULL,NULL,NULL
+332,324,"Nick Gage, CFA","Senior Principal","Greater Minneapolis-St. Paul Area",BS,1995,1999
+333,322,"Sam Caven","Managing Director","San Francisco Bay Area",NULL,NULL,NULL
+334,323,"Richard Sidoti","Senior Manager of Portfolio Analytics",NULL,MBA,2010,2012
+336,330,"Alexander French","Investment Manager","London, United Kingdom","Master of Philosophy (MPhil)",2015,2016
+336,329,"Alexander French","Investment Manager","London, United Kingdom","Master of Philosophy (MPhil)",2015,2016
+337,327,"Charles Haddad","Portfolio Manager","Paris Area, France","Master of Science (MSc)",2002,2005
+338,328,"Smail ZERROUKI","Company Name
+OFI Asset Management",NULL,"MSc in Portfolio Management",2016,2017
+339,326,"Alessandro Benatti","Settlements Administrator","County Dublin, Ireland","Attended Bachelor's",1994,1997
+340,325,"Leonie Mac Cann, CFA","Senior Portfolio Manager","Dublin, Ireland","MSc Finance",2008,2009
+341,331,"Christoph Wunn",Director,NULL,"Master of Science (M.Sc.)",2011,2012
+342,332,"Charles Kurose","Investment Banking Vice President",NULL,"Master of Business Administration (M.B.A.)",2015,2017
+343,339,"Chris Mahoney","Fund Manager","London, England, United Kingdom","Bachelorâ€™s Degree",2008,2011
+344,340,"David Lewis","Fund Manager",NULL,"Natural Sciences",2002,2005
+345,333,"Mikko Ripatti","Head of Iberia and Senior Client Portfolio Manager",Luxembourg,"Master of Science (MS), Economics & Business Administration",1998,2000
+346,334,"Marta Oudot","Regional Manager","RÃ©gion de Paris, France",Master,2000,2004
+348,335,"Tomas Gylfe","Company Name
+Handelsbanken Asset Management","7 yrs 11 mos",NULL,NULL,NULL
+349,336,"Karl Stavenberg","Portfolio Manager",NULL,NULL,NULL,NULL
+350,338,"Xin Xu","Portfolio Manager","London, United Kingdom","Master of Science (MSc)",2005,2006
+351,337,"Emir Kapanci, CFA","Portfolio Manager",NULL,"Master of Science (MSc)",2005,2006
+352,341,"Juzheng Chen","Manager, Investment and Business Development",NULL,"Masterâ€™s Degree",2016,2019
+353,342,"Kalyn Lim","Manager, Asset Management",NULL,"Bachelor of Science (BSc)",2004,2008
+354,344,"Sebastiaan Masselink","Senior Investment Manager, Sustainable Energy Transition Fund","Utrecht Area, Netherlands",NULL,NULL,NULL
+355,343,"Alexander Lubeck","Senior Investment Manager Energy Transition",NULL,NULL,NULL,NULL
+356,346,"Dmitri Tikhonov","Head of Portfolio Management","12 yrs 1 mo",NULL,NULL,NULL
+357,345,"Philip Clements, CFA, CAIA","Associate Director, Client Team (North America)","New York, United States","Masters of Physics",2008,2012
+358,348,"Yigal D. Jhirad","Senior Vice President",NULL,NULL,NULL,NULL
+359,347,"Robert Becker","Senior Vice President, Portfolio Manager","Greater New York City Area",NULL,NULL,NULL
+360,350,"Matt Russ, CFA","Managing Director",NULL,BA,1993,1997
+361,349,"Adam Conrad","Managing Director - Maritime Finance","Greater New York City Area",NULL,NULL,NULL
+362,364,"Jennifer Boss","Company Name
+Heitman",NULL,MBA,2006,2008
+363,363,"Shruti Waghray","Company Name
+Heitman",NULL,Bachelors,2001,2004
+365,362,"Daniel Andemeskel","Director - Head of Innovation Management",NULL,"Diplom-Kaufmann - University Masterâ€™s Degree in Business Administration and Economics",1995,2001
+366,361,"Arun Daniel","Senior Portfolio Manager","Greater Boston",NULL,NULL,NULL
+367,360,"Steve Kennedy","Vice President, Healthcare Portfolio Management","Dallas/Fort Worth Area",NULL,NULL,NULL
+368,359,"Dana Duprey","Associate, Global Operations Manager","Greater New York City Area",NULL,NULL,NULL
+369,358,"Ken Frier","Member Programming Advisory Council",NULL,NULL,NULL,NULL
+370,357,"Scott Freemon","Partner, Head of Strategy and Risk","New York, NY",MBA,2003,2005
+371,356,"Tony Birdsey","Senior Director",NULL,NULL,NULL,NULL
+372,355,"EB Kelly","Managing Director",NULL,J.D.,2007,2010
+373,354,"Federico Berruto, Ph.D., CFA","Investment Risk Manager",Boston,NULL,NULL,NULL
+374,353,"Olav Konig","Managing Director, Head of Sales and Client Service EMEA","London, United Kingdom","Master of Laws (LLM)",1994,1995
+375,352,"William W. Priest, CFA","Executive Chairman, Co-Chief Investment Officer and Portfolio Manager",NULL,NULL,NULL,NULL
+376,351,"Juerg Fritschi","Managing Director | Head of Asia, Business Development & Client Servicing",Singapore,BSc,1993,1996
+377,365,"Brian Conry","Company Name
+PineBridge Investments",NULL,MBA,2008,2010
+379,367,"Arnaud Besse","Senior Portfolio Manager - Private Banking","Paris Area, France",NULL,NULL,NULL
+380,366,"Michael Zhang",Director,"San Francisco Bay Area","Ph.D., MEng, BSc",1994,2005
+382,368,"Deniz Akdogan","Sales Institutional Clients",Deutschland,"Master of Business Administration - MBA",2019,2021
+384,370,"Adam Bray","Senior Leasing Manager","Houston, Texas Area",NULL,NULL,NULL
+385,369,"Jean-Marc Schneebeli","Director - Senior Client Relationship Manager Independent Asset Managers","GenÃ¨ve, Suisse",MaturitÃ©,1991,1994
+386,371,"Adam Crickmore","Director, UK Commercial Fund Management",London,NULL,NULL,NULL
+387,372,"Christina Han-van der Meer","Private Equity, Senior Vice President","Zurich, Switzerland",NULL,NULL,NULL
+388,373,"Celia Rodgers, CFA","Associate Portfolio Manager",NULL,"Bachelor of Arts (B.A.)",2008,2012
+389,374,"Tariq Ahmad","Director & CEO, Asia",NULL,MSc,2002,2003
+390,375,"Karolina Bednarova","Relationship Manager Private Banking","Frankfurt am Main und Umgebung, Deutschland","Financial Planner",2020,2021
+391,376,"Madeleine Sander","Company Name
+Hauck & AufhÃ¤user",NULL,Diplom,2002,2007
+392,377,"Mark Hammond","Head of Institutional Pooled Funds",NULL,MA,1979,1982
+393,378,"KERRY WEST","Dividends administrator ( Aladdin project)","London, England, United Kingdom",NULL,NULL,NULL
+394,379,"Jeantine van der Feest","Senior Product Manager","Amsterdam, North Holland, Netherlands",MSc,1996,2003
+395,380,"Gerard Roelofs","Executive committee Kempen, Global head of Client and Investment Solutions",Amsterdam,"MBA / Lausanne Switzerland - degree",1995,1996
+396,381,"Pierre HACHET","Data Manager","DÃ¼sseldorf, North Rhine-Westphalia, Germany","Master in Market Finance",2011,2013
+397,382,"Russ Trpkovski","Operating Partner","Chicago, Illinois, United States",NULL,NULL,NULL
+398,383,"Tomas Ekman",Partner,Stockholm,MBA,2000,2000
+399,384,"Richard Barry","Head of Executive Initiatives","Edinburgh City, Scotland, United Kingdom","PG Dip",1992,1993
+400,385,"Craig McFarlane","Company Name
+Walter Scott & Partners Ltd",NULL,"BA (hons)",2010,2014
+401,386,"Steve Roche","General Manager","New York, United States",NULL,NULL,NULL
+403,387,"Antonio Tricarico","Senior Relationship Manager AttachÃ© de Direction",Luxembourg,NULL,NULL,NULL
+404,388,"Michel Boelen","Senior Portfolio Manager","15 yrs 7 mos",NULL,NULL,NULL
+405,389,"Sven P. Hasenberg","Vice President | M&A and VC","Hamburg und Umgebung, Deutschland","Master of Science (M.Sc.)",2015,2016
+406,390,"Matthias Thiel","Portfolio Manager, Vice President (Multi Asset and Liquid Alternatives)","Hamburg Area, Germany",NULL,NULL,NULL
+407,394,"Lauren Connor","Associate Client Service and Business Development Officer",NULL,"BSBA - Concentration in Finance & Marketing",2000,2005
+408,391,"Tom Armitage, CFA","Research Analyst",NULL,"Bachelor of Science (BSc Hons)",2011,2015
+409,393,"Barbara Brida","Executive Director","ZÃ¼rich Area, Switzerland","Executive Master in Management of International Organizations",2016,2017
+410,392,"Pierre-Yves Moix","Chief Investment Officer, systematic strategies","PfÃ¤ffikon SZ, Switzerland",PhD,1996,2000
+412,396,"Camille Lancesseur","ESG Investment","London, United Kingdom","Msc Environmental Policy and Regulation",2015,2016
+413,395,"Gaetano TROIANO","Company Name
+BlueBay Asset Management",NULL,"Senior Manager Regulatory Reporting",NULL,NULL
+414,398,"Pamela Jackson","Company Name
+Aegon Asset Management",NULL,"Master of Science (MSc)",2013,2015
+415,397,"Edouard Giraud","Senior Sales Manager","Frankfurt Am Main Area, Germany","Master (M.Sc.) in Finance",2006,2010
+416,400,"Jorge Paredes, CFA, MAI","Vice President","Chicago, IL","Bachelor of Science",2005,2009
+417,401,"Manish Singhai","Chief Investment Officer",Singapore,"Master of Business Administration (MBA)",1991,1993
+418,402,"Romain Dessarzin","Assistant de gÃ©rance",NULL,NULL,NULL,NULL
+419,403,"Michael Boylan","Co-Manager & Principal",NULL,NULL,NULL,NULL
+420,404,"Zakaria Darouich, CFA, CQF","Senior Portfolio Manager - Absolute Return / Fixed Income Markets (Rates/Credit/FX)","Paris Area, France","Certificate in Quantitative Finance (CQF)",2014,2015
+422,405,"Debangan Misra","Head Of Technology ,Engineering Manager","Dublin, Leinster, Ireland",NULL,NULL,NULL
+423,406,"Deirdre O'Reilly FCA","Independent Non-Executive Director","London, England, United Kingdom","Certified Investment Fund Director",2019,2020
+424,407,"Xiao Chen","Equity Investments - Stock Selector Group","Greater Boston Area","Master of Science (MS)",2014,2015
+426,528,"Eric Rustad","Investment Analyst",NULL,"Bachelor of Business Administration (B.B.A.)",2012,2016
+427,529,"Jonathan Wilson","Managing Director",NULL,"BS with Special Attainments in Commerce",1997,2001
+429,454,"Jeremy Katz","Company Name
+HQ Capital",NULL,BS,2000,2004
+430,530,"Jeffrey Beachell",Partner,"suburban Philadelphia",NULL,NULL,NULL
+432,531,"Jeppe Christiansen",CEO,NULL,"Master's degree",1980,1985
+434,532,"Kurt Kara","Head of Global Value Equities",NULL,"Master of science",1991,1997
+435,502,"Julie Gorte","Senior Vice President for Sustainable Investing",NULL,"Bachelor of Science",1972,1976
+436,533,"Benjamin Wilson","Managing Director",NULL,BS,1997,2001
+437,534,"Kyle Jonas","Company Name
+HQ Capital Private Equity","Wilton CT",NULL,NULL,NULL
+438,535,"Rajnish S. Rao, CPA","Vice President, Private Equity Finance","New York, NY",NULL,NULL,NULL
+439,536,"Wilco Visser","Senior Analist CDD a.i.",NULL,HAVO,1990,1995
+442,537,"Kent Siefers","Company Name
+Impax Asset Management LLC | Pax World Funds","Greater Pittsburgh Area",NULL,NULL,NULL
+443,567,"Chris B.","Director of Investor Relations & Fundraising | Private Equity, Sustainable Investing","Greater New York City Area",NULL,NULL,NULL
+444,538,"Barbara Browning","Portfolio Manager, US Large Cap, Global Woman's Select Strategy, Global Women's Leadership Fund",NULL,B.A,1985,1990
+445,539,"Jonathan Yan",Investor,NULL,NULL,NULL,NULL
+446,467,"Stefan Jaecklin","Startup Entrepreneur and Founder, as well as Advisor to Financial Services Companies","ZÃƒÂ¼rich Area, Switzerland","M.Soc.Sci (Economics)",1991,1993
+447,540,"Noah Bonomi Antunes","Vice President","Tokyo, Japan","Bachelor's Degree",2006,2011
+448,469,"Karen Massicot","Company Name
+Mirova",NULL,Licence,1999,2000
+449,543,"Guillaume Sarrauste","Cross assets trader",NULL,NULL,NULL,NULL
+451,544,"Timothy Heffer","Managing Director, UK",NULL,"Master of Arts (MA)",1988,2002
+452,497,"Dave Chan","Portfolio Manager/VP",NULL,NULL,NULL,NULL
+453,545,"Janine Andresen","Wealth Management",NULL,NULL,NULL,NULL
+454,473,"Alex Baixas","Company Name
+Renta 4","Madrid Area, Spain",Licenciado,1990,1996
+455,546,"William Holmberg, CAIA","Executive Director","Greater New York City Area","MBA- exchange program",2004,2004
+456,474,"Arturo Frei","Gerente general","Edificio YMCA, CompaÃƒÂ±ia 1390","Ingeniero Comercial,Magister en EconomÃƒÂ­a y PolÃƒÂ­ticas PÃƒÂºblicas",2002,2008
+457,503,"Andrea Prencipe",CEO,Luxembourg,"Master's degree",1991,1997
+458,548,"Jonathan Tubiana","Company Name
+Abbott Capital Management, LLC",NULL,Master,2004,2007
+459,504,"Maria Zyulyaeva","Environmental Analyst (Sustainable technology) l Consultant","Moscow, Russia",NULL,NULL,NULL
+460,549,"Jennie Benza","Principal & IC Member - Private Equity Primaries, Secondaries, Co-Investments",NULL,B.S.,2001,2004
+461,550,"Weston Tompkins, CFA","Company Name
+Securis Investment Partners LLP",NULL,BSBA,1989,1993
+462,551,"Jen Reinglass","Head of Business Development, North America","Greater New York City Area",NULL,NULL,NULL
+464,552,"Ariel Roeton","Project Coordinator",Carindale,"Bachelor of Commerce and Bachelor of Property & Real Estate",2017,2022
+465,565,"Jonathan Yaron","Chairman of the Board (Active), CEO since January 2019",NULL,NULL,NULL,NULL
+467,566,"Laurent Vidal","Head of Business Development",NULL,"MBA - Actuariat / Portfolio Management",1994,1995
+470,553,"Jennifer Juste Owens","Deputy Chief Compliance Officer and Deputy General Counsel","Englewood, New Jersey",B.S.,1998,2002
+472,554,"Rakel Wedholm","Executive Assistant to the CEO",NULL,"Naturvetenskaplig linje",1991,1993
+475,555,"Jenny Gooch, CPA","Chief Financial Officer","Greater Boston Area","Bachelor of Arts (BA)",1988,1992
+477,556,"Lindsey (Thomson) DiMartino","Company Name
+AlphaSimplex Group","Boston, MA",NULL,NULL,NULL
+478,557,"LoÃƒÂ¯c Olivier Fabre","ModÃƒÂ©lisation et gestion du risque",Orsay,"Master 1, Applied Mathematics in Finance and Economics",2017,2018
+480,558,"Shaun Condon","Head of Environment and Safety","Sydney, Australia",Bachelors,1996,2000
+482,559,"Zac Azzi","Chief Operating Officer and Company Secretary",NULL,BCom,1992,1996
+483,560,"Robert Brown","Investment Specialist","Sydney, Australia","Bachelor's Degree",1997,2001
+484,561,"Katie Mittel","Company Name
+River Road Asset Management",NULL,"Conflict Management",2014,2018
+486,562,"Martin Hahn","Chief Executive Officer","3 yrs 1 mo",B.S,1978,1980
+488,564,"Jordan Milman","Global Head of Structured Products","New York",NULL,NULL,NULL
+489,536,"Wilco Visser","Senior Analist CDD a.i.",Elst,HAVO,1990,1995
+490,541,"Barin Yucemen","Company Name
+VTB Capital","Istanbul, Turkey",NULL,NULL,NULL
+492,542,"Sarah Harmon","Member Board of Directors",NULL,NULL,NULL,NULL
+493,562,"Martin Hahn","Chief Executive Officer","1 yr",B.S,1978,1980
+494,521,"John Breckenridge","Senior Managing Director and Global Head","Tokyo, Japan","High School",1976,1980
+495,520,"James Dowey","Fund Manager","Aberdeen, United Kingdom","Master of Arts - MA",2000,2004
+496,519,"ROBIN GEFFEN","Head of Global Equities and Fund Manager",NULL,"Master's degree",1976,1979
+497,518,"Thorsten Schrieber","Company Name
+DJE Kapital AG",Pullach,Bankbetriebswirt,1994,1996
+498,517,"John Iborg","Multi-Asset Portfolio Manager","Greater New York City Area","Bachelor's degree",2007,2010
+499,516,"Michael J. LaBella, CFA","SVP, Co-Head of Systematic Strategies","New York",BS,2001,2005
+500,515,"Francis O.","Portfolio Manager","Dallas, TX",NULL,NULL,NULL
+501,514,"Jean Abillama, CFA","Global Sovereigns & Middle East Head","London, United Kingdom",MSc,2004,2005
+502,513,"Janna Haahtela","Portfolio Manager",NULL,"M.sc Econ.",1996,2001
+503,512,"Daniel Kay","Senior Advisor","London, United Kingdom","High School",1982,1987
+504,511,"Nathan Kornfeld",Partner,NULL,BA,1971,1975
+505,510,"Ilya Lee-Paveliev","Portfolio Manager","Dublin, Ireland",NULL,NULL,NULL
+506,509,"Adrian Lee","President and CIO",Pennsylvania,Ma,1973,1977
+507,508,"Aaron Hara","Managing Director, Chief Investment Officer, Alternative Investments, Public Securities Group","Greater New York City Area",NULL,NULL,NULL
+508,507,"Mark Crocombe","Information Technology Infrastructure Engineer",NULL,A-Level,1996,1998
+509,481,"Jeff Reder","Company Name
+CenterSquare Investment Management","New York, NY",NULL,NULL,NULL
+510,480,"Scott Crowe","Managing Director, Chief Investment Strategist, Portfolio Manager & Executive Board Member",Sydney,"Finance Honors",1999,2000
+511,479,"Jeffrey Turkel","Senior Vice President","New York, New York","Bachelor of Science, Economics in Finance",2001,2005
+512,499,"Todd Briddell","Chief Executive and Chief Investment Officer",Philadelphia,NULL,NULL,NULL
+513,478,"Shameer Karim, CFA","Senior Vice President",NULL,"Bachelor of Business Administration (BBA)",2003,2005
+514,477,"Francis Verpoucke","Managing Director",NULL,Master,1991,1996
+515,476,"Marie Vallaeys","Analyste, spÃƒÂ©cialiste ESG","Paris, France",NULL,NULL,NULL
+516,475,"Sabrina Ritossa Fernandez","Analyst, ESG Specialist","Lisbon, Portugal","Research student for Theses",2012,2013
+517,474,"Arturo Frei","Gerente general","Presidente Riesco 5561, of. 1804 Las Condes, Santiago - Chile Fono: (56 2) 24","Ingeniero Comercial,Magister en EconomÃƒÂ­a y PolÃƒÂ­ticas PÃƒÂºblicas",2002,2008
+518,473,"Alex Baixas","Company Name
+Renta 4","Madrid Area, Spain",Licenciado,1990,1996
+519,498,"Hemal Vyas","Company Name
+Foyston, Gordon & Payne Inc.","Windsor, Ontario",HONOURS,2007,2011
+520,496,"Laetitia Marcucci-Demeure",Principal,Paris,NULL,NULL,NULL
+521,472,"Jemma Launhardt-Gibb","Operational Risk Manager","Edinburgh, United Kingdom","BA (Hons)",2003,2007
+522,471,"Tom Dickson","Partner, Client Service and Sales","11 yrs 6 mos","Bachelor Science",1987,1992
+523,506,"Charlotte Boudouresque","M&A Transaction Services","RÃƒÂ©gion de Lille, France",NULL,NULL,NULL
+523,470,"Charlotte Boudouresque","Investment Analyst","RÃƒÂ©gion de Lille, France",NULL,NULL,NULL
+524,468,"Nathalie Wallace","Head of Strategy and Development",Boston,NULL,NULL,NULL
+525,466,"Nicho Jenkins","Managing Director",NULL,NULL,NULL,NULL
+526,465,"Mikhail Adedeji","Real Estate Private Equity",NULL,NULL,NULL,NULL
+527,464,"Charlotte Cottier Perez",Analyst,"RÃƒÂ©gion de Wiesbaden, Allemagne","Business Strategy Specialization",2015,2016
+528,463,"Monica O'Neill","Founder and CEO","Washington, D.C.",NULL,NULL,NULL
+529,462,"Ric Lewis","Company Name
+Tristan Capital Partners",NULL,NULL,NULL,NULL
+530,461,"Danny Chung",Associate,"Wonju, Gangwon-do, Korea","High School Diploma, Cum Laude",2008,2012
+531,460,"Adam Schlegel","Private Equity Associate","Beijing, China",Non-degree,2010,2010
+532,459,"Wilibrordus Armand Amadeus","Summer Senior Associate","New York City, NY",NULL,NULL,NULL
+533,458,"Brian Fruh","Chief Information Officer","Methuen, MA",NULL,NULL,NULL
+534,457,"Alexis Huseby","Equity Analyst","Seattle, WA","Bachelor of Arts (B.A.)",2012,2016
+535,456,"Joe Keefe",President,NULL,BA,1971,1976
+536,495,"David Ryan CFA, CAIA, FRM","Company Name
+Setanta Asset Management Ltd",Dublin,NULL,NULL,NULL
+537,455,"Clint Trenkelbach","Company Name
+HQ Capital","Singapore, Singapore",N/A,2012,2012
+538,453,"Anvi Somaiya","Senior Investment Analyst - Private Equity","Mumbai Area, India","High School Diploma",1998,2010
+539,452,"Carsten Dilling","Senior Advisor",Copenhagen,"HA & HD",1980,1986
+540,451,"Ray G. Li","Junior Private Equity Analyst","Boston, Massachusetts",NULL,NULL,NULL
+541,450,"Imad Hammad","Quantitative Researcher",Paris,Engineering,2007,2011
+542,449,"Camilla Levin","Human Resources",NULL,Merkonom,1990,1990
+543,448,"Per Stoltze Kristensen",Director,NULL,"B.Sc. Econ. & BA",2001,2003
+544,446,"Nathan Steele","Trading Operations Associate","Cranberry Township","Bachelor's degree",2010,2014
+545,445,"Kelley Wise Pinson","Senior Digital Program Project Agile Leader",NULL,NULL,NULL,NULL
+546,444,"Norman Lane","Trading Assistant",NULL,NULL,NULL,NULL
+548,443,"Matt Sheldon","Senior Portfolio Manager",NULL,BS,1993,1997
+549,442,"Noel. O'Halloran","Company Name
+KBI Global Investors",NULL,AIIMR,1989,1991
+550,441,"Sean Hawkshaw",CEO,NULL,BBS,1982,1986
+551,440,"Simon Padley","Senior Vice President Business Development & Client Services",NULL,NULL,NULL,NULL
+552,439,"Yie-Hsin Hung","Company Name
+New York Life Investments","Greater New York City Area",NULL,NULL,NULL
+553,438,"Salvatore Bruno","Managing Director",NULL,BS,1984,1988
+554,437,"Karen Niessink","Managing Director, Head of International Business Planning & Development",NULL,MBA,2004,2008
+555,435,"Drew Guff","Managing Director",NULL,NULL,NULL,NULL
+556,434,"Grace Paulsen","Vice President, Energy",NULL,"International Business Exchange Program",2011,2011
+557,433,"Mats Wandrell","CEO/Senior Portfolio Manager at","Stockholm, Sverige","Pratical journalism",1995,1996
+558,432,"Stefan Schauer","Senior Portfolio Manager Global Convertible Bonds","7 yrs","Diplom-Kaufmann (MBA equivalent)",2001,2006
+559,431,"Juliana Ascenso","Human Resources Assistant","Lisboa e RegiÃƒÂ£o, Portugal","Bachelor's degree",2015,2018
+560,494,"Aurora Guglielmana","Office Manager - PA to CEO",NULL,NULL,NULL,NULL
+561,493,"Andrew Merrill","Company Name
+Hayfin Capital Management LLP",NULL,NULL,NULL,NULL
+562,492,"Adam Moriwaki","Managing Director | Portfolio Manager","Greater New York City Area",B.A,2000,2004
+563,491,"Stephan Montes",Associate,"Columbia University - Beta Chapter","BA in Financial Economics",2014,2018
+565,490,"John M. Malloy Jr.","Portfolio Manager",NULL,"Bachelor of Business Administration (B.B.A.)",1986,1990
+566,489,"James Tollemache","Company Name
+RWC Partners","Mayfair, London",NULL,NULL,NULL
+567,488,"Jacqueline Hurley, CFA","Portfolio Manager","Greater New York City Area",NULL,NULL,NULL
+568,487,"Bill Ballou","Chief Operating Officer",NULL,NULL,NULL,NULL
+569,486,"Mark Martin","Fund Manager","London, United Kingdom",NULL,NULL,NULL
+570,485,"Kevin Dickson",Analyst,NYC,NULL,NULL,NULL
+571,484,"Sir Michael Hintze, AM","Group Executive Chairman and Senior Investment Officer of CQS",NULL,NULL,NULL,NULL
+572,483,"Sagar Sharma",Analyst,"Greater New York City Area","Bachelor's Degree",2014,2018
+573,482,"Paul Kim","Credit Analyst",NULL,BS,1996,2000
+574,430,"Mark Curtis","Head of Sales & Marketing","Greater New York City Area","BA Hons Economics",1994,1997
+575,429,"Nick Knight-Evans","Chief Operating Officer",NULL,"Bachelor of Laws",1988,1991
+576,505,"Rachel Trees","Super Substitute","Indianapolis, Indiana Area","Bachelor of Arts (BA)",2009,2013
+576,436,"Rachel Trees","Company Name
+Gateway Investment Advisers","Indianapolis, Indiana Area","Bachelor of Arts (BA)",2009,2013
+577,563,"Jacob Chr. Nielsen",CEO,"Padborg, Region Syddanmark, Danmark",MBA,2002,2005
+578,522,"Sahan Abayarathna",Director,"Greater New York City Area",BBA,2007,2011
+580,523,"Timothy Cournoyer","Managing Director and Assistant General Counsel","Dallas/Fort Worth Area",NULL,NULL,NULL
+581,447,"Mark Petrick","Assistant Portfolio Manager","Burlington, Vermont Area",NULL,NULL,NULL
+582,500,"Kevin Kwon","Research Analyst","Georgia Tech, Atlanta, GA",NULL,NULL,NULL
+583,524,"Alexander Wolfman","Partner, Global Head of Business Development","Greater New York City Area","Bachelor of Arts - BA",1989,1993
+584,525,"Sami Cheikha, CFA","Company Name
+Kairos Partners SGR","Paris, France","Bachelor of Business Administration (BBA)",2012,2016
+585,526,"Riccardo Valeri","Senior Portfolio Manager",Lugano,"Bachelor's degree",2009,2012
+586,527,"Jan-Erik Eriksson","Company Name
+Evli Bank Plc","1 yr 6 mos",MSc,2000,2008
+588,568,"Giuseppe Brandaleone","Direzione Commerciale - Pianificazione Commerciale e Sviluppo Rete","Milano, Lombardia, Italia",107/110,2002,2007
+589,569,"Jay Jhaveri","Credit Manager","Mumbai, Maharashtra, India","Chartered Accountant",2008,2012
+590,570,"Matthew Beesley","Chief Investment Officer","London, England, United Kingdom","BA (Hons)",1994,1997
+591,571,"Angelo Di Palma","Principal, Portfolio Manager","1 York Street, Suite 1100","Bachelor of Applied Science (B.A.Sc.)",1992,1994
+592,572,"Bryan Scott, CFA","Company Name
+GW&K Investment Management","Naperville, IL","Bachelor of Science (BS)",1999,2003
+593,573,"Scott Waterstredt, CFA","Managing Director/SVP","Whippany, NJ",MBA,2007,2009
+594,574,"Brian Lieberman","Company Name
+Muzinich & Co","New York, NY","Master of Business Administration (MBA)",2007,2009
+595,575,"Dr. Philipp Weber","Equity Portfolio Manager","Frankfurt am Main",NULL,NULL,NULL
+596,576,"Chris Barris","Head of Global High Yield & Deputy CIO",Boston,"Master of Business Administration (MBA)",1998,2000
+597,577,"Lidia Fido","CFO, Member of the Management Board","Warsaw, Masovian District, Poland","Risk Management in Financial Institutions - Post Graduate Study",2009,2009
+598,713,"Barone Daniele","Senior Portfolio Manager","ZÃƒÂ¼rich Area, Switzerland","Swiss Federal Certified Wealth Manager",2004,2004
+598,578,"Barone Daniele","Senior Portfolio Manager","ZÃƒÂ¼rich Area, Switzerland","Swiss Federal Certified Wealth Manager",2004,2004
+599,579,"Andrew Collier","Middle Office Officer","Dublin, Leinster, Ireland","Bachelor of Business Studies(Hons) : Management & Administration",2007,2009
+600,580,"Hunter Schwarz","Portfolio Manager/Analyst","New York, NY",NULL,NULL,NULL
+601,581,"Scott Howard","Associate - Asset Management","Greater Boston Area","BachelorÃ¢â‚¬â„¢s Degree",2013,2017
+602,582,"Adam T. Goodman","Managing Director","Greater New York City Area",MBA,2000,2002
+603,583,"T. Scott White","Principal, Investor Relations","Greater Chicago Area",NULL,NULL,NULL
+604,584,"Julia Vartik, CIPM","Reporting Analyst","Groningen, Netherlands",Bachelor,2012,2014
+605,585,"karen k","Senior Manager","Ã¤Â¸Â­Ã¥â€ºÂ½ Ã¤Â¸Å Ã¦ÂµÂ·","Bachelor's Degree",2004,2008
+607,586,"Daihao Peng","Equity & ESG Analyst","Paris, ÃƒÅ½le-de-France, France","Master in Management - Grande Ecole",2018,2021
+608,587,"Chris Duindam","Portfolio Manager","Amsterdam Area, Netherlands",NULL,NULL,NULL
+609,588,"Vincent Ficca","Head of Equity Trading",NULL,NULL,NULL,NULL
+610,589,"Laina Draeger, CFA","Company Name
+Los Angeles Capital Management and Equity Research, Inc.",NULL,MBA,2005,2007
+611,590,"Jeff Young","Company Name
+Beutel, Goodman & Company Ltd.",NULL,NULL,NULL,NULL
+612,591,"Joseph Stein","Director of Quantitative Research","Greater Boston Area",NULL,NULL,NULL
+613,592,"Mark Giles","Portfolio Specialist / Regional Director",NULL,"Master's degree",1991,1993
+614,593,"Ivan Aleksandrov","Managing Partner","Warsaw, Mazowieckie, Poland",NULL,NULL,NULL
+615,594,"Michael Bergin","Vice President","New York City","Bachelor of Science (BS)",2009,2013
+616,595,"Joseph Forrester","Investment Management","London, United Kingdom",MRes,2008,2009
+617,596,"Karla Sandino","Company Name
+Banco Sabadell",NULL,"Bachelor's degree",2004,2008
+618,597,"Aris Economou",Associate,"New York, United States","Bachelor of Business Administration (BBA)",2012,2016
+619,598,"Ian Swanson","Director, Investments","Pasadena, CA","Doctor of Philosophy (PhD)",2000,2005
+620,599,"Thomas Handte",Portfoliomanager,"Frankfurt am Main und Umgebung, Deutschland","Diplom Betriebswirt",1998,2002
+621,600,"Jacques Kappe","Senior Portfolio Manager Fixed Income and Socially Responsible Investments",NULL,"post graduate",1995,1998
+622,601,"Michael Kirkpatrick","Managing Director and Senior Portfolio Manager",NULL,NULL,NULL,NULL
+623,602,"Jeff Peate, CAIA","Managing Director, Business Development North America","Greater New York City Area",NULL,NULL,NULL
+624,603,"Kresten Johnsen","Company Name
+BankInvest",NULL,Cand.Merc.fir,2008,2010
+625,604,"Polly Andersen, MBA","Senior Manager Financial Planning Analysis",NULL,EMBA,2009,2011
+626,605,"Hanna Morikami, CFA","Investment Professional","Greater New York City Area",B.A.,2009,2013
+627,606,"Ruamkhun Rob Dusdeesurapot","Investment Analyst","London, United Kingdom","BachelorÃ¢â‚¬â„¢s Degree",2011,2015
+628,607,"Aidan DatenÃƒÂ©","Private Equity Analyst","New York, United States","Bachelor of Business Administration (B.B.A.)",2015,2019
+629,608,"Prashant Inamdar","Company Name
+Westwood Holdings Group, Inc.",NULL,MBA,1998,2000
+630,609,"Derek Olsen, CFA","Investment Management, Technology, and Operations","Naperville, Illinois","Bachelor of Arts (B.A.)",1983,1987
+631,610,"Hans Abate","Head of Portfolio Management","Miami/Fort Lauderdale Area",NULL,NULL,NULL
+632,611,"Grace Minorca","Operations Associate","Stamford, Connecticut",MS,1999,2003
+633,612,"Kaijie (Kenneth) Zhu","Investment Professional",NULL,"BachelorÃ¢â‚¬â„¢s Degree",2013,2017
+634,613,"Ed Jeans","Equity Analyst",NULL,"Master of Philosophy - MPhil",2017,2018
+636,614,"Michael Dettmer",Associate,"San Francisco Bay Area","Bachelor of Arts (BA)",2012,2016
+637,615,"Piotr TrzciÃ…â€žski, MRICS","Director, Head of Investment Poland","Warsaw, Masovian District, Poland",NULL,NULL,NULL
+638,616,"Abhinav Rathee","Portfolio Manager","Copenhagen Area, Capital Region, Denmark","Wall Street Prog - Investment Banking",2006,2007
+639,617,"Eve Danbury","Company Name
+Millennium Global Investments Limited",NULL,"Bachelor of Science (BSc)",2013,2017
+640,618,"Brandt Dusthimer","Investment Analyst","Austin, Texas Area",Bachelors,2003,2007
+641,619,"Lhoucine ADERDOR","Senior Portfolio Manager",Singapore,"Postgraduate diploma",2001,2002
+642,620,"Michael Pfeiffer",Fondsmanager,Linz,NULL,NULL,NULL
+643,621,"Rajiv Shetty","Managing Director, SYZ Impact","Zurich, Switzerland",MBA,2006,2006
+644,622,"Aobo Guo","Growth Equity Investor","San Francisco Bay Area","Bachelor of Science - BS",2011,2016
+645,623,"Brandon Arrindell, CFA","Company Name
+Southeastern Asset Management",NULL,B.A.,2004,2008
+646,624,"Arthur Ntale, CFA","Assistant Fund Manager",NULL,NULL,NULL,NULL
+647,625,"Kevin Hwang","Senior Analyst","New York, New York",NULL,NULL,NULL
+648,626,"Tony Rosenthal","Portfolio Manager",NULL,"bachelor of arts",1984,1988
+649,627,"William Hench","Portfolio Manager, Principal","New York","Bachelor of Business Administration (BBA)",1982,1986
+650,628,"Liwei Yin","Senior Quantitative Analyst",NULL,NULL,NULL,NULL
+651,698,"Ross Kelley","Investment Banking Associate","Greater New York City Area",NULL,NULL,NULL
+651,629,"Ross Kelley","Investment Banking Associate","Greater New York City Area",NULL,NULL,NULL
+652,630,"Matt Meissner","Vice President","Miami/Fort Lauderdale Area",NULL,NULL,NULL
+653,631,"Loraine Arde","Development Analyst, Retail","Sydney, Australia",NULL,NULL,NULL
+654,632,"Hartmuth Sude","Private & Institutional Banking",NULL,"Diplom-Betriebswirt (FH)",1999,2003
+655,633,"Leopold Meiler","Real Estate Debt Analyst","Paris, ÃƒÅ½le-de-France, France","Master of Science - MS",2018,2019
+656,634,"Scott Warner","Managing Director",NULL,Masters,2004,2006
+657,635,"Nhi Nguyen","Recruitment Sourcing Executive","Ho Chi Minh City, Vietnam",NULL,NULL,NULL
+658,636,"Ambrose Faulks","Fund Manager","London, United Kingdom",Masters,2000,2005
+659,637,"Paula Agnelli","Director, Residential Property Management, Eastern Canada","Toronto, Canada Area","Bachelor of Arts (B.A.)",1984,1988
+660,638,"Siva Natarajan","Investment Analyst","Winter Park, Florida",NULL,NULL,NULL
+661,639,"John Wills CFA, CPA","Managing Director","Morristown, NJ",BS,1988,1991
+662,640,"Lorenzo Signorini","Director - Private Debt","Milan Area, Italy",2001,1995,2001
+663,641,"Eduardo Serrano Rueda","Head of IFRS17 Actuarial Methodology and Implementation","Barcelona Area, Spain","Actuarial and Financial Sciences - Master's Degree",2006,2008
+664,642,"Xingyi Shi, CFA, FRM, CAIA","Senior Portfolio Manager Equities","Frankfurt am Main","Dilpom - Volkswirtin",1997,2002
+665,643,"Glenn A. Weiner, CFA","Managing Director, Head of Consultant Relations, Americas","New York","Series 3, 7, 63",2009,2009
+666,644,"Selim Moknine","Senior Project Management",NULL,"MasterÃ¢â‚¬â„¢s Degree",2012,2014
+667,645,"Lucila Guelfi, CWMA","Relationship Manager","ZÃƒÂ¼rich Area, Switzerland",Claritas,2013,2013
+668,646,"Charles Biderman","Portfolio Manager, Global Emerging Markets","Paris, ÃƒÅ½le-de-France, France","Master's degree",2002,2006
+669,647,"Mark Weiller","Partner, Head of Distribution & Product Management","New York, United States",NULL,NULL,NULL
+670,648,"Thibaud Colin","Asset Manager","RÃƒÂ©gion de Paris, France",IMPI,2009,2010
+671,649,"William O'Connell","Principal / Associate Director","Greater New York City Area",NULL,NULL,NULL
+672,650,"Terrie Liu, CFA","Principal - Investor Relations","Greater New York City Area",B.A.,2005,2009
+673,651,"Yanyan Xia","Company Name
+HFT Investments",NULL,"Master of Science (M.S.)",2009,2012
+674,652,"Jonathan Menor","Senior Equity Research Analyst",NULL,Bachelors,1992,1997
+675,653,"Fabrice Paretti","Chief Marketing and Communication Officer","Paris Area, France","Master's degree",1986,1991
+676,654,"Stefano Toffano, CFA","Senior Fund Manager","Amsterdam Area, Netherlands",NULL,NULL,NULL
+677,655,"jonathan lewis","AVP, Equity Trading",NULL,NULL,NULL,NULL
+678,656,"Colin Ramkissoon","Portfolio Manager, Global Equities","Toronto, Canada",NULL,NULL,NULL
+679,657,"Caroline Randall","Portfolio Analyst","Boston, Massachusetts, United States",NULL,NULL,NULL
+680,658,"Silvia Uggeri","Project Manager","San Giuliano Milanese",Laurea,1998,2003
+681,659,"Peter Sackmann, CFA",Director,NULL,NULL,NULL,NULL
+682,660,"William Rhodes","Managing Director","Stockbridge, Georgia",NULL,NULL,NULL
+683,661,"Alain Gallois","Company Name
+Natixis",NULL,Graduation,1989,1991
+684,662,"Jan Aabling","Head of BizTech Wealth, SVP",NULL,NULL,NULL,NULL
+685,663,"Vesna Macura","marketing manager",NULL,NULL,NULL,NULL
+686,664,"Maria Urbano Zumalacarregui","Vice President Portfolio Management","Miami, Florida","MasterÃ¢â‚¬â„¢s Degree",2014,2015
+687,665,"Rami Bidshahri","MBA Associate | Private Equity","New York, United States","Master of Business Administration - MBA",2019,2021
+688,666,"Vidit Ghai","Chief Strategy Officer (Key Initiatives & Partnerships)","Delhi / NCR","Master of Business Administration (M.B.A.)",2005,2007
+689,667,"Johannes Ruhl, CFA","Senior Vice President","MÃƒÂ¼nchen, Bayern, Deutschland","Master of Science - MS",2012,2014
+690,668,"Marta Echaniz Guibert",RRHH,NULL,"Grado en AdministraciÃƒÂ³n y DirecciÃƒÂ³n de Empresas",2009,2013
+691,669,"Mariela Serkyova","Company Name
+SPF Beheer",NULL,"Master of Science",2010,2012
+692,670,"Horace Whitworth","Portfolio Manager",NULL,NULL,NULL,NULL
+693,671,"Michael Sebesta, CFA","Managing Director, Head of Institutional Client Service","Greater Atlanta Area",NULL,NULL,NULL
+694,672,"Mike Byrne","Company Name
+AEW",NULL,BA,1997,2001
+695,673,"Anthony Robertson","Company Name
+Cheyne Capital",NULL,"B.com (Honours) H.Dip Tax",1990,1992
+696,674,"Bich Van Ha","Investment Manager",NULL,NULL,NULL,NULL
+697,675,"Kirsti Ring Jensen","Company Name
+Jyske Bank",NULL,"Cand Merc",2000,2006
+699,676,"Nick Coogan","Investment Analyst","London, England, United Kingdom",NULL,NULL,NULL
+700,677,"Kelli Keith","Private Equity","New York, New York","Bachelor of Science (B.S.)",2011,2015
+701,678,"Zach Hutchings","Client Service Associate","Houston, Texas, United States",NULL,NULL,NULL
+702,679,"Shruti Khetan","Investment Analyst","Greater Chicago Area","Master in Finance",2016,2018
+703,680,"Eduardo Cruz","Head of Private Banking",NULL,"Executive MBA",2001,2002
+704,681,"Andrew Ewert","Equity Analyst",NULL,MBA,2005,2007
+705,682,"Nazanin Soltan","Private Equity Intern","Hong Kong SAR","Bachelor's degree",2019,2023
+706,683,"James Dudgeon","US Fund Analyst","London, United Kingdom",NULL,NULL,NULL
+707,684,"Paul Danes","Company Name
+Martin Currie",NULL,"Master of Arts (M.A.)",1990,1993
+708,685,"A.J. Galainena",Associate,NULL,"Bachelor's Degree",2010,2014
+709,686,"Lauren Post, ACA","Investment Analyst",NULL,ACA,2016,2019
+710,687,"Mattias Kolm","Portfolio Manager","Copenhagen Area, Denmark","Master ScBA",1997,2001
+711,688,"Simon Lack","Company Name
+Millennium Global Investments Limited",NULL,"Bachelor's Degree",2011,2015
+712,689,"Chase Frock, CFA","Company Name
+Yacktman Asset Management",NULL,BBA,2003,2007
+713,690,"Matthieu Genessay","Client Portfolio Manager, H2O AM LLP","London, Royaume-Uni","Master in Management",2007,2011
+714,691,"Gernot Schrotter","Company Name
+KEPLER-FONDS Kapitalanlagegesellschaft m.b.H.",NULL,NULL,NULL,NULL
+715,692,"Sherban Tautu","Head of Global Investment Advisory","Geneva Area, Switzerland",MBA,1999,2000
+716,693,"Lila Preston","Head of Growth Equity","San Francisco Bay Area",NULL,NULL,NULL
+717,694,"Wade Donels","Senior Trader","Greater Memphis Area","Bachelor of Arts (B.A.)",1991,1994
+718,695,"Guy Davidson","Company Name
+Veritas Asset Management LLP","United Kingdom",NULL,NULL,NULL
+719,696,"Dennis Chao","Company Name
+Glenview Capital",NULL,"Bachelor of Science (B.Sc.)",2008,2012
+720,697,"Michael Connors","Portfolio Manager, Director of Portfolio Analytics",NULL,NULL,NULL,NULL
+721,698,"Ross Kelley","Investment Banking Associate","Greater New York City Area",NULL,NULL,NULL
+721,629,"Ross Kelley","Investment Banking Associate","Greater New York City Area",NULL,NULL,NULL
+722,699,"Grace Miller","Vice President","Greater New York City Area","Bachelor of Arts (B.A.)",2011,2013
+723,700,"Chris Moses Zahar","Company Name
+The GPT Group",NULL,"Bachelor of Property Economics",2002,2005
+724,701,"Mag. Alexander Tsitsovits","Managing Director",NULL,Magister,1988,1995
+725,702,"Alexandre Genneret","Investment Analyst - Leveraged Loans & Private Debt","Paris Area, France","Master in Management",2014,2018
+726,703,"Jeff Willardson, CFA","Managing Director",NULL,"Master of Business Administration (MBA)",2005,2007
+727,704,"Mette Harbo Bossow","Company Name
+Sparinvest",Denmark,"MSc Finance",1998,2001
+728,705,"Vito Donvito","Company Name
+ARCA Fondi SGR",NULL,"Corso di Master Universitario di 2Ã‚Â° livello-CMU2",2015,2016
+729,706,"Hyukrhin Kwon","Manager, Investment Banking Department","Jung-gu, Seoul, Korea",BA,1997,2000
+730,707,"Jack Holmes, CFA","Fund Manager",NULL,Economics,2008,2012
+731,708,"Hagerman Brian","Vice President Asset Management",NULL,NULL,NULL,NULL
+732,709,"Todd Howard","Portfolio Manager","Greater Philadelphia Area","Master of Business Administration (M.B.A.)",1999,2002
+733,710,"Ferran Bolet ArbÃƒÂ³s","Investment Project Manager","Barcelona Area, Spain","Postgrado en InnovaciÃƒÂ³n",2019,2020
+734,711,"Joaquin Valdez","Portfolio Analyst","New York, New York, United States","Bachelor of Business Administration - BBA",2016,2020
+735,712,"Volker Wedel","managing director",NULL,NULL,NULL,NULL
+736,713,"Barone Daniele","Senior Portfolio Manager","ZÃƒÂ¼rich Area, Switzerland","Swiss Federal Certified Wealth Manager",2004,2004
+736,578,"Barone Daniele","Senior Portfolio Manager","ZÃƒÂ¼rich Area, Switzerland","Swiss Federal Certified Wealth Manager",2004,2004
+737,714,"Swati Madhabushi, CFA","Analyst/Portfolio Manager",Singapore,"Post Graduate Degree in Management",2010,2012
+738,715,"Kevin Beckley","Finance Department","31 W. 52nd Street 16th Floor New York, NY 10019",NULL,NULL,NULL
+739,716,"Cassie Cicalis","Acquisitions Analyst","Boston, Massachusetts, United States","Bachelor's degree",2016,2020
+740,717,"Matthew Lerner","Company Name
+Intermediate Capital Group (ICG)","New York, NY","Bachelor of Arts (B.A.)",2009,2013
+741,718,"Casper Novod-Knudsen","Company Name
+Nykredit",NULL,"Master's degree",2014,2017
+742,719,"Nikesh Mistry","Strategy Engineer, Investment Management Team","London, United Kingdom","Master of Science (MSci)",2013,2017
+743,720,"Alexander Rietz","Portfolio Manager / Infrastructure","Munich Area, Germany",NULL,NULL,NULL
+744,721,"Nihar R. Panda","Associate Director, Trading","pasadena, ca",MFE,2009,2010
+745,722,"JosÃƒÂ© Manuel Castro","Company Name
+Mirabaud Group",NULL,NULL,NULL,NULL
+746,723,"Edouard Laurencin","Fund Analyst",NULL,"Master's Degree",2002,2003
